@@ -14,7 +14,11 @@ This list estimates how often each **meaning (sense)** of the 2,500 most frequen
 | `data/inventories.json` | Sense inventory per lemma\|POS, derived from Wiktionary |
 | `data/lemma_counts_top20k.json` | Lemma\|POS counts from the sample corpus |
 | `data/lemmas_2500.json` | The 2,500 lemma\|POS keys covered |
-| `data/spotcheck.json` | 100-item agreement check |
+| `data/spotcheck.json` | 100-item check of the sense tags |
+| `data/spotcheck_mx.json` | 50-item check of the Mexican flags |
+| `data/wikt_region_hints.json` | Wiktionary senses labelled only for Spain or other non-Mexican regions, per lemma |
+| `data/corpus_signal.json` | Weak corpus signal: .mx news vs other contexts |
+| `data/mx_batch_cost_log.json` | Batch jobs and cost for the Mexican flags |
 | `data/batch_cost_log.json` | OpenAI Batch API jobs and actual cost |
 | `scripts/` | Full pipeline, steps 01–05 |
 | `DATASHEET.md` | Datasheet for the dataset |
@@ -34,7 +38,10 @@ This list estimates how often each **meaning (sense)** of the 2,500 most frequen
 | `lemma_per_million` | Lemma frequency in the sample corpus, scaled by the share of contexts that really were this lemma |
 | `rank_min`, `rank_max` | Plausible rank band from CI overlap |
 | `rank_safe` | `true` if the sense's lower-bound frequency exceeds the highest frequency of any lemma not in the list (see "Safe cutoff") |
-| `mexico` | `true` if Wiktionary marks the sense as Mexican |
+| `mx_status` | `common` / `uncommon` / `not_used` in Mexico (LLM judgement; see "Mexican usage flags"). Blank for 1 row (`pelear|VERB|6`, where the model returned no answer) |
+| `non_mexican` | `true` if `mx_status` is `uncommon` or `not_used`: a sense an ordinary Mexican speaker would not normally use |
+| `mx_equivalent` | Usual Mexican equivalent when flagged (e.g. *coger* "to take" → *tomar, agarrar*; *piso* "flat" → *departamento*) |
+| `mx_note` | Short model rationale (≤12 words, Spanish or English) |
 | `method` | `llm` (tagged by the model) or `single-sense` (the lemma had one usable Wiktionary sense, so share = 1 without tagging) |
 | `example_1`, `example_2` | Short snippets (about ±60 characters) with the target marked `[[...]]` |
 
@@ -54,7 +61,7 @@ This list estimates how often each **meaning (sense)** of the 2,500 most frequen
 3. **Sense inventory.** From kaikki.org's Wiktionary extract:
    - Up to 8 senses per lemma|POS, in Wiktionary order.
    - Dropped: obsolete, archaic, rare, dated, and form-of senses, plus senses tagged *only* with a non-Mexican region.
-   - Mexico-tagged senses were always kept.
+   - Mexico-tagged senses were always kept. (Spain-only senses were excluded here; see "Mexican usage flags".)
    - Every prompt also offered "other / idiom" and "not this word".
 4. **Tagging.**
    - 25 random contexts per lemma, 10 contexts per request.
@@ -66,6 +73,35 @@ This list estimates how often each **meaning (sense)** of the 2,500 most frequen
    - Senses with zero hits are omitted.
    - Estimated frequency = lemma frequency × share.
    - All senses ranked globally.
+
+## Mexican usage flags
+Most senses are shared across Spanish. The `non_mexican` flag marks senses an ordinary educated speaker in Mexico would not normally use. It replaces v0.1's sparse `mexico` column.
+
+1. **Wiktionary regional labels.**
+   - Senses labelled only for Spain or other non-Mexican regions had already been left out of the inventory in step 3.
+   - Those senses are collected per lemma in `wikt_region_hints.json`; 177 lemmas have some, e.g. *piso* "flat, apartment" [Spain].
+   - They were passed to the model as hints, mainly so it could judge `other` rows. A Spain-only sense used in a context gets tagged `other`, e.g. *piso* = apartment.
+2. **LLM classification.**
+   - Every sense row (6,214) was classified with `gpt-5.6-luna` (Batch API, reasoning low, 25 rows per request).
+   - The model saw the lemma, POS, gloss, one example and any regional hints.
+   - Labels: `common`, `uncommon` (understood but rare or marked as foreign/Spain-only, e.g. *vuestro*, *chico* "lad") or `not_used` (absent or misleading/vulgar, e.g. *coger* "to take").
+   - Cost: US$0.17.
+3. **Corpus signal** (`corpus_signal.json`).
+   - Compared sense hits in .mx news contexts with all other contexts.
+   - With 25 contexts per lemma this is dominated by genre differences (.mx contexts are all news). It is published for reference but **not** used in the flags.
+
+**Results:** 5,673 common, 514 uncommon, 26 not_used, 1 missing; `non_mexican = true` for 540 rows.
+
+**Spot-check (50 items):**
+- **Who and how:** the AI agent checked the flags; it is not a native Mexican speaker. The sample was 14 known cases (*coger*, *piso*, *coche*, *carro*, *conducir*, *tío*, *vuestro*, *usted*, …), 18 random flagged rows and 18 random unflagged rows.
+- **Agreement:** **48/50 (96%).**
+- **Misses:** *cañón* "projector" was marked not_used, but it is common in Mexico. *conducir* "to drive" was marked common, but *manejar* is the everyday word; this one is borderline because *licencia de conducir* is standard.
+
+**Caveats:**
+- `uncommon` mixes truly regional (Spain-only) senses with merely literary or archaic ones (*hallar*, *rostro*, *tras*). Read `mx_note` to tell them apart.
+- Some judgements follow the example snippet rather than the gloss.
+- Senses Wiktionary marks only for Spain (*piso* = flat, *móvil* = phone) are not separate rows; they sit inside `other`.
+- Spain-only lemmas with no general sense (*ordenador*, *zumo*, *vosotros*) are absent from the list entirely.
 
 ## Safe cutoff (how far the ranking is provably complete)
 No sense can be more frequent than its lemma. The most frequent lemma **not** included (with Wiktionary senses) is *campana / oponer / docena* at **24.8 per million**. A sense whose estimated frequency exceeds that cannot be outranked by any sense left out of the list.
@@ -92,7 +128,7 @@ No sense can be more frequent than its lemma. The most frequent lemma **not** in
   - Fiction is public-domain, mostly 19th–early 20th century and often from Spain, with archaic spelling.
   - Subtitles come only from the earlier part of the OPUS file and include translated dialogue.
   - News is from 2023 only. It is weighted toward Mexico but is pan-Hispanic.
-  - Only 25 senses carry a Mexican flag; Wiktionary's regional tagging is sparse.
+  - Mexican-usage flags are LLM judgements (see "Mexican usage flags").
 - **Example snippets** are kept very short. See Licenses.
 
 ## Licenses and sources
@@ -100,7 +136,7 @@ No sense can be more frequent than its lemma. The most frequent lemma **not** in
 - **OpenSubtitles (OPUS):** provided for research. **No subtitle text is redistributed beyond short (~120-character) example snippets**; only derived counts are released. Do not add longer subtitle excerpts.
 - **CC-NEWS / Common Crawl:** subject to the Common Crawl Terms of Use. Only counts and short snippets are included.
 - **Project Gutenberg:** public domain in the US.
-- **Tags:** generated with OpenAI `gpt-5.6-luna`.
+- **Tags and Mexican flags:** generated with OpenAI `gpt-5.6-luna`. Total cost US$1.24: $1.06 for sense tags, $0.17 for Mexican flags.
 - **Code** (`scripts/`): MIT.
 
 ## Reproducing and scaling

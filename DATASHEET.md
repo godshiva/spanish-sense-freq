@@ -4,11 +4,11 @@
 ## Motivation
 - **Purpose:** to order a Spanish curriculum by the most common *meanings*, not just the most common words. Mexican Spanish is preferred.
 - **Creator:** Luc Taylor. The pipeline was run with an AI agent on 2026-10-16.
-- **Funding:** none. The OpenAI tagging cost was US$1.06.
+- **Funding:** none. OpenAI cost was US$1.06 for sense tags plus US$0.17 for Mexican-usage flags.
 
 ## Composition
 - **Instances:** 6,214 sense rows covering 2,500 Spanish lemma|POS keys.
-- **Per row:** gloss, share, 95% CI, estimated frequency per million, rank band, `rank_safe` flag, Mexico flag, and up to 2 short snippets.
+- **Per row:** gloss, share, 95% CI, estimated frequency per million, rank band, `rank_safe` flag, Mexican-usage fields (`non_mexican`, `mx_status`, `mx_equivalent`, `mx_note`), and up to 2 short snippets.
 - **Sampling:** each lemma was tagged on 25 random contexts drawn from a 5.8M-token stratified sample: 50% subtitles, 25% news, 25% fiction. This is a sample, not exhaustive counts.
 - **Excluded data:** senses with zero hits are omitted. Lemmas with no matching Wiktionary entry were skipped; these were mostly lemmatiser errors and archaic spellings.
 - **Missing labels:** none of the 5,103 requests failed.
@@ -19,6 +19,7 @@
 2. Lemmas came from spaCy `es_core_news_md`.
 3. Senses came from Wiktionary via kaikki.org, with ≤8 senses per lemma.
 4. `gpt-5.6-luna` (reasoning low) tagged the contexts through the OpenAI Batch API.
+5. The same model classified each sense as common, uncommon or not_used in Mexico, with Wiktionary regional labels as hints. A 50-item agent spot-check agreed 96%.
 
 ## Preprocessing
 - Spanish detection was by language field (news) and a stopword ratio (books).
@@ -34,6 +35,7 @@
 ## Known limitations
 - Wiktionary sense granularity is uneven.
 - Function-word inventories are poor (e.g. *el* vs *la*; clitics lemmatised to *él*).
+- Mexican flags are LLM judgements. `uncommon` mixes Spain-only and literary senses. Spain-only lemmas such as *ordenador* and *vosotros* are absent.
 - Fiction is archaic and Spain-heavy. Subtitles include translated films.
 - n = 25 gives wide CIs.
 - The single spot-check (96/100) was done by the AI agent on high-frequency lemmas only. Pilot accuracy against agent gold labels was 86–88%.

@@ -1,0 +1,18 @@
+{
+ "done": 249,
+ "spent": 0.17221100000000003,
+ "chunks": [
+  {
+   "batch": "batch_6ad2febc63fc81908870a6a0fb962dea",
+   "n": 125,
+   "cost": 0.06954850000000004,
+   "status": "completed"
+  },
+  {
+   "batch": "batch_6ad3000a6a188190884cacc9f6ec8e8f",
+   "n": 124,
+   "cost": 0.10266249999999999,
+   "status": "completed"
+  }
+ ]
+}

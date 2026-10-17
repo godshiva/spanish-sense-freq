@@ -8,5 +8,6 @@ Run in order from a scratch `work/` directory:
 | 04 | `04_tag_batch.py build` | Writes requests.jsonl |
 | 04 | `04_tag_batch.py run CHUNK CAP_USD [MAX_CHUNKS]` | Runs OpenAI Batch API jobs under a hard cost cap; resumable via state.json |
 | 05 | `05_analyze.py` | Computes shares, CIs, ranks, and safe cutoff, and writes the CSV/JSON |
+| 06 | `06_mexico_flags.py hints \| build \| run CAP_USD [CHUNK] \| merge` | Adds the Mexican-usage flags |
 
 The selection step between 03 and 04 (first N candidate keys that have senses) was done inline; see the main README.

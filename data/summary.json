@@ -8,5 +8,14 @@
  "safe_cutoff_point": 2878,
  "safe_cutoff_lower_ci": 581,
  "median_rank_band_top100": 60,
- "median_rank_band_all": 3015
+ "median_rank_band_all": 3015,
+ "mx_status_counts": {
+  "common": 5673,
+  "uncommon": 514,
+  "not_used": 26,
+  "missing": 1
+ },
+ "non_mexican_true": 540,
+ "mx_spotcheck_agreement": 0.96,
+ "mx_flag_cost_usd": 0.17221100000000003
 }

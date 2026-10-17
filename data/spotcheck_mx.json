@@ -1,0 +1,258 @@
+{
+ "agreement": 0.96,
+ "n": 50,
+ "design": "14 known/target cases + 18 random flagged + 18 random unflagged",
+ "annotator": "Grok Bot agent (not a native Mexican speaker or human expert)",
+ "items": [
+  {
+   "sense_id": "vuestro|DET|1",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "coche|NOUN|1",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "chico|NOUN|2",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "provincia|NOUN|1",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "coger|VERB|1",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "conducir|VERB|1",
+   "agree": false,
+   "note": "uncommon in everyday speech for 'drive' (manejar), though 'licencia de conducir' is standard - borderline"
+  },
+  {
+   "sense_id": "usted|PRON|2",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "coche|NOUN|2",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "carro|NOUN|1",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "coger|VERB|4",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "carro|NOUN|2",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "piso|NOUN|other",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "tío|NOUN|2",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "coger|VERB|3",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "tarea|NOUN|other",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "calle|NOUN|other",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "sesión|NOUN|2",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "familiar|NOUN|other",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "mirar|VERB|4",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "puta|NOUN|other",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "cañón|NOUN|4",
+   "agree": false,
+   "note": "common: 'cañón' = projector is widely used in Mexico"
+  },
+  {
+   "sense_id": "sabor|NOUN|other",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "nacional|ADJ|other",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "labor|NOUN|4",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "asistencia|NOUN|other",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "bastante|DET|3",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "paseo|NOUN|other",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "jornada|NOUN|3",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "tiro|NOUN|other",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "rico|ADJ|2",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "gasto|NOUN|other",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "ayuda|NOUN|2",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "aplicación|NOUN|4",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "película|NOUN|2",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "necesidad|NOUN|1",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "director|NOUN|4",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "quien|PRON|2",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "adquirir|VERB|1",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "decir|VERB|4",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "confesar|VERB|1",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "demasiado|ADV|3",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "blanco|NOUN|other",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "bajar|VERB|4",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "domicilio|NOUN|2",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "desesperado|ADJ|1",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "apoyar|VERB|1",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "seguro|NOUN|other",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "publicidad|NOUN|1",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "demanda|NOUN|1",
+   "agree": true,
+   "note": ""
+  },
+  {
+   "sense_id": "capaz|ADJ|1",
+   "agree": true,
+   "note": ""
+  }
+ ]
+}
