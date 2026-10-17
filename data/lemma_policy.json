@@ -1,0 +1,601 @@
+{
+ "_doc": "Headword policy applied by scripts/02_lemmatize_sample.py BEFORE Wiktionary-based repair. Gender/number inflections share a headword (la/los/las -> el, linda -> lindo); distinct words get their own headword even where spaCy or Wiktionary treat them as forms of another (DLE has separate entries for muy and tan; object/prepositional pronouns and neuter demonstratives are separate words for learners). Accented demonstratives and sólo are merged into the RAE-2010 spellings. Each rule: surface (lower-case) + spaCy POS list -> lemma|POS. A rule with key null drops the token (non-Spanish noise).",
+ "pos_map": {
+  "AUX": "VERB",
+  "PART": "ADV"
+ },
+ "rules": [
+  {
+   "surface": [
+    "muy"
+   ],
+   "spacy_pos": [
+    "ADV"
+   ],
+   "key": "muy|ADV",
+   "why": "spaCy and Wiktionary treat muy as an apocope of mucho; DLE and learners treat it as its own word"
+  },
+  {
+   "surface": [
+    "tan"
+   ],
+   "spacy_pos": [
+    "ADV"
+   ],
+   "key": "tan|ADV",
+   "why": "apocope of tanto in spaCy; separate DLE entry"
+  },
+  {
+   "surface": [
+    "sólo"
+   ],
+   "spacy_pos": [
+    "ADV",
+    "ADJ"
+   ],
+   "key": "solo|ADV",
+   "why": "accent variant; RAE 2010 spelling solo"
+  },
+  {
+   "surface": [
+    "me"
+   ],
+   "spacy_pos": [
+    "PRON",
+    "PROPN"
+   ],
+   "key": "me|PRON",
+   "why": "object pronoun merged into yo by spaCy"
+  },
+  {
+   "surface": [
+    "te"
+   ],
+   "spacy_pos": [
+    "PRON",
+    "PROPN"
+   ],
+   "key": "te|PRON",
+   "why": "object pronoun merged into tú"
+  },
+  {
+   "surface": [
+    "se"
+   ],
+   "spacy_pos": [
+    "PRON",
+    "PROPN"
+   ],
+   "key": "se|PRON",
+   "why": "merged into él by spaCy"
+  },
+  {
+   "surface": [
+    "nos"
+   ],
+   "spacy_pos": [
+    "PRON",
+    "PROPN"
+   ],
+   "key": "nos|PRON",
+   "why": "merged into yo by spaCy"
+  },
+  {
+   "surface": [
+    "os"
+   ],
+   "spacy_pos": [
+    "PRON",
+    "PROPN"
+   ],
+   "key": "os|PRON",
+   "why": "merged into tú (Spain-only usage; kept as a closed-class word, flagged non-Mexican)"
+  },
+  {
+   "surface": [
+    "mí"
+   ],
+   "spacy_pos": [
+    "PRON",
+    "PROPN"
+   ],
+   "key": "mí|PRON",
+   "why": "prepositional pronoun merged into yo"
+  },
+  {
+   "surface": [
+    "ti",
+    "tí"
+   ],
+   "spacy_pos": [
+    "PRON",
+    "PROPN"
+   ],
+   "key": "ti|PRON",
+   "why": "prepositional pronoun merged into tú"
+  },
+  {
+   "surface": [
+    "sí"
+   ],
+   "spacy_pos": [
+    "PRON",
+    "PROPN"
+   ],
+   "key": "sí|PRON",
+   "why": "reflexive prepositional pronoun merged into él"
+  },
+  {
+   "surface": [
+    "conmigo"
+   ],
+   "spacy_pos": [
+    "PRON",
+    "PROPN",
+    "ADV",
+    "NOUN"
+   ],
+   "key": "conmigo|PRON",
+   "why": "merged into yo"
+  },
+  {
+   "surface": [
+    "contigo"
+   ],
+   "spacy_pos": [
+    "PRON",
+    "PROPN",
+    "ADV",
+    "NOUN"
+   ],
+   "key": "contigo|PRON",
+   "why": "merged into tú"
+  },
+  {
+   "surface": [
+    "consigo"
+   ],
+   "spacy_pos": [
+    "PRON",
+    "PROPN",
+    "ADV",
+    "NOUN"
+   ],
+   "key": "consigo|PRON",
+   "why": "merged into él"
+  },
+  {
+   "surface": [
+    "lo",
+    "la",
+    "los",
+    "las"
+   ],
+   "spacy_pos": [
+    "PRON",
+    "PROPN"
+   ],
+   "key": "lo|PRON",
+   "why": "direct-object clitic merged into él/ella"
+  },
+  {
+   "surface": [
+    "le",
+    "les"
+   ],
+   "spacy_pos": [
+    "PRON",
+    "PROPN"
+   ],
+   "key": "le|PRON",
+   "why": "indirect-object clitic merged into él"
+  },
+  {
+   "surface": [
+    "ella",
+    "ellas"
+   ],
+   "spacy_pos": [
+    "PRON",
+    "PROPN"
+   ],
+   "key": "ella|PRON",
+   "why": "merged into él by spaCy; Wiktionary lemma ella"
+  },
+  {
+   "surface": [
+    "ello"
+   ],
+   "spacy_pos": [
+    "PRON",
+    "PROPN"
+   ],
+   "key": "ello|PRON",
+   "why": "neuter pronoun merged into él"
+  },
+  {
+   "surface": [
+    "nosotros",
+    "nosotras"
+   ],
+   "spacy_pos": [
+    "PRON",
+    "PROPN",
+    "NOUN",
+    "ADJ",
+    "INTJ"
+   ],
+   "key": "nosotros|PRON",
+   "why": "merged into yo or mis-tagged"
+  },
+  {
+   "surface": [
+    "vosotros",
+    "vosotras"
+   ],
+   "spacy_pos": [
+    "PRON",
+    "PROPN",
+    "NOUN",
+    "ADJ",
+    "DET"
+   ],
+   "key": "vosotros|PRON",
+   "why": "merged into tú or mis-tagged (Spain-only usage)"
+  },
+  {
+   "surface": [
+    "ustedes"
+   ],
+   "spacy_pos": [
+    "PRON",
+    "PROPN",
+    "INTJ",
+    "NOUN"
+   ],
+   "key": "ustedes|PRON",
+   "why": "merged into tú by spaCy"
+  },
+  {
+   "surface": [
+    "esto"
+   ],
+   "spacy_pos": [
+    "PRON",
+    "NOUN",
+    "ADJ",
+    "PROPN"
+   ],
+   "key": "esto|PRON",
+   "why": "neuter demonstrative merged into este"
+  },
+  {
+   "surface": [
+    "eso"
+   ],
+   "spacy_pos": [
+    "PRON",
+    "NOUN",
+    "ADJ",
+    "PROPN"
+   ],
+   "key": "eso|PRON",
+   "why": "neuter demonstrative merged into ese"
+  },
+  {
+   "surface": [
+    "aquello"
+   ],
+   "spacy_pos": [
+    "PRON",
+    "NOUN",
+    "PROPN"
+   ],
+   "key": "aquello|PRON",
+   "why": "neuter demonstrative merged into aquel"
+  },
+  {
+   "surface": [
+    "éste",
+    "ésta",
+    "éstos",
+    "éstas"
+   ],
+   "spacy_pos": [
+    "PRON",
+    "DET",
+    "PROPN"
+   ],
+   "key": "este|PRON",
+   "why": "accent variant; RAE 2010 spelling"
+  },
+  {
+   "surface": [
+    "ése",
+    "ésa",
+    "ésos",
+    "ésas"
+   ],
+   "spacy_pos": [
+    "PRON",
+    "DET",
+    "PROPN"
+   ],
+   "key": "ese|PRON",
+   "why": "accent variant; RAE 2010 spelling"
+  },
+  {
+   "surface": [
+    "aquél",
+    "aquélla",
+    "aquéllos",
+    "aquéllas"
+   ],
+   "spacy_pos": [
+    "PRON",
+    "DET",
+    "PROPN"
+   ],
+   "key": "aquel|PRON",
+   "why": "accent variant; RAE 2010 spelling"
+  },
+  {
+   "surface": [
+    "mi",
+    "mis"
+   ],
+   "spacy_pos": [
+    "DET",
+    "PROPN"
+   ],
+   "key": "mi|DET",
+   "why": "Wiktionary treats mi as an apocope of mío; learners and v0.2 keep mi"
+  },
+  {
+   "surface": [
+    "tu",
+    "tus"
+   ],
+   "spacy_pos": [
+    "DET",
+    "PROPN"
+   ],
+   "key": "tu|DET",
+   "why": "apocope of tuyo in Wiktionary; kept as its own word"
+  },
+  {
+   "surface": [
+    "su",
+    "sus"
+   ],
+   "spacy_pos": [
+    "DET",
+    "PROPN"
+   ],
+   "key": "su|DET",
+   "why": "apocope of suyo in Wiktionary; kept as its own word"
+  },
+  {
+   "surface": [
+    "peor",
+    "peores"
+   ],
+   "spacy_pos": [
+    "ADJ"
+   ],
+   "key": "peor|ADJ",
+   "why": "Wiktionary lists peor as a comparative form of malo; learners treat it as a word"
+  },
+  {
+   "surface": [
+    "mejor",
+    "mejores"
+   ],
+   "spacy_pos": [
+    "ADJ"
+   ],
+   "key": "mejor|ADJ",
+   "why": "comparative; kept as its own word"
+  },
+  {
+   "surface": [
+    "es"
+   ],
+   "spacy_pos": [
+    "NOUN",
+    "PROPN"
+   ],
+   "key": "ser|VERB",
+   "why": "spaCy mis-tags es as a noun; Wiktionary repair would pick the letter e"
+  },
+  {
+   "surface": [
+    "ven"
+   ],
+   "spacy_pos": [
+    "VERB",
+    "NOUN",
+    "INTJ",
+    "AUX",
+    "PROPN"
+   ],
+   "key": "venir|VERB",
+   "why": "ambiguous ven (venir imperative / ver 3pl); in this corpus overwhelmingly ¡Ven!"
+  },
+  {
+   "surface": [
+    "ves"
+   ],
+   "spacy_pos": [
+    "VERB",
+    "AUX",
+    "NOUN"
+   ],
+   "key": "ver|VERB",
+   "why": "spaCy lemma vser; Wiktionary repair picked ir"
+  },
+  {
+   "surface": [
+    "sé"
+   ],
+   "spacy_pos": [
+    "AUX",
+    "VERB"
+   ],
+   "key": "saber|VERB",
+   "why": "spaCy lemma sar/ser; sé is almost always yo sé (saber)"
+  },
+  {
+   "surface": [
+    "sabes"
+   ],
+   "spacy_pos": [
+    "PROPN",
+    "INTJ"
+   ],
+   "key": "saber|VERB",
+   "why": "sentence-initial ¿Sabes...? tagged PROPN"
+  },
+  {
+   "surface": [
+    "cuánto",
+    "cuánta",
+    "cuántos",
+    "cuántas"
+   ],
+   "spacy_pos": [
+    "DET",
+    "ADJ"
+   ],
+   "key": "cuánto|DET",
+   "why": "interrogative cuánto lost its accent in Wiktionary repair (cuanto)"
+  },
+  {
+   "surface": [
+    "cuánto",
+    "cuánta",
+    "cuántos",
+    "cuántas"
+   ],
+   "spacy_pos": [
+    "PRON"
+   ],
+   "key": "cuánto|PRON",
+   "why": "interrogative pronoun"
+  },
+  {
+   "surface": [
+    "do"
+   ],
+   "spacy_pos": [
+    "ADP",
+    "PROPN"
+   ],
+   "key": null,
+   "why": "English/Portuguese noise"
+  },
+  {
+   "surface": [
+    "del"
+   ],
+   "spacy_pos": [
+    "ADP",
+    "DET",
+    "PROPN"
+   ],
+   "key": "de|ADP",
+   "why": "contraction de+el counted under de (as in v0.2)"
+  },
+  {
+   "surface": [
+    "al"
+   ],
+   "spacy_pos": [
+    "ADP",
+    "DET",
+    "PROPN"
+   ],
+   "key": "a|ADP",
+   "why": "contraction a+el counted under a (as in v0.2)"
+  },
+  {
+   "surface": [
+    "oir"
+   ],
+   "spacy_pos": [
+    "VERB",
+    "AUX"
+   ],
+   "key": "oír|VERB",
+   "why": "unaccented spelling"
+  },
+  {
+   "surface": [
+    "había",
+    "habia"
+   ],
+   "spacy_pos": [
+    "VERB",
+    "AUX",
+    "NOUN"
+   ],
+   "key": "haber|VERB",
+   "why": "spaCy kept the inflected form as lemma"
+  },
+  {
+   "surface": [
+    "tenia"
+   ],
+   "spacy_pos": [
+    "VERB",
+    "AUX"
+   ],
+   "key": "tener|VERB",
+   "why": "unaccented tenía (Wiktionary would give tenia 'tapeworm')"
+  },
+  {
+   "surface": [
+    "te"
+   ],
+   "spacy_pos": [
+    "VERB",
+    "AUX",
+    "NOUN"
+   ],
+   "key": "te|PRON",
+   "why": "clitic mis-tagged as verb"
+  },
+  {
+   "surface": [
+    "in",
+    "or",
+    "not",
+    "io",
+    "copyright",
+    "i"
+   ],
+   "spacy_pos": [
+    "ADP",
+    "CCONJ",
+    "PRON",
+    "NOUN",
+    "PROPN",
+    "SCONJ",
+    "ADV"
+   ],
+   "key": null,
+   "why": "English/Italian/Catalan noise and Gutenberg boilerplate"
+  },
+  {
+   "surface": [
+    "señorita"
+   ],
+   "spacy_pos": [
+    "VERB",
+    "AUX"
+   ],
+   "key": "señorita|NOUN",
+   "why": "spaCy invents the verb señoritar"
+  }
+ ]
+}

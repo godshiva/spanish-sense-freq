@@ -1,0 +1,2604 @@
+{
+ "closed_class": {
+  "el": {
+   "category": "determiner",
+   "present": true,
+   "first_rank": 1,
+   "reason": null
+  },
+  "uno": {
+   "category": "determiner",
+   "present": true,
+   "first_rank": 3,
+   "reason": null
+  },
+  "este": {
+   "category": "determiner",
+   "present": true,
+   "first_rank": 22,
+   "reason": null
+  },
+  "ese": {
+   "category": "determiner",
+   "present": true,
+   "first_rank": 56,
+   "reason": null
+  },
+  "aquel": {
+   "category": "determiner",
+   "present": true,
+   "first_rank": 146,
+   "reason": null
+  },
+  "mi": {
+   "category": "determiner",
+   "present": true,
+   "first_rank": 31,
+   "reason": null
+  },
+  "tu": {
+   "category": "determiner",
+   "present": true,
+   "first_rank": 54,
+   "reason": null
+  },
+  "su": {
+   "category": "determiner",
+   "present": true,
+   "first_rank": 13,
+   "reason": null
+  },
+  "nuestro": {
+   "category": "determiner",
+   "present": true,
+   "first_rank": 96,
+   "reason": null
+  },
+  "mucho": {
+   "category": "determiner",
+   "present": true,
+   "first_rank": 163,
+   "reason": null
+  },
+  "poco": {
+   "category": "determiner",
+   "present": true,
+   "first_rank": 186,
+   "reason": null
+  },
+  "todo": {
+   "category": "determiner",
+   "present": true,
+   "first_rank": 46,
+   "reason": null
+  },
+  "otro": {
+   "category": "determiner",
+   "present": true,
+   "first_rank": 77,
+   "reason": null
+  },
+  "alguno": {
+   "category": "determiner",
+   "present": true,
+   "first_rank": 141,
+   "reason": null
+  },
+  "ninguno": {
+   "category": "determiner",
+   "present": true,
+   "first_rank": 262,
+   "reason": null
+  },
+  "cualquiera": {
+   "category": "determiner",
+   "present": true,
+   "first_rank": 359,
+   "reason": null
+  },
+  "cada": {
+   "category": "determiner",
+   "present": true,
+   "first_rank": 176,
+   "reason": null
+  },
+  "varios": {
+   "category": "determiner",
+   "present": true,
+   "first_rank": 429,
+   "reason": null
+  },
+  "demasiado": {
+   "category": "determiner",
+   "present": true,
+   "first_rank": 518,
+   "reason": null
+  },
+  "bastante": {
+   "category": "determiner",
+   "present": true,
+   "first_rank": 790,
+   "reason": null
+  },
+  "tanto": {
+   "category": "determiner",
+   "present": true,
+   "first_rank": 296,
+   "reason": null
+  },
+  "mismo": {
+   "category": "determiner",
+   "present": true,
+   "first_rank": 250,
+   "reason": null
+  },
+  "propio": {
+   "category": "determiner",
+   "present": true,
+   "first_rank": 601,
+   "reason": null
+  },
+  "cierto": {
+   "category": "determiner",
+   "present": true,
+   "first_rank": 520,
+   "reason": null
+  },
+  "tal": {
+   "category": "determiner",
+   "present": true,
+   "first_rank": 218,
+   "reason": null
+  },
+  "ambos": {
+   "category": "determiner",
+   "present": true,
+   "first_rank": 776,
+   "reason": null
+  },
+  "yo": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 38,
+   "reason": null
+  },
+  "tú": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 95,
+   "reason": null
+  },
+  "usted": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 93,
+   "reason": null
+  },
+  "él": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 88,
+   "reason": null
+  },
+  "ella": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 110,
+   "reason": null
+  },
+  "ello": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 421,
+   "reason": null
+  },
+  "nosotros": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 189,
+   "reason": null
+  },
+  "ustedes": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 419,
+   "reason": null
+  },
+  "me": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 53,
+   "reason": null
+  },
+  "te": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 69,
+   "reason": null
+  },
+  "se": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 30,
+   "reason": null
+  },
+  "lo": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 11,
+   "reason": null
+  },
+  "le": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 58,
+   "reason": null
+  },
+  "nos": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 154,
+   "reason": null
+  },
+  "mí": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 126,
+   "reason": null
+  },
+  "ti": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 155,
+   "reason": null
+  },
+  "sí": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 79,
+   "reason": null
+  },
+  "conmigo": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 315,
+   "reason": null
+  },
+  "contigo": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 513,
+   "reason": null
+  },
+  "consigo": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 2841,
+   "reason": null
+  },
+  "esto": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 72,
+   "reason": null
+  },
+  "eso": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 52,
+   "reason": null
+  },
+  "aquello": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 1710,
+   "reason": null
+  },
+  "algo": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 91,
+   "reason": null
+  },
+  "nada": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 89,
+   "reason": null
+  },
+  "alguien": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 310,
+   "reason": null
+  },
+  "nadie": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 174,
+   "reason": null
+  },
+  "quien": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 254,
+   "reason": null
+  },
+  "que": {
+   "category": "conjunction",
+   "present": true,
+   "first_rank": 10,
+   "reason": null
+  },
+  "cual": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 203,
+   "reason": null
+  },
+  "cuyo": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 430,
+   "reason": null
+  },
+  "mío": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 291,
+   "reason": null
+  },
+  "tuyo": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 773,
+   "reason": null
+  },
+  "suyo": {
+   "category": "pronoun",
+   "present": true,
+   "first_rank": 725,
+   "reason": null
+  },
+  "a": {
+   "category": "preposition",
+   "present": true,
+   "first_rank": 7,
+   "reason": null
+  },
+  "ante": {
+   "category": "preposition",
+   "present": true,
+   "first_rank": 340,
+   "reason": null
+  },
+  "bajo": {
+   "category": "preposition",
+   "present": true,
+   "first_rank": 349,
+   "reason": null
+  },
+  "con": {
+   "category": "preposition",
+   "present": true,
+   "first_rank": 18,
+   "reason": null
+  },
+  "contra": {
+   "category": "preposition",
+   "present": true,
+   "first_rank": 228,
+   "reason": null
+  },
+  "de": {
+   "category": "preposition",
+   "present": true,
+   "first_rank": 2,
+   "reason": null
+  },
+  "desde": {
+   "category": "preposition",
+   "present": true,
+   "first_rank": 162,
+   "reason": null
+  },
+  "durante": {
+   "category": "preposition",
+   "present": true,
+   "first_rank": 279,
+   "reason": null
+  },
+  "en": {
+   "category": "preposition",
+   "present": true,
+   "first_rank": 12,
+   "reason": null
+  },
+  "entre": {
+   "category": "preposition",
+   "present": true,
+   "first_rank": 200,
+   "reason": null
+  },
+  "hacia": {
+   "category": "preposition",
+   "present": true,
+   "first_rank": 284,
+   "reason": null
+  },
+  "hasta": {
+   "category": "preposition",
+   "present": true,
+   "first_rank": 157,
+   "reason": null
+  },
+  "mediante": {
+   "category": "preposition",
+   "present": true,
+   "first_rank": 1795,
+   "reason": null
+  },
+  "para": {
+   "category": "preposition",
+   "present": true,
+   "first_rank": 23,
+   "reason": null
+  },
+  "por": {
+   "category": "preposition",
+   "present": true,
+   "first_rank": 25,
+   "reason": null
+  },
+  "según": {
+   "category": "preposition",
+   "present": true,
+   "first_rank": 325,
+   "reason": null
+  },
+  "sin": {
+   "category": "preposition",
+   "present": true,
+   "first_rank": 74,
+   "reason": null
+  },
+  "sobre": {
+   "category": "preposition",
+   "present": true,
+   "first_rank": 135,
+   "reason": null
+  },
+  "tras": {
+   "category": "preposition",
+   "present": true,
+   "first_rank": 327,
+   "reason": null
+  },
+  "y": {
+   "category": "conjunction",
+   "present": true,
+   "first_rank": 9,
+   "reason": null
+  },
+  "e": {
+   "category": "conjunction",
+   "present": true,
+   "first_rank": 156,
+   "reason": null
+  },
+  "o": {
+   "category": "conjunction",
+   "present": true,
+   "first_rank": 64,
+   "reason": null
+  },
+  "u": {
+   "category": "conjunction",
+   "present": true,
+   "first_rank": 2149,
+   "reason": null
+  },
+  "ni": {
+   "category": "conjunction",
+   "present": true,
+   "first_rank": 112,
+   "reason": null
+  },
+  "pero": {
+   "category": "conjunction",
+   "present": true,
+   "first_rank": 33,
+   "reason": null
+  },
+  "sino": {
+   "category": "conjunction",
+   "present": true,
+   "first_rank": 300,
+   "reason": null
+  },
+  "porque": {
+   "category": "conjunction",
+   "present": true,
+   "first_rank": 94,
+   "reason": null
+  },
+  "aunque": {
+   "category": "conjunction",
+   "present": true,
+   "first_rank": 318,
+   "reason": null
+  },
+  "si": {
+   "category": "conjunction",
+   "present": true,
+   "first_rank": 42,
+   "reason": null
+  },
+  "como": {
+   "category": "conjunction",
+   "present": true,
+   "first_rank": 40,
+   "reason": null
+  },
+  "cuando": {
+   "category": "conjunction",
+   "present": true,
+   "first_rank": 65,
+   "reason": null
+  },
+  "mientras": {
+   "category": "conjunction",
+   "present": true,
+   "first_rank": 390,
+   "reason": null
+  },
+  "pues": {
+   "category": "conjunction",
+   "present": true,
+   "first_rank": 357,
+   "reason": null
+  },
+  "muy": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 60,
+   "reason": null
+  },
+  "más": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 57,
+   "reason": null
+  },
+  "menos": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 297,
+   "reason": null
+  },
+  "ya": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 121,
+   "reason": null
+  },
+  "también": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 90,
+   "reason": null
+  },
+  "tampoco": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 951,
+   "reason": null
+  },
+  "siempre": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 133,
+   "reason": null
+  },
+  "nunca": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 124,
+   "reason": null
+  },
+  "jamás": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 760,
+   "reason": null
+  },
+  "aún": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 271,
+   "reason": null
+  },
+  "todavía": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 386,
+   "reason": null
+  },
+  "casi": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 275,
+   "reason": null
+  },
+  "solo": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 80,
+   "reason": null
+  },
+  "bien": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 82,
+   "reason": null
+  },
+  "mal": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 599,
+   "reason": null
+  },
+  "ahora": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 87,
+   "reason": null
+  },
+  "hoy": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 201,
+   "reason": null
+  },
+  "ayer": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 629,
+   "reason": null
+  },
+  "mañana": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 368,
+   "reason": null
+  },
+  "aquí": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 50,
+   "reason": null
+  },
+  "allí": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 191,
+   "reason": null
+  },
+  "allá": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 457,
+   "reason": null
+  },
+  "acá": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 1130,
+   "reason": null
+  },
+  "ahí": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 151,
+   "reason": null
+  },
+  "entonces": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 211,
+   "reason": null
+  },
+  "luego": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 249,
+   "reason": null
+  },
+  "después": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 164,
+   "reason": null
+  },
+  "antes": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 326,
+   "reason": null
+  },
+  "tan": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 131,
+   "reason": null
+  },
+  "así": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 78,
+   "reason": null
+  },
+  "no": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 4,
+   "reason": null
+  },
+  "quizá": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 259,
+   "reason": null
+  },
+  "donde": {
+   "category": "adverb",
+   "present": true,
+   "first_rank": 118,
+   "reason": null
+  },
+  "dos": {
+   "category": "numeral",
+   "present": true,
+   "first_rank": 81,
+   "reason": null
+  },
+  "tres": {
+   "category": "numeral",
+   "present": true,
+   "first_rank": 149,
+   "reason": null
+  },
+  "cuatro": {
+   "category": "numeral",
+   "present": true,
+   "first_rank": 298,
+   "reason": null
+  },
+  "cinco": {
+   "category": "numeral",
+   "present": true,
+   "first_rank": 352,
+   "reason": null
+  },
+  "seis": {
+   "category": "numeral",
+   "present": true,
+   "first_rank": 439,
+   "reason": null
+  },
+  "siete": {
+   "category": "numeral",
+   "present": true,
+   "first_rank": 618,
+   "reason": null
+  },
+  "ocho": {
+   "category": "numeral",
+   "present": true,
+   "first_rank": 700,
+   "reason": null
+  },
+  "nueve": {
+   "category": "numeral",
+   "present": true,
+   "first_rank": 1194,
+   "reason": null
+  },
+  "diez": {
+   "category": "numeral",
+   "present": true,
+   "first_rank": 578,
+   "reason": null
+  },
+  "once": {
+   "category": "numeral",
+   "present": true,
+   "first_rank": 2796,
+   "reason": null
+  },
+  "doce": {
+   "category": "numeral",
+   "present": true,
+   "first_rank": 1900,
+   "reason": null
+  },
+  "veinte": {
+   "category": "numeral",
+   "present": true,
+   "first_rank": 1520,
+   "reason": null
+  },
+  "treinta": {
+   "category": "numeral",
+   "present": true,
+   "first_rank": 1895,
+   "reason": null
+  },
+  "cien": {
+   "category": "numeral",
+   "present": true,
+   "first_rank": 1469,
+   "reason": null
+  },
+  "ciento": {
+   "category": "numeral",
+   "present": true,
+   "first_rank": 799,
+   "reason": null
+  },
+  "mil": {
+   "category": "numeral",
+   "present": true,
+   "first_rank": 268,
+   "reason": null
+  },
+  "millón": {
+   "category": "numeral",
+   "present": true,
+   "first_rank": 307,
+   "reason": null
+  },
+  "primero": {
+   "category": "numeral",
+   "present": true,
+   "first_rank": 148,
+   "reason": null
+  },
+  "segundo": {
+   "category": "numeral",
+   "present": true,
+   "first_rank": 314,
+   "reason": null
+  },
+  "tercero": {
+   "category": "numeral",
+   "present": true,
+   "first_rank": 656,
+   "reason": null
+  },
+  "qué": {
+   "category": "question word",
+   "present": true,
+   "first_rank": 24,
+   "reason": null
+  },
+  "quién": {
+   "category": "question word",
+   "present": true,
+   "first_rank": 122,
+   "reason": null
+  },
+  "cuál": {
+   "category": "question word",
+   "present": true,
+   "first_rank": 424,
+   "reason": null
+  },
+  "cuánto": {
+   "category": "question word",
+   "present": true,
+   "first_rank": 860,
+   "reason": null
+  },
+  "dónde": {
+   "category": "question word",
+   "present": true,
+   "first_rank": 179,
+   "reason": null
+  },
+  "cuándo": {
+   "category": "question word",
+   "present": true,
+   "first_rank": 692,
+   "reason": null
+  },
+  "cómo": {
+   "category": "question word",
+   "present": true,
+   "first_rank": 92,
+   "reason": null
+  },
+  "adónde": {
+   "category": "question word",
+   "present": true,
+   "first_rank": 937,
+   "reason": null
+  },
+  "porqué": {
+   "category": "question word",
+   "present": true,
+   "first_rank": 2521,
+   "reason": null
+  }
+ },
+ "external": {
+  "wiktionary_2000": {
+   "checked": 2000,
+   "gaps": 41,
+   "items": [
+    {
+     "rank": 597,
+     "word": "os",
+     "mapped_lemma": "os",
+     "reason": "excluded: Spain-only"
+    },
+    {
+     "rank": 636,
+     "word": "york",
+     "mapped_lemma": "york",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 774,
+     "word": "navidad",
+     "mapped_lemma": "navidad",
+     "reason": "below tagging threshold (10.5/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 965,
+     "word": "jesús",
+     "mapped_lemma": "jesús",
+     "reason": "below tagging threshold (4.1/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1115,
+     "word": "papa",
+     "mapped_lemma": "papa",
+     "reason": "below tagging threshold (18.3/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1194,
+     "word": "papi",
+     "mapped_lemma": "papi",
+     "reason": "below tagging threshold (16.4/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1220,
+     "word": "tv",
+     "mapped_lemma": "tv",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 1223,
+     "word": "robot",
+     "mapped_lemma": "robot",
+     "reason": "below tagging threshold (15.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1282,
+     "word": "londres",
+     "mapped_lemma": "londres",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1290,
+     "word": "eeuu",
+     "mapped_lemma": "eeuu",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 1309,
+     "word": "mami",
+     "mapped_lemma": "mami",
+     "reason": "below tagging threshold (17.1/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1342,
+     "word": "mama",
+     "mapped_lemma": "mama",
+     "reason": "below tagging threshold (14.8/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1391,
+     "word": "dra",
+     "mapped_lemma": "doctora",
+     "reason": "below tagging threshold (21.9/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1409,
+     "word": "grandioso",
+     "mapped_lemma": "grandioso",
+     "reason": "below tagging threshold (23.6/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1435,
+     "word": "parís",
+     "mapped_lemma": "parís",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1458,
+     "word": "majestad",
+     "mapped_lemma": "majestad",
+     "reason": "below tagging threshold (20.3/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1514,
+     "word": "américa",
+     "mapped_lemma": "américa",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1515,
+     "word": "definitivamente",
+     "mapped_lemma": "definitivamente",
+     "reason": "below tagging threshold (22.6/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1541,
+     "word": "lana",
+     "mapped_lemma": "lana",
+     "reason": "below tagging threshold (7.8/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1551,
+     "word": "vosotros",
+     "mapped_lemma": "vosotros",
+     "reason": "excluded: Spain-only"
+    },
+    {
+     "rank": 1564,
+     "word": "robots",
+     "mapped_lemma": "robot",
+     "reason": "below tagging threshold (15.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1598,
+     "word": "embarazada",
+     "mapped_lemma": "embarazado",
+     "reason": "below tagging threshold (23.1/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1610,
+     "word": "araña",
+     "mapped_lemma": "araña",
+     "reason": "below tagging threshold (11.0/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1665,
+     "word": "bastardo",
+     "mapped_lemma": "bastardo",
+     "reason": "below tagging threshold (19.5/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1681,
+     "word": "caray",
+     "mapped_lemma": "caray",
+     "reason": "below tagging threshold (22.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1688,
+     "word": "km",
+     "mapped_lemma": "km",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 1692,
+     "word": "lisa",
+     "mapped_lemma": "lisa",
+     "reason": "below tagging threshold (4.0/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1713,
+     "word": "mr",
+     "mapped_lemma": "mr",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 1731,
+     "word": "sheriff",
+     "mapped_lemma": "sheriff",
+     "reason": "below tagging threshold (21.0/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1733,
+     "word": "inglaterra",
+     "mapped_lemma": "inglaterra",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1763,
+     "word": "obviamente",
+     "mapped_lemma": "obviamente",
+     "reason": "below tagging threshold (20.3/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1812,
+     "word": "pulso",
+     "mapped_lemma": "pulso",
+     "reason": "below tagging threshold (12.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1832,
+     "word": "gratis",
+     "mapped_lemma": "gratis",
+     "reason": "below tagging threshold (21.4/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1918,
+     "word": "enfermera",
+     "mapped_lemma": "enfermera",
+     "reason": "below tagging threshold (24.6/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1920,
+     "word": "sospechoso",
+     "mapped_lemma": "sospechoso",
+     "reason": "below tagging threshold (24.6/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1937,
+     "word": "virus",
+     "mapped_lemma": "virus",
+     "reason": "below tagging threshold (22.4/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1951,
+     "word": "maría",
+     "mapped_lemma": "maría",
+     "reason": "below tagging threshold (0.5/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1953,
+     "word": "méxico",
+     "mapped_lemma": "méxico",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1956,
+     "word": "doctora",
+     "mapped_lemma": "doctora",
+     "reason": "below tagging threshold (21.9/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1960,
+     "word": "europa",
+     "mapped_lemma": "europa",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 2000,
+     "word": "rock",
+     "mapped_lemma": "rock",
+     "reason": "below tagging threshold (11.0/M < 24.8/M; mostly a proper name if capitalised in text)"
+    }
+   ]
+  },
+  "hermitdave_50k": {
+   "checked": 2000,
+   "gaps": 112,
+   "items": [
+    {
+     "rank": 157,
+     "word": "sr.",
+     "mapped_lemma": "sr.",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 344,
+     "word": "os",
+     "mapped_lemma": "os",
+     "reason": "excluded: Spain-only"
+    },
+    {
+     "rank": 478,
+     "word": "sra.",
+     "mapped_lemma": "sra.",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 513,
+     "word": "dr.",
+     "mapped_lemma": "dr.",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 553,
+     "word": "ud.",
+     "mapped_lemma": "ud.",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 573,
+     "word": "john",
+     "mapped_lemma": "john",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 624,
+     "word": "jack",
+     "mapped_lemma": "jack",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 650,
+     "word": "srta.",
+     "mapped_lemma": "srta.",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 702,
+     "word": "the",
+     "mapped_lemma": "the",
+     "reason": "English/foreign token"
+    },
+    {
+     "rank": 718,
+     "word": "sam",
+     "mapped_lemma": "sam",
+     "reason": "below tagging threshold (1.6/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 741,
+     "word": "york",
+     "mapped_lemma": "york",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 750,
+     "word": "s",
+     "mapped_lemma": "s",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 765,
+     "word": "vosotros",
+     "mapped_lemma": "vosotros",
+     "reason": "excluded: Spain-only"
+    },
+    {
+     "rank": 801,
+     "word": "i",
+     "mapped_lemma": "i",
+     "reason": "English/foreign token"
+    },
+    {
+     "rank": 823,
+     "word": "joe",
+     "mapped_lemma": "joe",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 827,
+     "word": "michael",
+     "mapped_lemma": "michael",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 831,
+     "word": "david",
+     "mapped_lemma": "david",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 839,
+     "word": "frank",
+     "mapped_lemma": "frank",
+     "reason": "below tagging threshold (0.3/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 841,
+     "word": "charlie",
+     "mapped_lemma": "charlie",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 851,
+     "word": "tom",
+     "mapped_lemma": "tom",
+     "reason": "below tagging threshold (3.3/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 860,
+     "word": "george",
+     "mapped_lemma": "george",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 897,
+     "word": "io",
+     "mapped_lemma": "io",
+     "reason": "English/foreign token"
+    },
+    {
+     "rank": 898,
+     "word": "mike",
+     "mapped_lemma": "mike",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 925,
+     "word": "navidad",
+     "mapped_lemma": "navidad",
+     "reason": "below tagging threshold (10.5/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1004,
+     "word": "peter",
+     "mapped_lemma": "peter",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1052,
+     "word": "paul",
+     "mapped_lemma": "paul",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1105,
+     "word": "ben",
+     "mapped_lemma": "ben",
+     "reason": "below tagging threshold (2.1/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1113,
+     "word": "james",
+     "mapped_lemma": "james",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1124,
+     "word": "max",
+     "mapped_lemma": "max",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1158,
+     "word": "henry",
+     "mapped_lemma": "henry",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1163,
+     "word": "jesús",
+     "mapped_lemma": "jesús",
+     "reason": "below tagging threshold (4.1/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1177,
+     "word": "harry",
+     "mapped_lemma": "harry",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1218,
+     "word": "mary",
+     "mapped_lemma": "mary",
+     "reason": "below tagging threshold (3.3/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1236,
+     "word": "you",
+     "mapped_lemma": "you",
+     "reason": "English/foreign token"
+    },
+    {
+     "rank": 1247,
+     "word": "ia",
+     "mapped_lemma": "ia",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 1256,
+     "word": "bill",
+     "mapped_lemma": "bill",
+     "reason": "below tagging threshold (3.1/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1258,
+     "word": "jimmy",
+     "mapped_lemma": "jimmy",
+     "reason": "below tagging threshold (0.3/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1263,
+     "word": "bob",
+     "mapped_lemma": "bob",
+     "reason": "below tagging threshold (0.9/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1275,
+     "word": "londres",
+     "mapped_lemma": "londres",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1278,
+     "word": "jim",
+     "mapped_lemma": "jim",
+     "reason": "below tagging threshold (0.3/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1289,
+     "word": "definitivamente",
+     "mapped_lemma": "definitivamente",
+     "reason": "below tagging threshold (22.6/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1296,
+     "word": "majestad",
+     "mapped_lemma": "majestad",
+     "reason": "below tagging threshold (20.3/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1305,
+     "word": "danny",
+     "mapped_lemma": "danny",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1325,
+     "word": "nick",
+     "mapped_lemma": "nick",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1327,
+     "word": "alex",
+     "mapped_lemma": "alex",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1340,
+     "word": "steve",
+     "mapped_lemma": "steve",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1345,
+     "word": "tony",
+     "mapped_lemma": "tony",
+     "reason": "below tagging threshold (13.8/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1366,
+     "word": "obviamente",
+     "mapped_lemma": "obviamente",
+     "reason": "below tagging threshold (20.3/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1376,
+     "word": "sarah",
+     "mapped_lemma": "sarah",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1386,
+     "word": "gay",
+     "mapped_lemma": "gay",
+     "reason": "below tagging threshold (11.0/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1391,
+     "word": "parís",
+     "mapped_lemma": "parís",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1401,
+     "word": "um",
+     "mapped_lemma": "um",
+     "reason": "English/foreign token"
+    },
+    {
+     "rank": 1413,
+     "word": "fbi",
+     "mapped_lemma": "fbi",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 1414,
+     "word": "embarazada",
+     "mapped_lemma": "embarazado",
+     "reason": "below tagging threshold (23.1/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1421,
+     "word": "jane",
+     "mapped_lemma": "jane",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1429,
+     "word": "tommy",
+     "mapped_lemma": "tommy",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1447,
+     "word": "santa",
+     "mapped_lemma": "santa",
+     "reason": "below tagging threshold (20.3/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1478,
+     "word": "ray",
+     "mapped_lemma": "ray",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1479,
+     "word": "billy",
+     "mapped_lemma": "billy",
+     "reason": "below tagging threshold (2.9/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1481,
+     "word": "johnny",
+     "mapped_lemma": "johnny",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1506,
+     "word": "richard",
+     "mapped_lemma": "richard",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1554,
+     "word": "coño",
+     "mapped_lemma": "coño",
+     "reason": "below tagging threshold (14.6/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1559,
+     "word": "eddie",
+     "mapped_lemma": "eddie",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1567,
+     "word": "mark",
+     "mapped_lemma": "mark",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1571,
+     "word": "maría",
+     "mapped_lemma": "maría",
+     "reason": "below tagging threshold (0.5/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1576,
+     "word": "sospechoso",
+     "mapped_lemma": "sospechoso",
+     "reason": "below tagging threshold (24.6/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1581,
+     "word": "robert",
+     "mapped_lemma": "robert",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1585,
+     "word": "papi",
+     "mapped_lemma": "papi",
+     "reason": "below tagging threshold (16.4/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1589,
+     "word": "señoría",
+     "mapped_lemma": "señoría",
+     "reason": "below tagging threshold (13.1/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1593,
+     "word": "chris",
+     "mapped_lemma": "chris",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1594,
+     "word": "papa",
+     "mapped_lemma": "papa",
+     "reason": "below tagging threshold (18.3/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1606,
+     "word": "will",
+     "mapped_lemma": "will",
+     "reason": "English/foreign token"
+    },
+    {
+     "rank": 1625,
+     "word": "suficientemente",
+     "mapped_lemma": "suficientemente",
+     "reason": "below tagging threshold (19.0/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1642,
+     "word": "ryan",
+     "mapped_lemma": "ryan",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1647,
+     "word": "uds.",
+     "mapped_lemma": "uds.",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 1679,
+     "word": "américa",
+     "mapped_lemma": "américa",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1696,
+     "word": "jake",
+     "mapped_lemma": "jake",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1704,
+     "word": "ei",
+     "mapped_lemma": "ei",
+     "reason": "English/foreign token"
+    },
+    {
+     "rank": 1713,
+     "word": "francia",
+     "mapped_lemma": "francia",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1727,
+     "word": "bobby",
+     "mapped_lemma": "bobby",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1728,
+     "word": "martin",
+     "mapped_lemma": "martin",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1729,
+     "word": "amy",
+     "mapped_lemma": "amy",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1734,
+     "word": "dra.",
+     "mapped_lemma": "dra.",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 1737,
+     "word": "inglaterra",
+     "mapped_lemma": "inglaterra",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1740,
+     "word": "puto",
+     "mapped_lemma": "puto",
+     "reason": "below tagging threshold (16.7/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1749,
+     "word": "daniel",
+     "mapped_lemma": "daniel",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1794,
+     "word": "adam",
+     "mapped_lemma": "adam",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1795,
+     "word": "and",
+     "mapped_lemma": "and",
+     "reason": "English/foreign token"
+    },
+    {
+     "rank": 1822,
+     "word": "kevin",
+     "mapped_lemma": "kevin",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1831,
+     "word": "gratis",
+     "mapped_lemma": "gratis",
+     "reason": "below tagging threshold (21.4/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1856,
+     "word": "brian",
+     "mapped_lemma": "brian",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1870,
+     "word": "to",
+     "mapped_lemma": "to",
+     "reason": "English/foreign token"
+    },
+    {
+     "rank": 1894,
+     "word": "eric",
+     "mapped_lemma": "eric",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1900,
+     "word": "adn",
+     "mapped_lemma": "adn",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 1903,
+     "word": "normalmente",
+     "mapped_lemma": "normalmente",
+     "reason": "below tagging threshold (18.8/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1904,
+     "word": "mr",
+     "mapped_lemma": "mr",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 1906,
+     "word": "bastardo",
+     "mapped_lemma": "bastardo",
+     "reason": "below tagging threshold (19.5/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1910,
+     "word": "anna",
+     "mapped_lemma": "anna",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1916,
+     "word": "enfermera",
+     "mapped_lemma": "enfermera",
+     "reason": "below tagging threshold (24.6/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1924,
+     "word": "kate",
+     "mapped_lemma": "kate",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1936,
+     "word": "campamento",
+     "mapped_lemma": "campamento",
+     "reason": "below tagging threshold (24.5/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1943,
+     "word": "impresionante",
+     "mapped_lemma": "impresionante",
+     "reason": "below tagging threshold (21.9/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1955,
+     "word": "roma",
+     "mapped_lemma": "roma",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1965,
+     "word": "jerry",
+     "mapped_lemma": "jerry",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1967,
+     "word": "sr",
+     "mapped_lemma": "sr",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 1973,
+     "word": "thomas",
+     "mapped_lemma": "thomas",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1975,
+     "word": "mami",
+     "mapped_lemma": "mami",
+     "reason": "below tagging threshold (17.1/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1977,
+     "word": "washington",
+     "mapped_lemma": "washington",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1978,
+     "word": "tv",
+     "mapped_lemma": "tv",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 1988,
+     "word": "sheriff",
+     "mapped_lemma": "sheriff",
+     "reason": "below tagging threshold (21.0/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1998,
+     "word": "andy",
+     "mapped_lemma": "andy",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 2000,
+     "word": "rachel",
+     "mapped_lemma": "rachel",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    }
+   ]
+  },
+  "buchmeier_10k": {
+   "checked": 2000,
+   "gaps": 122,
+   "items": [
+    {
+     "rank": 117,
+     "word": "sr",
+     "mapped_lemma": "sr",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 253,
+     "word": "ud",
+     "mapped_lemma": "ud",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 289,
+     "word": "io",
+     "mapped_lemma": "io",
+     "reason": "English/foreign token"
+    },
+    {
+     "rank": 403,
+     "word": "dr",
+     "mapped_lemma": "dr",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 458,
+     "word": "sra",
+     "mapped_lemma": "sra",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 469,
+     "word": "john",
+     "mapped_lemma": "john",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 493,
+     "word": "ei",
+     "mapped_lemma": "ei",
+     "reason": "English/foreign token"
+    },
+    {
+     "rank": 507,
+     "word": "jack",
+     "mapped_lemma": "jack",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 585,
+     "word": "sam",
+     "mapped_lemma": "sam",
+     "reason": "below tagging threshold (1.6/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 589,
+     "word": "srta",
+     "mapped_lemma": "srta",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 602,
+     "word": "os",
+     "mapped_lemma": "os",
+     "reason": "excluded: Spain-only"
+    },
+    {
+     "rank": 622,
+     "word": "michael",
+     "mapped_lemma": "michael",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 633,
+     "word": "ia",
+     "mapped_lemma": "ia",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 634,
+     "word": "clark",
+     "mapped_lemma": "clark",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 644,
+     "word": "york",
+     "mapped_lemma": "york",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 667,
+     "word": "peter",
+     "mapped_lemma": "peter",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 678,
+     "word": "frank",
+     "mapped_lemma": "frank",
+     "reason": "below tagging threshold (0.3/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 684,
+     "word": "uds",
+     "mapped_lemma": "uds",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 763,
+     "word": "george",
+     "mapped_lemma": "george",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 765,
+     "word": "harry",
+     "mapped_lemma": "harry",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 783,
+     "word": "james",
+     "mapped_lemma": "james",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 787,
+     "word": "navidad",
+     "mapped_lemma": "navidad",
+     "reason": "below tagging threshold (10.5/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 867,
+     "word": "tom",
+     "mapped_lemma": "tom",
+     "reason": "below tagging threshold (3.3/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 875,
+     "word": "ben",
+     "mapped_lemma": "ben",
+     "reason": "below tagging threshold (2.1/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 891,
+     "word": "jimmy",
+     "mapped_lemma": "jimmy",
+     "reason": "below tagging threshold (0.3/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 896,
+     "word": "joe",
+     "mapped_lemma": "joe",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 908,
+     "word": "charlie",
+     "mapped_lemma": "charlie",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 957,
+     "word": "bob",
+     "mapped_lemma": "bob",
+     "reason": "below tagging threshold (0.9/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 984,
+     "word": "jesús",
+     "mapped_lemma": "jesús",
+     "reason": "below tagging threshold (4.1/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1004,
+     "word": "david",
+     "mapped_lemma": "david",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1011,
+     "word": "roma",
+     "mapped_lemma": "roma",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1014,
+     "word": "éi",
+     "mapped_lemma": "éi",
+     "reason": "below tagging threshold (1.6/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1082,
+     "word": "paul",
+     "mapped_lemma": "paul",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1105,
+     "word": "mary",
+     "mapped_lemma": "mary",
+     "reason": "below tagging threshold (3.3/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1106,
+     "word": "ray",
+     "mapped_lemma": "ray",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1107,
+     "word": "bill",
+     "mapped_lemma": "bill",
+     "reason": "below tagging threshold (3.1/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1133,
+     "word": "fbi",
+     "mapped_lemma": "fbi",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 1142,
+     "word": "papa",
+     "mapped_lemma": "papa",
+     "reason": "below tagging threshold (18.3/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1151,
+     "word": "mike",
+     "mapped_lemma": "mike",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1154,
+     "word": "max",
+     "mapped_lemma": "max",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1176,
+     "word": "ryan",
+     "mapped_lemma": "ryan",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1210,
+     "word": "santa",
+     "mapped_lemma": "santa",
+     "reason": "below tagging threshold (20.3/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1219,
+     "word": "alex",
+     "mapped_lemma": "alex",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1225,
+     "word": "papi",
+     "mapped_lemma": "papi",
+     "reason": "below tagging threshold (16.4/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1231,
+     "word": "bobby",
+     "mapped_lemma": "bobby",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1243,
+     "word": "henry",
+     "mapped_lemma": "henry",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1253,
+     "word": "tv",
+     "mapped_lemma": "tv",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 1256,
+     "word": "robot",
+     "mapped_lemma": "robot",
+     "reason": "below tagging threshold (15.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1287,
+     "word": "tony",
+     "mapped_lemma": "tony",
+     "reason": "below tagging threshold (13.8/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1288,
+     "word": "lex",
+     "mapped_lemma": "lex",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1311,
+     "word": "robert",
+     "mapped_lemma": "robert",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1318,
+     "word": "londres",
+     "mapped_lemma": "londres",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1326,
+     "word": "eeuu",
+     "mapped_lemma": "eeuu",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 1345,
+     "word": "mami",
+     "mapped_lemma": "mami",
+     "reason": "below tagging threshold (17.1/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1350,
+     "word": "pete",
+     "mapped_lemma": "pete",
+     "reason": "below tagging threshold (5.7/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1361,
+     "word": "eddie",
+     "mapped_lemma": "eddie",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1367,
+     "word": "bond",
+     "mapped_lemma": "bond",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1374,
+     "word": "sóio",
+     "mapped_lemma": "sóio",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1375,
+     "word": "ai",
+     "mapped_lemma": "ai",
+     "reason": "below tagging threshold (1.6/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1381,
+     "word": "chris",
+     "mapped_lemma": "chris",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1384,
+     "word": "mama",
+     "mapped_lemma": "mama",
+     "reason": "below tagging threshold (14.8/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1388,
+     "word": "jim",
+     "mapped_lemma": "jim",
+     "reason": "below tagging threshold (0.3/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1395,
+     "word": "anna",
+     "mapped_lemma": "anna",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1408,
+     "word": "ios",
+     "mapped_lemma": "ios",
+     "reason": "below tagging threshold (6.7/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1420,
+     "word": "richard",
+     "mapped_lemma": "richard",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1437,
+     "word": "dra",
+     "mapped_lemma": "dra",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 1455,
+     "word": "grandioso",
+     "mapped_lemma": "grandioso",
+     "reason": "below tagging threshold (23.6/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1460,
+     "word": "nick",
+     "mapped_lemma": "nick",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1464,
+     "word": "danny",
+     "mapped_lemma": "danny",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1478,
+     "word": "mark",
+     "mapped_lemma": "mark",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1484,
+     "word": "parís",
+     "mapped_lemma": "parís",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1489,
+     "word": "carter",
+     "mapped_lemma": "carter",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1490,
+     "word": "washington",
+     "mapped_lemma": "washington",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1501,
+     "word": "bush",
+     "mapped_lemma": "bush",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1510,
+     "word": "majestad",
+     "mapped_lemma": "majestad",
+     "reason": "below tagging threshold (20.3/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1515,
+     "word": "tommy",
+     "mapped_lemma": "tommy",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1541,
+     "word": "the",
+     "mapped_lemma": "the",
+     "reason": "English/foreign token"
+    },
+    {
+     "rank": 1547,
+     "word": "billy",
+     "mapped_lemma": "billy",
+     "reason": "below tagging threshold (2.9/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1556,
+     "word": "johnny",
+     "mapped_lemma": "johnny",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1571,
+     "word": "superman",
+     "mapped_lemma": "superman",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1573,
+     "word": "américa",
+     "mapped_lemma": "américa",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1574,
+     "word": "definitivamente",
+     "mapped_lemma": "definitivamente",
+     "reason": "below tagging threshold (22.6/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1582,
+     "word": "i",
+     "mapped_lemma": "i",
+     "reason": "English/foreign token"
+    },
+    {
+     "rank": 1601,
+     "word": "lana",
+     "mapped_lemma": "lana",
+     "reason": "below tagging threshold (7.8/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1611,
+     "word": "vosotros",
+     "mapped_lemma": "vosotros",
+     "reason": "excluded: Spain-only"
+    },
+    {
+     "rank": 1624,
+     "word": "robots",
+     "mapped_lemma": "robot",
+     "reason": "below tagging threshold (15.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1628,
+     "word": "jason",
+     "mapped_lemma": "jason",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1637,
+     "word": "andy",
+     "mapped_lemma": "andy",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1660,
+     "word": "sarah",
+     "mapped_lemma": "sarah",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1661,
+     "word": "embarazada",
+     "mapped_lemma": "embarazado",
+     "reason": "below tagging threshold (23.1/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1673,
+     "word": "araña",
+     "mapped_lemma": "araña",
+     "reason": "below tagging threshold (11.0/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1683,
+     "word": "luke",
+     "mapped_lemma": "luke",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1691,
+     "word": "jerry",
+     "mapped_lemma": "jerry",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1695,
+     "word": "parker",
+     "mapped_lemma": "parker",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1731,
+     "word": "bastardo",
+     "mapped_lemma": "bastardo",
+     "reason": "below tagging threshold (19.5/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1747,
+     "word": "caray",
+     "mapped_lemma": "caray",
+     "reason": "below tagging threshold (22.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1752,
+     "word": "doc",
+     "mapped_lemma": "doc",
+     "reason": "below tagging threshold (0.5/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1754,
+     "word": "km",
+     "mapped_lemma": "km",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 1758,
+     "word": "lisa",
+     "mapped_lemma": "lisa",
+     "reason": "below tagging threshold (4.0/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1779,
+     "word": "mr",
+     "mapped_lemma": "mr",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 1787,
+     "word": "steve",
+     "mapped_lemma": "steve",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1798,
+     "word": "sheriff",
+     "mapped_lemma": "sheriff",
+     "reason": "below tagging threshold (21.0/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1799,
+     "word": "mulder",
+     "mapped_lemma": "mulder",
+     "reason": "below tagging threshold (0.3/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1801,
+     "word": "inglaterra",
+     "mapped_lemma": "inglaterra",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1803,
+     "word": "carl",
+     "mapped_lemma": "carl",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1832,
+     "word": "b",
+     "mapped_lemma": "b",
+     "reason": "below tagging threshold (14.1/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1833,
+     "word": "obviamente",
+     "mapped_lemma": "obviamente",
+     "reason": "below tagging threshold (20.3/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1840,
+     "word": "laura",
+     "mapped_lemma": "laura",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1846,
+     "word": "larry",
+     "mapped_lemma": "larry",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1851,
+     "word": "lucy",
+     "mapped_lemma": "lucy",
+     "reason": "below tagging threshold (0.3/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1862,
+     "word": "ed",
+     "mapped_lemma": "ed",
+     "reason": "below tagging threshold (1.9/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1875,
+     "word": "susan",
+     "mapped_lemma": "susan",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1887,
+     "word": "pulso",
+     "mapped_lemma": "pulso",
+     "reason": "below tagging threshold (12.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1904,
+     "word": "walter",
+     "mapped_lemma": "walter",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1908,
+     "word": "gratis",
+     "mapped_lemma": "gratis",
+     "reason": "below tagging threshold (21.4/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1923,
+     "word": "matt",
+     "mapped_lemma": "matt",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1928,
+     "word": "kent",
+     "mapped_lemma": "kent",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1946,
+     "word": "s",
+     "mapped_lemma": "s",
+     "reason": "abbreviation/symbol (not counted as a word)"
+    },
+    {
+     "rank": 1949,
+     "word": "kate",
+     "mapped_lemma": "kate",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1972,
+     "word": "joey",
+     "mapped_lemma": "joey",
+     "reason": "below tagging threshold (1.0/M < 24.8/M; mostly a proper name if capitalised in text)"
+    },
+    {
+     "rank": 1975,
+     "word": "ross",
+     "mapped_lemma": "ross",
+     "reason": "not in corpus counts as a common word (proper name, or lemmatised elsewhere)"
+    },
+    {
+     "rank": 1983,
+     "word": "scott",
+     "mapped_lemma": "scott",
+     "reason": "below tagging threshold (0.2/M < 24.8/M; mostly a proper name if capitalised in text)"
+    }
+   ]
+  }
+ }
+}

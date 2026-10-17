@@ -1,0 +1,189 @@
+{
+"items": [
+{
+"key": "ella|PRON",
+"ctx": 9,
+"label": 1,
+"gloss": "she, her (used subjectively and after prepositions)"
+},
+{
+"key": "perdón|NOUN",
+"ctx": 17,
+"label": 3,
+"gloss": "other"
+},
+{
+"key": "cuidar|VERB",
+"ctx": 21,
+"label": 1,
+"gloss": "to look after, take care of (e.g. a house, a person)"
+},
+{
+"key": "valer|VERB",
+"ctx": 2,
+"label": 1,
+"gloss": "to be worth"
+},
+{
+"key": "dónde|PRON",
+"ctx": 13,
+"label": 1,
+"gloss": "where?; in what place?"
+},
+{
+"key": "copa|NOUN",
+"ctx": 19,
+"label": 1,
+"gloss": "stemmed glass, glass, goblet or its content"
+},
+{
+"key": "dónde|PRON",
+"ctx": 17,
+"label": 1,
+"gloss": "where?; in what place?"
+},
+{
+"key": "agitar|VERB",
+"ctx": 4,
+"label": 6,
+"gloss": "to churn, to be shaken, to be tossed (about), to be stirred,"
+},
+{
+"key": "quieto|ADJ",
+"ctx": 12,
+"label": 2,
+"gloss": "still"
+},
+{
+"key": "maldito|ADJ",
+"ctx": 16,
+"label": 2,
+"gloss": "damned, freaking, fucking"
+},
+{
+"key": "inclinar|VERB",
+"ctx": 6,
+"label": 2,
+"gloss": "to bow, to lean (physically)"
+},
+{
+"key": "apretar|VERB",
+"ctx": 23,
+"label": 2,
+"gloss": "to tighten, constrict or compress"
+},
+{
+"key": "video|NOUN",
+"ctx": 23,
+"label": 1,
+"gloss": "video"
+},
+{
+"key": "sentar|VERB",
+"ctx": 23,
+"label": 3,
+"gloss": "to sit down, have a seat"
+},
+{
+"key": "copa|NOUN",
+"ctx": 1,
+"label": 2,
+"gloss": "cocktail, drink"
+},
+{
+"key": "rogar|VERB",
+"ctx": 4,
+"label": 2,
+"gloss": "to urge, solicit, ask for something"
+},
+{
+"key": "biblioteca|NOUN",
+"ctx": 5,
+"label": 1,
+"gloss": "library"
+},
+{
+"key": "ella|PRON",
+"ctx": 13,
+"label": 1,
+"gloss": "she, her (used subjectively and after prepositions)"
+},
+{
+"key": "arrojar|VERB",
+"ctx": 14,
+"label": 7,
+"gloss": "other"
+},
+{
+"key": "casar|VERB",
+"ctx": 19,
+"label": 5,
+"gloss": "to wed, marry, get married"
+},
+{
+"key": "largar|VERB",
+"ctx": 4,
+"label": 4,
+"gloss": "to go away, to scram, get out, shove off"
+},
+{
+"key": "medio|NUM",
+"ctx": 6,
+"label": 1,
+"gloss": "half (of or related to one of two equal divisions of a whole"
+},
+{
+"key": "delicioso|ADJ",
+"ctx": 12,
+"label": 2,
+"gloss": "delightful"
+},
+{
+"key": "devolver|VERB",
+"ctx": 24,
+"label": 1,
+"gloss": "to return, refund, restore, give back, hand back, bring back"
+},
+{
+"key": "me|PRON",
+"ctx": 8,
+"label": 2,
+"gloss": "dative of yo: to me, for me"
+},
+{
+"key": "unido|ADJ",
+"ctx": 6,
+"label": 1,
+"gloss": "united"
+},
+{
+"key": "equivocar|VERB",
+"ctx": 20,
+"label": 2,
+"gloss": "to make a mistake"
+},
+{
+"key": "grande|ADJ",
+"ctx": 15,
+"label": 2,
+"gloss": "great, grand"
+},
+{
+"key": "lamentar|VERB",
+"ctx": 2,
+"label": 1,
+"gloss": "to lament, to regret"
+},
+{
+"key": "defender|VERB",
+"ctx": 13,
+"label": 1,
+"gloss": "to defend, to protect, to hold down"
+}
+],
+"agreement": "29/30",
+"borderline": [
+"perdón|NOUN 'Perdón.' tagged other (interjection use)"
+],
+"checker": "AI agent"
+}

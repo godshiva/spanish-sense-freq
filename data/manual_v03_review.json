@@ -1,0 +1,290 @@
+{
+ "_doc": "Hand review (AI agent, not a native speaker) of every new v0.3 row that the LLM marked non-neutral or non-Mexican. Rows kept as regional (unchanged): joder|VERB|other/1/8 (Spain; Mexico uses chingar), teniente|NOUN|2 (teniente de alcalde, Spain), medio|NUM|4 (de media, Spain), fútbol|NOUN|2 (US: = American football), guiar|VERB|4 (drive, Puerto Rico), largar|VERB|3, perra|NOUN|4 (Spain: money), despacio|ADV|2 (quietly), biblioteca|NOUN|2 (bookcase; Mexico librero), vos|PRON|1 (voseo).",
+ "overrides": {
+  "me|PRON|other": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "ello|PRON|1": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "socorro|NOUN|2": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "habitar|VERB|1": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)",
+   "register": "formal",
+   "register_note": "Bookish; everyday word is vivir"
+  },
+  "camarada|NOUN|1": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "camarada|NOUN|2": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "escuchar|VERB|other": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "vara|NOUN|5": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "villa|NOUN|1": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "villa|NOUN|3": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "comer|VERB|other": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "don|NOUN|2": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "libra|NOUN|4": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "libra|NOUN|2": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "salvar|VERB|4": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "abrazar|VERB|other": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "abrazar|VERB|3": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "rendir|VERB|1": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "acá|ADV|2": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "introducir|VERB|3": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "pesar|VERB|3": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "alimentar|VERB|other": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "oponer|VERB|1": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "arrojar|VERB|5": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "apretar|VERB|7": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "acostar|VERB|other": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "nadar|VERB|2": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "largar|VERB|other": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "librar|VERB|3": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "furioso|ADJ|2": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "infinito|ADJ|other": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "lastimar|VERB|5": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)",
+   "register": "archaic",
+   "register_note": "lastimarse de 'to pity' is old-fashioned"
+  },
+  "conformar|VERB|other": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Not regional; any issue is register or context (see register column).",
+   "_why": "manual v0.3 review: not regional; any issue is register (see register column)"
+  },
+  "fin|NOUN|2": {
+   "mx_status": "common",
+   "non_mexican": "False",
+   "mx_equivalent": "",
+   "mx_note": "Con el fin de is standard in Mexico.",
+   "register": "neutral",
+   "register_note": "",
+   "_why": "manual v0.3 review: Wiktionary 'archaic' tag is a head-level gender note copied onto every sense of fin"
+  },
+  "fin|NOUN|1": {
+   "register": "neutral",
+   "register_note": "",
+   "_why": "manual v0.3 review: Wiktionary 'archaic' tag is a head-level gender note"
+  },
+  "fin|NOUN|3": {
+   "register": "neutral",
+   "register_note": "",
+   "_why": "manual v0.3 review: Wiktionary 'archaic' tag is a head-level gender note"
+  },
+  "tomar|VERB|8": {
+   "register": "neutral",
+   "register_note": "",
+   "_why": "manual v0.3 review: tomar 'to drink' is neutral (same decision as v0.2 tomar override)"
+  },
+  "dónde|PRON|2": {
+   "register": "neutral",
+   "register_note": "",
+   "_why": "manual v0.3 review: ¿de dónde? is everyday; 'archaic' refers to English 'whence'"
+  },
+  "lindo|ADJ|1": {
+   "register": "neutral",
+   "register_note": "",
+   "_why": "manual v0.3 review: 'dated' applies to Spain; lindo is everyday in Mexico"
+  },
+  "lindo|ADJ|2": {
+   "register": "neutral",
+   "register_note": "",
+   "_why": "manual v0.3 review: 'dated' applies to Spain; lindo is everyday in Mexico"
+  },
+  "vos|PRON|1": {
+   "register": "neutral",
+   "register_note": "",
+   "mx_note": "Voseo (Central America, Río de la Plata); Mexicans use tú/usted.",
+   "_why": "manual v0.3 review: vos is regional voseo, not archaic; stays non_mexican"
+  },
+  "largar|VERB|4": {
+   "register": "informal-slang",
+   "register_note": "Rude 'get lost' (¡lárgate!), not a slur",
+   "_why": "manual v0.3 review: rude imperative, not an offensive slur"
+  }
+ }
+}

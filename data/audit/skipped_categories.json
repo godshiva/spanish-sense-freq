@@ -1,0 +1,900 @@
+{
+"considered": 2661,
+"skipped": 161,
+"categories": {
+"form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma": 76,
+"headword exists but every sense was dropped by tag filters (head-level 'archaic'/'dated' notes; Latin-America+Spain region tags)": 4,
+"POS mismatch (word is a headword under another POS)": 37,
+"no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token": 38,
+"female-equivalent noun (Wiktionary marks all senses as form-of)": 6
+},
+"examples": {
+"form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma": [
+"á|ADP",
+"sólo|ADV",
+"ó|CCONJ",
+"fué|VERB",
+"dólares|NOUN",
+"has|VERB",
+"dia|NOUN",
+"déjame|VERB",
+"peor|ADJ",
+"é|CCONJ",
+"es|NOUN",
+"crees|VERB",
+"pesos|NOUN",
+"órden|NOUN",
+"dame|VERB",
+"ven|VERB",
+"euros|NOUN",
+"vas|VERB",
+"cuántos|DET",
+"estabas|VERB"
+],
+"headword exists but every sense was dropped by tag filters (head-level 'archaic'/'dated' notes; Latin-America+Spain region tags)": [
+"fin|NOUN",
+"lindo|ADJ",
+"cuidado|ADJ",
+"completo|NOUN"
+],
+"POS mismatch (word is a headword under another POS)": [
+"mas|ADV",
+"tal|NOUN",
+"del|DET",
+"veces|NOUN",
+"al|DET",
+"serio|NOUN",
+"siquiera|NOUN",
+"partir|NOUN",
+"buena|ADJ",
+"vaya|VERB",
+"según|SCONJ",
+"solo|NOUN",
+"do|ADP",
+"contrario|NOUN",
+"venga|VERB",
+"obstante|NOUN",
+"haz|VERB",
+"tenia|VERB",
+"mala|ADJ",
+"tan|NOUN"
+],
+"no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token": [
+"oir|VERB",
+"in|ADP",
+"demá|PRON",
+"i|CCONJ",
+"oer|VERB",
+"deberiar|VERB",
+"podriar|VERB",
+"dijistar|VERB",
+"deír|VERB",
+"sear|VERB",
+"vosotro|NOUN",
+"creser|VERB",
+"vámono|NOUN",
+"estár|VERB",
+"sar|VERB",
+"ok|INTJ",
+"io|PRON",
+"mueir|VERB",
+"habiar|VERB",
+"debeer|VERB"
+],
+"female-equivalent noun (Wiktionary marks all senses as form-of)": [
+"amiga|NOUN",
+"muchacha|NOUN",
+"novia|NOUN",
+"tía|NOUN",
+"secretaria|NOUN",
+"compañera|NOUN"
+]
+},
+"keys": {
+"á|ADP": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 14534,
+"v03_count_same_key": 0
+},
+"sólo|ADV": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 6422,
+"v03_count_same_key": 0
+},
+"fin|NOUN": {
+"category": "headword exists but every sense was dropped by tag filters (head-level 'archaic'/'dated' notes; Latin-America+Spain region tags)",
+"v02_count": 2317,
+"v03_count_same_key": 2381
+},
+"ó|CCONJ": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 2108,
+"v03_count_same_key": 0
+},
+"mas|ADV": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 2065,
+"v03_count_same_key": 0
+},
+"tal|NOUN": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 2002,
+"v03_count_same_key": 0
+},
+"del|DET": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 1833,
+"v03_count_same_key": 0
+},
+"fué|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 1240,
+"v03_count_same_key": 0
+},
+"oir|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 1111,
+"v03_count_same_key": 119
+},
+"in|ADP": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 993,
+"v03_count_same_key": 0
+},
+"dólares|NOUN": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 959,
+"v03_count_same_key": 0
+},
+"veces|NOUN": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 858,
+"v03_count_same_key": 0
+},
+"demá|PRON": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 830,
+"v03_count_same_key": 0
+},
+"al|DET": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 826,
+"v03_count_same_key": 0
+},
+"has|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 826,
+"v03_count_same_key": 0
+},
+"i|CCONJ": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 817,
+"v03_count_same_key": 0
+},
+"serio|NOUN": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 803,
+"v03_count_same_key": 0
+},
+"siquiera|NOUN": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 774,
+"v03_count_same_key": 0
+},
+"oer|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 673,
+"v03_count_same_key": 0
+},
+"dia|NOUN": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 660,
+"v03_count_same_key": 0
+},
+"déjame|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 654,
+"v03_count_same_key": 0
+},
+"peor|ADJ": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 635,
+"v03_count_same_key": 635
+},
+"é|CCONJ": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 634,
+"v03_count_same_key": 0
+},
+"es|NOUN": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 630,
+"v03_count_same_key": 3
+},
+"crees|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 619,
+"v03_count_same_key": 0
+},
+"partir|NOUN": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 612,
+"v03_count_same_key": 0
+},
+"pesos|NOUN": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 582,
+"v03_count_same_key": 0
+},
+"órden|NOUN": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 567,
+"v03_count_same_key": 0
+},
+"amiga|NOUN": {
+"category": "female-equivalent noun (Wiktionary marks all senses as form-of)",
+"v02_count": 561,
+"v03_count_same_key": 576
+},
+"buena|ADJ": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 554,
+"v03_count_same_key": 0
+},
+"vaya|VERB": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 549,
+"v03_count_same_key": 0
+},
+"deberiar|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 533,
+"v03_count_same_key": 60
+},
+"según|SCONJ": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 517,
+"v03_count_same_key": 0
+},
+"podriar|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 500,
+"v03_count_same_key": 65
+},
+"lindo|ADJ": {
+"category": "headword exists but every sense was dropped by tag filters (head-level 'archaic'/'dated' notes; Latin-America+Spain region tags)",
+"v02_count": 498,
+"v03_count_same_key": 598
+},
+"dame|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 493,
+"v03_count_same_key": 1
+},
+"ven|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 486,
+"v03_count_same_key": 0
+},
+"solo|NOUN": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 463,
+"v03_count_same_key": 0
+},
+"cuidado|ADJ": {
+"category": "headword exists but every sense was dropped by tag filters (head-level 'archaic'/'dated' notes; Latin-America+Spain region tags)",
+"v02_count": 446,
+"v03_count_same_key": 446
+},
+"euros|NOUN": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 444,
+"v03_count_same_key": 0
+},
+"dijistar|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 415,
+"v03_count_same_key": 0
+},
+"deír|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 398,
+"v03_count_same_key": 0
+},
+"sear|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 392,
+"v03_count_same_key": 4
+},
+"vosotro|NOUN": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 387,
+"v03_count_same_key": 0
+},
+"muchacha|NOUN": {
+"category": "female-equivalent noun (Wiktionary marks all senses as form-of)",
+"v02_count": 386,
+"v03_count_same_key": 386
+},
+"vas|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 386,
+"v03_count_same_key": 0
+},
+"cuántos|DET": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 385,
+"v03_count_same_key": 0
+},
+"estabas|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 380,
+"v03_count_same_key": 0
+},
+"novia|NOUN": {
+"category": "female-equivalent noun (Wiktionary marks all senses as form-of)",
+"v02_count": 376,
+"v03_count_same_key": 376
+},
+"quieres|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 373,
+"v03_count_same_key": 2
+},
+"creser|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 370,
+"v03_count_same_key": 0
+},
+"do|ADP": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 369,
+"v03_count_same_key": 0
+},
+"vámono|NOUN": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 361,
+"v03_count_same_key": 0
+},
+"tía|NOUN": {
+"category": "female-equivalent noun (Wiktionary marks all senses as form-of)",
+"v02_count": 357,
+"v03_count_same_key": 409
+},
+"habia|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 347,
+"v03_count_same_key": 0
+},
+"estár|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 338,
+"v03_count_same_key": 2
+},
+"contrario|NOUN": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 337,
+"v03_count_same_key": 0
+},
+"venga|VERB": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 333,
+"v03_count_same_key": 0
+},
+"sar|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 330,
+"v03_count_same_key": 3
+},
+"ok|INTJ": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 328,
+"v03_count_same_key": 328
+},
+"ven|NOUN": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 326,
+"v03_count_same_key": 0
+},
+"dile|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 319,
+"v03_count_same_key": 0
+},
+"habéis|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 318,
+"v03_count_same_key": 0
+},
+"hiciste|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 317,
+"v03_count_same_key": 0
+},
+"sea|NOUN": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 313,
+"v03_count_same_key": 0
+},
+"decirte|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 312,
+"v03_count_same_key": 0
+},
+"rio|NOUN": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 312,
+"v03_count_same_key": 0
+},
+"obstante|NOUN": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 302,
+"v03_count_same_key": 0
+},
+"haz|VERB": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 292,
+"v03_count_same_key": 0
+},
+"io|PRON": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 291,
+"v03_count_same_key": 5
+},
+"verte|NOUN": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 290,
+"v03_count_same_key": 0
+},
+"debo|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 282,
+"v03_count_same_key": 0
+},
+"mueir|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 270,
+"v03_count_same_key": 0
+},
+"tenia|VERB": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 259,
+"v03_count_same_key": 0
+},
+"mala|ADJ": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 256,
+"v03_count_same_key": 0
+},
+"tan|NOUN": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 255,
+"v03_count_same_key": 0
+},
+"habiar|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 253,
+"v03_count_same_key": 72
+},
+"pese|NOUN": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 252,
+"v03_count_same_key": 1
+},
+"debeer|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 249,
+"v03_count_same_key": 0
+},
+"desde|NOUN": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 249,
+"v03_count_same_key": 0
+},
+"pronto|NOUN": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 248,
+"v03_count_same_key": 0
+},
+"acompañado|ADJ": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 245,
+"v03_count_same_key": 95
+},
+"cállatir|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 244,
+"v03_count_same_key": 0
+},
+"inmediato|NOUN": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 242,
+"v03_count_same_key": 0
+},
+"modos|NOUN": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 239,
+"v03_count_same_key": 0
+},
+"realizado|ADJ": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 233,
+"v03_count_same_key": 143
+},
+"tí|PRON": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 233,
+"v03_count_same_key": 0
+},
+"mire|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 232,
+"v03_count_same_key": 2
+},
+"publicado|ADJ": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 227,
+"v03_count_same_key": 111
+},
+"darte|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 227,
+"v03_count_same_key": 0
+},
+"seguida|NOUN": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 221,
+"v03_count_same_key": 1
+},
+"atrevir|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 218,
+"v03_count_same_key": 3
+},
+"erar|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 217,
+"v03_count_same_key": 13
+},
+"sois|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 217,
+"v03_count_same_key": 0
+},
+"conmigo|NOUN": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 217,
+"v03_count_same_key": 0
+},
+"último|NOUN": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 216,
+"v03_count_same_key": 0
+},
+"reir|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 215,
+"v03_count_same_key": 5
+},
+"dijistir|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 212,
+"v03_count_same_key": 0
+},
+"vetir|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 210,
+"v03_count_same_key": 0
+},
+"mía|DET": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 208,
+"v03_count_same_key": 0
+},
+"te|VERB": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 207,
+"v03_count_same_key": 0
+},
+"querías|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 206,
+"v03_count_same_key": 0
+},
+"enferma|NOUN": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 202,
+"v03_count_same_key": 1
+},
+"vete|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 201,
+"v03_count_same_key": 0
+},
+"absoluto|NOUN": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 201,
+"v03_count_same_key": 0
+},
+"serás|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 198,
+"v03_count_same_key": 0
+},
+"salvo|NOUN": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 196,
+"v03_count_same_key": 1
+},
+"déjalir|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 196,
+"v03_count_same_key": 2
+},
+"todos|NOUN": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 196,
+"v03_count_same_key": 0
+},
+"vear|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 195,
+"v03_count_same_key": 0
+},
+"déjeme|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 193,
+"v03_count_same_key": 0
+},
+"harás|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 193,
+"v03_count_same_key": 0
+},
+"podrar|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 192,
+"v03_count_same_key": 7
+},
+"hacerte|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 191,
+"v03_count_same_key": 0
+},
+"hagas|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 190,
+"v03_count_same_key": 2
+},
+"sabiar|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 190,
+"v03_count_same_key": 13
+},
+"rodeado|ADJ": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 187,
+"v03_count_same_key": 102
+},
+"tendrar|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 187,
+"v03_count_same_key": 14
+},
+"fuera|NOUN": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 187,
+"v03_count_same_key": 0
+},
+"otra|NOUN": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 186,
+"v03_count_same_key": 1
+},
+"tenéis|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 183,
+"v03_count_same_key": 2
+},
+"tenías|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 179,
+"v03_count_same_key": 0
+},
+"or|ADP": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 179,
+"v03_count_same_key": 0
+},
+"señoritar|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 178,
+"v03_count_same_key": 0
+},
+"manos|NOUN": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 178,
+"v03_count_same_key": 0
+},
+"vo|NOUN": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 177,
+"v03_count_same_key": 0
+},
+"estés|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 175,
+"v03_count_same_key": 0
+},
+"x|NOUN": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 174,
+"v03_count_same_key": 0
+},
+"secretaria|NOUN": {
+"category": "female-equivalent noun (Wiktionary marks all senses as form-of)",
+"v02_count": 173,
+"v03_count_same_key": 175
+},
+"sonreir|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 172,
+"v03_count_same_key": 6
+},
+"libras|NOUN": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 171,
+"v03_count_same_key": 0
+},
+"tambien|NOUN": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 169,
+"v03_count_same_key": 0
+},
+"larga|ADJ": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 168,
+"v03_count_same_key": 1
+},
+"completo|NOUN": {
+"category": "headword exists but every sense was dropped by tag filters (head-level 'archaic'/'dated' notes; Latin-America+Spain region tags)",
+"v02_count": 167,
+"v03_count_same_key": 167
+},
+"veré|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 166,
+"v03_count_same_key": 0
+},
+"verar|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 163,
+"v03_count_same_key": 11
+},
+"acuerdas|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 163,
+"v03_count_same_key": 0
+},
+"siéntese|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 163,
+"v03_count_same_key": 0
+},
+"compañera|NOUN": {
+"category": "female-equivalent noun (Wiktionary marks all senses as form-of)",
+"v02_count": 162,
+"v03_count_same_key": 162
+},
+"maldita|NOUN": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 161,
+"v03_count_same_key": 0
+},
+"not|ADP": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 160,
+"v03_count_same_key": 0
+},
+"ayúdame|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 160,
+"v03_count_same_key": 0
+},
+"teniar|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 157,
+"v03_count_same_key": 71
+},
+"pobre|NOUN": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 157,
+"v03_count_same_key": 0
+},
+"estáis|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 156,
+"v03_count_same_key": 0
+},
+"lamento|ADJ": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 155,
+"v03_count_same_key": 0
+},
+"espere|INTJ": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 155,
+"v03_count_same_key": 0
+},
+"tengas|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 153,
+"v03_count_same_key": 0
+},
+"ven|INTJ": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 152,
+"v03_count_same_key": 0
+},
+"estabar|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 150,
+"v03_count_same_key": 15
+},
+"disculpe|VERB": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 150,
+"v03_count_same_key": 2
+},
+"también|NOUN": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 149,
+"v03_count_same_key": 0
+},
+"recuerdas|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 149,
+"v03_count_same_key": 2
+},
+"formado|ADJ": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 148,
+"v03_count_same_key": 85
+},
+"aqui|NOUN": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 147,
+"v03_count_same_key": 0
+},
+"hayar|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 147,
+"v03_count_same_key": 1
+},
+"ibar|VERB": {
+"category": "no Wiktionary page: spaCy-invented lemma (verar, podriar) or foreign token",
+"v02_count": 146,
+"v03_count_same_key": 3
+},
+"hazlo|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 146,
+"v03_count_same_key": 2
+},
+"pié|NOUN": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 146,
+"v03_count_same_key": 0
+},
+"conocer|NOUN": {
+"category": "POS mismatch (word is a headword under another POS)",
+"v02_count": 146,
+"v03_count_same_key": 0
+},
+"llamaré|VERB": {
+"category": "form-of/alt-of only: spaCy kept an inflected, apocopated or archaic spelling as lemma",
+"v02_count": 145,
+"v03_count_same_key": 0
+}
+}
+}

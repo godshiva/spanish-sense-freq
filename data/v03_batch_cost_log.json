@@ -1,0 +1,58 @@
+{
+ "model": "gpt-5.6-luna",
+ "reasoning_effort": "low",
+ "api": "Batch",
+ "version": "0.3",
+ "runs": {
+  "sense_tags": {
+   "done": 549,
+   "spent": 0.11794429999999997,
+   "chunks": [
+    {
+     "batch": "batch_6ad391d6724c81908771bec351a08f5a",
+     "n": 549,
+     "cost": 0.11794429999999997,
+     "status": "completed"
+    }
+   ]
+  },
+  "sense_tags_rebuilt_inventories": {
+   "done": 60,
+   "spent": 0.0109256,
+   "chunks": [
+    {
+     "batch": "batch_6ad3923cc6788190a21e56425d8cde1b",
+     "n": 60,
+     "cost": 0.0109256,
+     "status": "completed"
+    }
+   ]
+  },
+  "mx_flags": {
+   "done": 17,
+   "spent": 0.0132157,
+   "chunks": [
+    {
+     "batch": "batch_6ad39731ec48819090bc420d45a01168",
+     "n": 17,
+     "cost": 0.0132157,
+     "status": "completed"
+    }
+   ]
+  },
+  "register": {
+   "done": 16,
+   "spent": 0.007034800000000001,
+   "chunks": [
+    {
+     "batch": "batch_6ad397318fa8819081848fc554dadd1c",
+     "n": 16,
+     "cost": 0.007034800000000001,
+     "status": "completed"
+    }
+   ]
+  }
+ },
+ "total_usd": 0.1491204,
+ "cap_usd": 1.5
+}

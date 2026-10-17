@@ -1,0 +1,8641 @@
+{
+"frio\tfrio\tADJ": "freír|VERB",
+"hablaremos\thablarar\tVERB": "hablar|VERB",
+"hablaras\thablarar\tVERB": "hablar|VERB",
+"hablaré\thablarar\tVERB": "hablar|VERB",
+"renovado\trenovado\tADJ": "renovar|VERB",
+"hiciste\thiciste\tVERB": "hacer|VERB",
+"ayudarte\tayudarte\tNOUN": "ayudar|VERB",
+"buen\tbuen\tADJ": "bueno|ADJ",
+"buena\tbuen\tADJ": "bueno|ADJ",
+"buenos\tbuen\tADJ": "bueno|ADJ",
+"podrías\tpodriar\tVERB": "poder|VERB",
+"podrías\tpodriar\tAUX": "poder|VERB",
+"noches\tnoches\tNOUN": "noche|NOUN",
+"llegaré\tllegaré\tVERB": "llegar|VERB",
+"crees\tcrees\tVERB": "creer|VERB",
+"escúchame\tescúchamir\tVERB": "escuchar|VERB",
+"tengas\ttengas\tAUX": "tener|VERB",
+"tengas\ttengas\tVERB": "tener|VERB",
+"sea\tsea\tAUX": "ser|VERB",
+"lamento\tlamento\tADJ": "lamentar|VERB",
+"habrás\thabrar\tAUX": "haber|VERB",
+"habremos\thabrar\tAUX": "haber|VERB",
+"darás\tdarar\tVERB": "dar|VERB",
+"deberían\tdeberiar\tAUX": "deber|VERB",
+"deberías\tdeberiar\tAUX": "deber|VERB",
+"debería\tdeberiar\tAUX": "deber|VERB",
+"deberías\tdeberiar\tVERB": "deber|VERB",
+"podrías\tpodrías\tAUX": "poder|VERB",
+"podrías\tpodrías\tVERB": "poder|VERB",
+"manos\tmanos\tNOUN": "mano|NOUN",
+"espere\tespere\tINTJ": "esperar|VERB",
+"gran\tgran\tADJ": "grande|ADJ",
+"grana\tgran\tADJ": "grande|ADJ",
+"harían\thaer\tVERB": "hacer|VERB",
+"recibo\trecibo\tVERB": "recibir|VERB",
+"marcos\tmarcos\tNOUN": "marco|NOUN",
+"abrumado\tabrumado\tADJ": "abrumar|VERB",
+"raras\trara\tADJ": "raro|ADJ",
+"rara\trara\tADJ": "raro|ADJ",
+"debéis\tdebéis\tAUX": "deber|VERB",
+"debéis\tdebéis\tVERB": "deber|VERB",
+"criado\tcriado\tADJ": "criar|VERB",
+"criada\tcriado\tADJ": "criada|NOUN",
+"criados\tcriado\tADJ": "criado|NOUN",
+"verte\tverte\tNOUN": "ver|VERB",
+"veces\tveces\tNOUN": "vez|NOUN",
+"vaya\tvaya\tVERB": "ir|VERB",
+"vaya\tvaya \tVERB": "ir|VERB",
+"vaya\tvaya\tAUX": "ir|VERB",
+"guión\tguión\tNOUN": "guion|NOUN",
+"guiones\tguión\tNOUN": "guion|NOUN",
+"déjeme\tdéjeme\tVERB": "dejar|VERB",
+"déjeme\tdéjeme\tAUX": "dejar|VERB",
+"date\tdate\tNOUN": "dar|VERB",
+"algun\talgun\tDET": "alguno|DET",
+"esperen\tesperen\tVERB": "esperar|VERB",
+"hazme\thazme\tVERB": "hacer|VERB",
+"super\tsuper\tNOUN": "super|ADJ",
+"conseguiremos\tconseguirer\tVERB": "conseguir|VERB",
+"conseguirás\tconseguirás\tVERB": "conseguir|VERB",
+"déjame\tdéjame\tVERB": "dejar|VERB",
+"déjame\tdéjame\tAUX": "dejar|VERB",
+"film\tfilm\tNOUN": "filme|NOUN",
+"filmes\tfilm\tNOUN": "filme|NOUN",
+"films\tfilm\tNOUN": "filme|NOUN",
+"pon\tpon\tVERB": "poner|VERB",
+"póntelo\tpon tú él\tVERB": "poner|VERB",
+"apártate\tapártate\tINTJ": "apartar|VERB",
+"vete\tvete\tVERB": "ir|VERB",
+"vete\tvete\tAUX": "ir|VERB",
+"sucedido\tsucedido\tADJ": "suceder|VERB",
+"aterrorizado\taterrorizado\tADJ": "aterrorizar|VERB",
+"casarte\tcasarte\tVERB": "casar|VERB",
+"consagrado\tconsagrado\tADJ": "consagrar|VERB",
+"ó\tó\tCCONJ": "o|CCONJ",
+"poquito\tpoquito\tADJ": "poco|ADJ",
+"prepare\tpreparir\tVERB": "preparar|VERB",
+"preparen\tpreparir\tVERB": "preparar|VERB",
+"contrario\tcontrario\tNOUN": "contrario|ADJ",
+"contrarios\tcontrario\tNOUN": "contrario|ADJ",
+"dile\tdile\tVERB": "decir|VERB",
+"mira\tmira\tVERB": "mirar|VERB",
+"míralos\tmira él\tVERB": "mirar|VERB",
+"quédate\tquédate\tINTJ": "quedar|VERB",
+"c\tc\tNOUN": "se|PRON",
+"todas\ttodas\tNOUN": "todo|DET",
+"órdenes\tórden\tNOUN": "orden|NOUN",
+"órden\tórden\tNOUN": "orden|NOUN",
+"corro\tcorro\tVERB": "correr|VERB",
+"cuñado\tcuñado\tADJ": "cuñado|NOUN",
+"cuñados\tcuñado\tADJ": "cuñado|NOUN",
+"hablarte\thablarte\tVERB": "hablar|VERB",
+"oído\toer\tVERB": "oír|VERB",
+"oremos\toer\tVERB": "orar|VERB",
+"oídas\toer\tVERB": "oír|VERB",
+"tomen\ttomen\tVERB": "tomar|VERB",
+"dile\tdile\tNOUN": "decir|VERB",
+"ocuparé\tocuparar\tVERB": "ocupar|VERB",
+"ocuparemos\tocuparar\tVERB": "ocupar|VERB",
+"abrid\tabrid\tVERB": "abrir|VERB",
+"estábamos\testár\tAUX": "estar|VERB",
+"estábamos\testár\tVERB": "estar|VERB",
+"conocerte\tconocerte\tVERB": "conocer|VERB",
+"quizás\tquizás\tADV": "quizá|ADV",
+"veréis\tveréis\tVERB": "ver|VERB",
+"serio\tserio\tNOUN": "serio|ADJ",
+"traigan\ttraigan\tVERB": "traer|VERB",
+"oí\toir\tVERB": "oír|VERB",
+"oyeron\toir\tVERB": "oír|VERB",
+"oye\toir\tVERB": "oír|VERB",
+"oyó\toir\tVERB": "oír|VERB",
+"oírte\toir tú\tVERB": "oír|VERB",
+"oírla\toir él\tVERB": "oír|VERB",
+"oírlo\toir él\tVERB": "oír|VERB",
+"oyendo\toir\tVERB": "oír|VERB",
+"oían\toir\tVERB": "oír|VERB",
+"oírle\toir él\tVERB": "oír|VERB",
+"oyen\toir\tVERB": "oír|VERB",
+"oía\toir\tVERB": "oír|VERB",
+"oírse\toir él\tVERB": "oír|VERB",
+"oírnos\toir yo\tVERB": "oír|VERB",
+"oírme\toir yo\tVERB": "oír|VERB",
+"oírles\toir él\tVERB": "oír|VERB",
+"oyéndole\toir él\tVERB": "oír|VERB",
+"oyéndose\toir él\tVERB": "oír|VERB",
+"has\thas\tAUX": "haber|VERB",
+"has\thas\tVERB": "haber|VERB",
+"unirte\tunirte\tVERB": "unir|VERB",
+"bendiga\tbendigar\tVERB": "bendecir|VERB",
+"pregunten\tpreguntir\tVERB": "preguntar|VERB",
+"preguntas\tpreguntir\tVERB": "preguntar|VERB",
+"deberíamos\tdebeer\tAUX": "deber|VERB",
+"dime\tdime\tVERB": "decir|VERB",
+"publicado\tpublicado\tADJ": "publicar|VERB",
+"cometidos\tcometido\tADJ": "cometido|NOUN",
+"cometido\tcometido\tADJ": "cometer|VERB",
+"podréis\tpodréis\tAUX": "poder|VERB",
+"largas\tlarga\tADJ": "largo|ADJ",
+"seas\tsear\tAUX": "ser|VERB",
+"seamos\tsear\tAUX": "ser|VERB",
+"seáis\tsear\tVERB": "ser|VERB",
+"echado\techado\tADJ": "echar|VERB",
+"tratado\ttratado\tADJ": "tratar|VERB",
+"tratados\ttratado\tADJ": "tratado|NOUN",
+"darte\tdarte\tVERB": "dar|VERB",
+"rompí\trompí\tVERB": "romper|VERB",
+"preocuparte\tpreocupartir\tVERB": "preocupar|VERB",
+"heridos\therido\tNOUN": "herido|ADJ",
+"herido\therido\tNOUN": "herido|ADJ",
+"darías\tdarías\tVERB": "dar|VERB",
+"enferma\tenferma\tNOUN": "enfermo|ADJ",
+"quisieras\tquisierar\tVERB": "querer|VERB",
+"quisiera\tquisierar\tVERB": "querer|VERB",
+"quisieren\tquisierar\tVERB": "querer|VERB",
+"quite\tquitir\tVERB": "quitar|VERB",
+"quitamos\tquitir\tVERB": "quitar|VERB",
+"quiten\tquitir\tVERB": "quitar|VERB",
+"venga\tvenga\tVERB": "venir|VERB",
+"hoy\thoy\tNOUN": "hoy|ADV",
+"eres\terar\tVERB": "ser|VERB",
+"eras\terar\tAUX": "ser|VERB",
+"pudiste\tpudiste\tAUX": "poder|VERB",
+"pudiste\tpudiste\tVERB": "poder|VERB",
+"corte\tcortir\tVERB": "cortar|VERB",
+"corten\tcortir\tVERB": "cortar|VERB",
+"cortamos\tcortir\tVERB": "cortar|VERB",
+"dame\tdame\tVERB": "dar|VERB",
+"haz\thaz\tVERB": "hacer|VERB",
+"fin\tfin\tADJ": "fin|NOUN",
+"quédate\tquédate\tNOUN": "quedar|VERB",
+"reposo\treposo\tADJ": "reposar|VERB",
+"encontraste\tencontraste\tVERB": "encontrar|VERB",
+"conseguiste\tconseguistir\tVERB": "conseguir|VERB",
+"detente\tdetente\tADJ": "detener|VERB",
+"dónde\tdónde\tADJ": "dónde|NOUN",
+"mas\tmas\tADV": "más|ADV",
+"ibas\tibar\tAUX": "ir|VERB",
+"ibas\tibar\tVERB": "ir|VERB",
+"mía\tmía\tDET": "mío|DET",
+"servido\tservido\tADJ": "servir|VERB",
+"asi\tasi\tNOUN": "así|ADV",
+"sois\tsois\tAUX": "ser|VERB",
+"sois\tsois\tVERB": "ser|VERB",
+"permítame\tpermítame\tVERB": "permitir|VERB",
+"ayúdeme\tayúdeme\tVERB": "ayudar|VERB",
+"ayúdeme\tayúdeme\tAUX": "ayudar|VERB",
+"creerme\tcreerme\tVERB": "creer|VERB",
+"tendréis\ttendréis\tVERB": "tener|VERB",
+"tercer\ttercer\tADJ": "tercero|ADJ",
+"francos\tfrancos\tNOUN": "franco|NOUN",
+"reúnen\treúnir\tVERB": "reunir|VERB",
+"reúne\treúnir\tVERB": "reunir|VERB",
+"afueras\tafuera\tNOUN": "afueras|NOUN",
+"afuera\tafuera\tNOUN": "afuera|ADV",
+"déjame\tdéjamir\tVERB": "dejar|VERB",
+"hables\thablser\tVERB": "hablar|VERB",
+"engañado\tengañado\tADJ": "engañar|VERB",
+"casarás\tcasarás\tVERB": "casar|VERB",
+"aceptaré\taceptarar\tVERB": "aceptar|VERB",
+"entre\tentre\tADV": "entre|ADP",
+"prepárate\tprepáratir\tVERB": "preparar|VERB",
+"arduo\tarduo\tNOUN": "arduo|ADJ",
+"dulces\tdulz\tNOUN": "dulce|NOUN",
+"haberme\thaberme\tAUX": "haber|VERB",
+"dólares\tdólares\tNOUN": "dólar|NOUN",
+"necesitaremos\tnecesitarer\tVERB": "necesitar|VERB",
+"vengas\tvengas\tVERB": "venir|VERB",
+"entiendes\tentiendar\tVERB": "entender|VERB",
+"encontremos\tencontrer\tVERB": "encontrar|VERB",
+"preparativos\tpreparativo\tNOUN": "preparativo|ADJ",
+"camarada\tcamarado\tADJ": "camarada|NOUN",
+"sumido\tsumido\tADJ": "sumir|VERB",
+"deme\tdeme\tVERB": "dar|VERB",
+"oye\toye\tVERB": "oír|VERB",
+"brindemos\tbrinder\tVERB": "brindar|VERB",
+"crees\tcreser\tVERB": "creer|VERB",
+"inmediato\tinmediato\tNOUN": "inmediato|ADJ",
+"ayudaré\tayudaré\tVERB": "ayudar|VERB",
+"atrevió\tatreveír\tVERB": "atrever|VERB",
+"atrevieron\tatreveír\tVERB": "atrever|VERB",
+"atreviera\tatreveír\tVERB": "atrever|VERB",
+"atreviese\tatreveír\tVERB": "atrever|VERB",
+"serás\tserás\tAUX": "ser|VERB",
+"hacerte\thacerte\tVERB": "hacer|VERB",
+"tráeme\ttráemir\tVERB": "traer|VERB",
+"saldremos\tsaldrar\tVERB": "salir|VERB",
+"saldré\tsaldrar\tVERB": "salir|VERB",
+"salvo\tsalvo\tNOUN": "salvar|VERB",
+"diviértete\tdiviértetir\tVERB": "divertir|VERB",
+"dejaste\tdejastir\tVERB": "dejar|VERB",
+"cuéntame\tcuéntame\tVERB": "contar|VERB",
+"irás\tirás\tVERB": "ir|VERB",
+"irás\tirás\tAUX": "ir|VERB",
+"esclava\tesclavo\tADJ": "esclava|NOUN",
+"esclavas\tesclavo\tADJ": "esclava|NOUN",
+"esclavo\tesclavo\tADJ": "esclavo|NOUN",
+"esclavos\tesclavo\tADJ": "esclavo|NOUN",
+"salvarte\tsalvarte\tVERB": "salvar|VERB",
+"conoces\tconoz\tADJ": "conocer|VERB",
+"poseo\tposeo\tVERB": "poseer|VERB",
+"olía\toliar\tVERB": "oler|VERB",
+"llamen\tllamen\tVERB": "llamar|VERB",
+"serás\tserar\tAUX": "ser|VERB",
+"seremos\tserar\tVERB": "ser|VERB",
+"debo\tdebo\tVERB": "deber|VERB",
+"debo\tdebo\tAUX": "deber|VERB",
+"acerques\tacerques\tVERB": "acercar|VERB",
+"artes\tart\tNOUN": "arte|NOUN",
+"veras\tvera\tADJ": "vero|ADJ",
+"despues\tdespu\tNOUN": "después|ADV",
+"esperé\tesperé\tVERB": "esperar|VERB",
+"dale\tdale\tVERB": "dar|VERB",
+"matarte\tmatarte\tVERB": "matar|VERB",
+"quieres\tquieres\tVERB": "querer|VERB",
+"quedaremos\tquedaremos\tVERB": "quedar|VERB",
+"rodeado\trodeado\tADJ": "rodear|VERB",
+"dictado\tdictado\tADJ": "dictar|VERB",
+"digas\tdigar\tVERB": "decir|VERB",
+"digamos\tdigar\tVERB": "decir|VERB",
+"basta\tbasta\tADJ": "basto|ADJ",
+"bastas\tbasta\tADJ": "basto|ADJ",
+"deberíais\tdeberíais\tAUX": "deber|VERB",
+"deberíais\tdeberíais\tVERB": "deber|VERB",
+"preguntarte\tpreguntarte\tVERB": "preguntar|VERB",
+"dejes\tdejes\tVERB": "dejar|VERB",
+"dejes\tdejes \tVERB": "dejar|VERB",
+"tendrás\ttendrar\tVERB": "tener|VERB",
+"tendrás\ttendrar\tAUX": "tener|VERB",
+"tendré\ttendrar\tVERB": "tener|VERB",
+"acabo\tacabo\tVERB": "acabar|VERB",
+"has\thas\tNOUN": "haber|VERB",
+"déjalo\tdéjalir\tVERB": "dejar|VERB",
+"déjale\tdéjalir\tVERB": "dejar|VERB",
+"suplico\tsuplicir\tVERB": "suplicar|VERB",
+"podremos\tpodrer\tAUX": "poder|VERB",
+"podréis\tpodrer\tAUX": "poder|VERB",
+"vas\tvas\tAUX": "ir|VERB",
+"vas\tvas\tVERB": "ir|VERB",
+"prometí\tprometí\tVERB": "prometer|VERB",
+"diste\tdiste\tVERB": "dar|VERB",
+"iré\tiré\tVERB": "ir|VERB",
+"iré\tiré\tAUX": "ir|VERB",
+"urgentemente\turgentemente\tADJ": "urgentemente|ADV",
+"ocupe\tocupir\tVERB": "ocupar|VERB",
+"di\tdi\tAUX": "decir|VERB",
+"di\tdi\tVERB": "decir|VERB",
+"díselo\tdi él él\tVERB": "decir|VERB",
+"di\tdi \tVERB": "decir|VERB",
+"fijado\tfijado\tADJ": "fijar|VERB",
+"designados\tdesignado\tADJ": "designado|NOUN",
+"designado\tdesignado\tADJ": "designar|VERB",
+"designada\tdesignado\tADJ": "designada|NOUN",
+"designadas\tdesignado\tADJ": "designada|NOUN",
+"hubieras\thubierar\tAUX": "haber|VERB",
+"hubiere\thubierar\tAUX": "haber|VERB",
+"dió\tdeír\tVERB": "dar|VERB",
+"súbito\tsúbito\tNOUN": "súbito|ADJ",
+"podrás\tpodrar\tAUX": "poder|VERB",
+"podremos\tpodrar\tVERB": "poder|VERB",
+"vete\tvetir\tVERB": "ir|VERB",
+"vete\tvetir\tAUX": "ir|VERB",
+"querías\tquerías\tVERB": "querer|VERB",
+"querías\tquerías\tAUX": "querer|VERB",
+"sabéis\tsabéis\tVERB": "saber|VERB",
+"sabéis\tsabéis\tAUX": "saber|VERB",
+"consigo\tconsigo\tVERB": "conseguir|VERB",
+"mismísimo\tmismísimo\tADJ": "mismo|ADJ",
+"americanas\tamericana\tADJ": "americano|ADJ",
+"esperabas\tesperabar\tVERB": "esperar|VERB",
+"preste\tprestir\tVERB": "prestar|VERB",
+"presten\tprestir\tVERB": "prestar|VERB",
+"sonreir\tsonreir\tVERB": "sonreír|VERB",
+"sonreía\tsonreir\tVERB": "sonreír|VERB",
+"sonriendo\tsonreir\tVERB": "sonreír|VERB",
+"sonreí\tsonreir\tVERB": "sonreír|VERB",
+"sonreían\tsonreir\tVERB": "sonreír|VERB",
+"sonriéndose\tsonreir él\tVERB": "sonreír|VERB",
+"asegúrate\tasegúratir\tVERB": "asegurar|VERB",
+"sepas\tsepas\tVERB": "saber|VERB",
+"rio\trio\tADJ": "río|NOUN",
+"quédense\tquédense\tADJ": "quedar|VERB",
+"tal\ttal\tNOUN": "tal|PRON",
+"lleves\tlleves\tVERB": "llevar|VERB",
+"sirvo\tsirvo\tVERB": "servir|VERB",
+"esperábamos\tesperár\tVERB": "esperar|VERB",
+"quedaras\tquedarar\tVERB": "quedar|VERB",
+"quedarás\tquedarar\tVERB": "quedar|VERB",
+"quedare\tquedarar\tVERB": "quedar|VERB",
+"hablemos\thabler\tVERB": "hablar|VERB",
+"intentas\tintentas\tVERB": "intentar|VERB",
+"tenéis\ttenéis\tVERB": "tener|VERB",
+"cálmate\tcálmate\tNOUN": "calmar|VERB",
+"estás\testás\tVERB": "estar|VERB",
+"estás\testás\tAUX": "estar|VERB",
+"llamaré\tllamaré\tVERB": "llamar|VERB",
+"estáis\testáis\tAUX": "estar|VERB",
+"estáis\testáis\tVERB": "estar|VERB",
+"sentirás\tsentirás\tVERB": "sentir|VERB",
+"dime\tdime\tNOUN": "decir|VERB",
+"quedarte\tquedartar\tVERB": "quedar|VERB",
+"poquito\tpoquito\tADV": "poco|ADV",
+"encontraremos\tencontrarer\tVERB": "encontrar|VERB",
+"ten\tten\tVERB": "tener|VERB",
+"cumpleaños\tcumpleaño\tNOUN": "cumpleaños|NOUN",
+"harás\tharás\tVERB": "hacer|VERB",
+"buenas\tbuena\tADJ": "bueno|ADJ",
+"hicimos\thicir\tVERB": "hacer|VERB",
+"escúchame\tescúchame\tINTJ": "escuchar|VERB",
+"hasta\thasta\tNOUN": "hasta|ADP",
+"salgas\tsalgas\tVERB": "salir|VERB",
+"saldré\tsaldré\tVERB": "salir|VERB",
+"dirás\tdirás\tVERB": "decir|VERB",
+"hicieras\thicierar\tVERB": "hacer|VERB",
+"hiciere\thicierar\tVERB": "hacer|VERB",
+"hicieren\thicierar\tVERB": "hacer|VERB",
+"pareces\tparecser\tVERB": "parecer|VERB",
+"pareces\tparecser\tAUX": "parecer|VERB",
+"siquiera\tsiquiera\tNOUN": "siquiera|ADV",
+"siéntate\tsiéntatir\tVERB": "sentar|VERB",
+"caballeros\tcaballero\tADJ": "caballero|NOUN",
+"caballero\tcaballero\tADJ": "caballero|NOUN",
+"solo\tsolo\tNOUN": "solo|ADV",
+"solos\tsolo\tNOUN": "solo|ADJ",
+"llevarte\tllevarte\tVERB": "llevar|VERB",
+"haced\thaced\tVERB": "hacer|VERB",
+"queráis\tqueráis\tVERB": "querer|VERB",
+"estarías\testariar\tAUX": "estar|VERB",
+"estarías\testariar\tVERB": "estar|VERB",
+"toque\ttoquir\tVERB": "tocar|VERB",
+"riendo\treir\tVERB": "reír|VERB",
+"reir\treir\tVERB": "reír|VERB",
+"reírme\treir yo\tVERB": "reír|VERB",
+"reírte\treir tú\tVERB": "reír|VERB",
+"reí\treir\tVERB": "reír|VERB",
+"reirme\treir yo\tVERB": "reír|VERB",
+"reírse\treir él\tVERB": "reír|VERB",
+"ríen\treir\tVERB": "reír|VERB",
+"reían\treir\tVERB": "reír|VERB",
+"riéndose\treir él\tVERB": "reír|VERB",
+"reía\treir\tVERB": "reír|VERB",
+"reíamos\treir\tVERB": "reír|VERB",
+"reirse\treir él\tVERB": "reír|VERB",
+"reírnos\treir yo\tVERB": "reír|VERB",
+"reimos\treir\tVERB": "reír|VERB",
+"decirte\tdecirte\tVERB": "decir|VERB",
+"escucharme\tescucharme\tVERB": "escuchar|VERB",
+"vistas\tvistas\tNOUN": "vista|NOUN",
+"oímos\toímos\tVERB": "oír|VERB",
+"habías\thabiar\tAUX": "haber|VERB",
+"estabas\testabas\tAUX": "estar|VERB",
+"estabas\testabas\tVERB": "estar|VERB",
+"tan\ttan\tNOUN": "tan|ADV",
+"tuviéramos\ttuviérar\tVERB": "tener|VERB",
+"volverás\tvolverás\tVERB": "volver|VERB",
+"traje\ttraje\tVERB": "traer|VERB",
+"jovencito\tjovencito\tNOUN": "joven|NOUN",
+"jovencitos\tjovencito\tNOUN": "joven|NOUN",
+"escuches\tescuches\tVERB": "escuchar|VERB",
+"apúrate\tapúrate\tINTJ": "apurar|VERB",
+"acostarte\tacostarte\tVERB": "acostar|VERB",
+"déjenme\tdéjenme\tVERB": "dejar|VERB",
+"déjenme\tdéjenme\tAUX": "dejar|VERB",
+"fueras\tfuera\tNOUN": "ser|VERB",
+"fuera\tfuera\tNOUN": "ser|VERB",
+"pongas\tpongas\tVERB": "poner|VERB",
+"atreverá\tatreveer\tVERB": "atrever|VERB",
+"atrevería\tatreveer\tVERB": "atrever|VERB",
+"atreveré\tatreveer\tVERB": "atrever|VERB",
+"puedas\tpuedas\tAUX": "poder|VERB",
+"pónganse\tpóngansir\tVERB": "poner|VERB",
+"rompan\trompar\tVERB": "romper|VERB",
+"rompas\trompar\tVERB": "romper|VERB",
+"pensábamos\tpensár\tVERB": "pensar|VERB",
+"demás\tdemá\tPRON": "demás|PRON",
+"espere\tespere\tVERB": "esperar|VERB",
+"mire\tmire\tVERB": "mirar|VERB",
+"engañarte\tengañarte\tVERB": "engañar|VERB",
+"tuviste\ttuviste\tVERB": "tener|VERB",
+"realizado\trealizado\tADJ": "realizar|VERB",
+"mandamos\tmandir\tVERB": "mandar|VERB",
+"mande\tmandir\tVERB": "mandar|VERB",
+"manden\tmandir\tVERB": "mandar|VERB",
+"moleste\tmolestir\tVERB": "molestar|VERB",
+"supongo\tsupongo\tVERB": "suponer|VERB",
+"déjese\tdéjese\tVERB": "dejar|VERB",
+"habéis\thabéis\tAUX": "haber|VERB",
+"habéis\thabéis\tVERB": "haber|VERB",
+"escuchen\tescuchen\tVERB": "escuchar|VERB",
+"próximos\tpróximo\tNOUN": "próximo|ADJ",
+"enfría\tenfer\tVERB": "enfriar|VERB",
+"enfrían\tenfer\tVERB": "enfriar|VERB",
+"siéntate\tsiéntate\tINTJ": "sentar|VERB",
+"tenías\ttenías\tVERB": "tener|VERB",
+"olvides\tolvidser\tVERB": "olvidar|VERB",
+"olvides\tolvidser\tAUX": "olvidar|VERB",
+"olvidé\tolvidé\tVERB": "olvidar|VERB",
+"olvidé\tolvidé\tAUX": "olvidar|VERB",
+"tuvieras\ttuvierar\tVERB": "tener|VERB",
+"tuviere\ttuvierar\tVERB": "tener|VERB",
+"créeme\tcréeme\tVERB": "creer|VERB",
+"perdone\tperdone\tVERB": "perdonar|VERB",
+"llores\tllor\tNOUN": "llorar|VERB",
+"podías\tpodías\tAUX": "poder|VERB",
+"quedarte\tquedartir\tVERB": "quedar|VERB",
+"diles\tdil\tNOUN": "decir|VERB",
+"x\tx\tNOUN": "por|ADP",
+"paracaídas\tparacaída\tNOUN": "paracaídas|NOUN",
+"paren\tparen\tVERB": "parar|VERB",
+"acabe\tacabir\tVERB": "acabar|VERB",
+"acabamos\tacabir\tVERB": "acabar|VERB",
+"acabas\tacabir\tVERB": "acabar|VERB",
+"pensado\tpensado\tADJ": "pensar|VERB",
+"mando\tmar\tVERB": "mandar|VERB",
+"métete\tmar tú tú\tVERB": "meter|VERB",
+"mientas\tmienta\tNOUN": "mentir|VERB",
+"mienta\tmienta\tNOUN": "mentir|VERB",
+"moribundos\tmoribundo\tNOUN": "moribundo|ADJ",
+"moribundo\tmoribundo\tNOUN": "moribundo|ADJ",
+"siéntate\tsiéntate\tNOUN": "sentar|VERB",
+"quité\tquité\tVERB": "quitar|VERB",
+"atreve\tatrevir\tVERB": "atrever|VERB",
+"atrevo\tatrevir\tVERB": "atrever|VERB",
+"atrevido\tatrevir\tVERB": "atrever|VERB",
+"atreva\tatrevir\tVERB": "atrever|VERB",
+"atreven\tatrevir\tVERB": "atrever|VERB",
+"atrevía\tatrevir\tVERB": "atrever|VERB",
+"contaste\tcontaste\tVERB": "contar|VERB",
+"estuviste\testuviste\tVERB": "estar|VERB",
+"estuviste\testuviste\tAUX": "estar|VERB",
+"viste\tviste\tVERB": "ver|VERB",
+"ponerte\tponerte\tVERB": "poner|VERB",
+"di\tdi\tINTJ": "decir|VERB",
+"cállate\tcállatir\tVERB": "callar|VERB",
+"aqui\taqui\tNOUN": "aquí|ADV",
+"hayas\thayas\tAUX": "haber|VERB",
+"irte\tirte\tVERB": "ir|VERB",
+"veamos\tvear\tVERB": "ver|VERB",
+"veas\tvear\tVERB": "ver|VERB",
+"vean\tvear\tVERB": "ver|VERB",
+"muchísimas\tmuchísimos\tDET": "mucho|DET",
+"muchísimos\tmuchísimos\tDET": "mucho|DET",
+"metas\tmetar\tVERB": "meter|VERB",
+"metan\tmetar\tVERB": "meter|VERB",
+"metemos\tmetar\tVERB": "meter|VERB",
+"metamos\tmetar\tVERB": "meter|VERB",
+"meten\tmetar\tVERB": "meter|VERB",
+"enredado\tenredado\tADJ": "enredar|VERB",
+"estarás\testarar\tAUX": "estar|VERB",
+"estaremos\testarar\tVERB": "estar|VERB",
+"estarás\testarar\tVERB": "estar|VERB",
+"estaremos\testarar\tAUX": "estar|VERB",
+"irás\tirar\tVERB": "ir|VERB",
+"iré\tirar\tVERB": "ir|VERB",
+"iremos\tirar\tVERB": "ir|VERB",
+"iré\tirar\tAUX": "ir|VERB",
+"irá\tirar\tAUX": "ir|VERB",
+"irás\tirar\tAUX": "ir|VERB",
+"iré\tirar \tVERB": "ir|VERB",
+"hundido\thundido\tADJ": "hundir|VERB",
+"habíamos\thabíar\tAUX": "haber|VERB",
+"haberte\thaberte\tAUX": "haber|VERB",
+"déjate\tdéjate\tVERB": "dejar|VERB",
+"hagas\thagas\tVERB": "hacer|VERB",
+"vigile\tvigilir\tVERB": "vigilar|VERB",
+"vigilan\tvigilir\tVERB": "vigilar|VERB",
+"tenías\tteniar\tVERB": "tener|VERB",
+"tenías\tteniar\tAUX": "tener|VERB",
+"coja\tcojar\tVERB": "coger|VERB",
+"cojan\tcojar\tVERB": "coger|VERB",
+"estúpido\testúpido\tINTJ": "estúpido|ADJ",
+"hacerme\thacerme\tVERB": "hacer|VERB",
+"pareces\tpareces\tVERB": "parecer|VERB",
+"pareces\tpareces\tAUX": "parecer|VERB",
+"privado\tprivado\tNOUN": "privado|ADJ",
+"privados\tprivado\tNOUN": "privado|ADJ",
+"díselo\tdíselir\tVERB": "decir|VERB",
+"caray\tcaray\tNOUN": "caray|INTJ",
+"dijiste\tdijistir\tVERB": "decir|VERB",
+"fuéramos\tfuser\tVERB": "ser|VERB",
+"fuéramos\tfuser\tAUX": "ser|VERB",
+"pedirte\tpedirte\tVERB": "pedir|VERB",
+"volviste\tvolviste\tVERB": "volver|VERB",
+"pues\tpues\tNOUN": "pues|CCONJ",
+"chófer\tchófer\tNOUN": "chofer|NOUN",
+"chóferes\tchófer\tNOUN": "chofer|NOUN",
+"marcharte\tmarcharte\tVERB": "marchar|VERB",
+"partir\tpartir\tNOUN": "partir|VERB",
+"observen\tobservir\tVERB": "observar|VERB",
+"observan\tobservir\tVERB": "observar|VERB",
+"bajen\tbajen\tVERB": "bajar|VERB",
+"pobres\tpobre\tNOUN": "pobre|ADJ",
+"pobre\tpobre\tNOUN": "pobre|ADJ",
+"abran\tabrar\tVERB": "abrir|VERB",
+"abra\tabrar\tVERB": "abrir|VERB",
+"abras\tabrar\tVERB": "abrir|VERB",
+"sepa\tsepa\tVERB": "saber|VERB",
+"dejaré\tdejaré\tVERB": "dejar|VERB",
+"utilizado\tutilizado\tADJ": "utilizar|VERB",
+"dejen\tdejen\tVERB": "dejar|VERB",
+"porqué\tporqué\tPRON": "porqué|NOUN",
+"quédate\tquédatar\tVERB": "quedar|VERB",
+"escribiré\tescribiré\tVERB": "escribir|VERB",
+"absoluto\tabsoluto\tNOUN": "absoluto|ADJ",
+"di\tdi\tNOUN": "decir|VERB",
+"echas\techas\tVERB": "echar|VERB",
+"mirad\tmirad\tINTJ": "mirar|VERB",
+"todos\ttodos\tNOUN": "todo|DET",
+"modos\tmodos\tNOUN": "modo|NOUN",
+"solas\tsolas\tNOUN": "solo|ADJ",
+"matarme\tmatarme\tVERB": "matar|VERB",
+"muévete\tmuévete\tINTJ": "mover|VERB",
+"alabado\talabado\tADJ": "alabar|VERB",
+"dejad\tdejad\tVERB": "dejar|VERB",
+"desde\tdesde\tNOUN": "desde|ADP",
+"tome\ttome\tVERB": "tomar|VERB",
+"dejadme\tdejadmir\tVERB": "dejar|VERB",
+"hablé\thablé\tVERB": "hablar|VERB",
+"dejarte\tdejarte\tVERB": "dejar|VERB",
+"viniste\tviniste\tVERB": "venir|VERB",
+"sentiría\tsentirir\tVERB": "sentir|VERB",
+"guantes\tguant\tNOUN": "guante|NOUN",
+"traiga\ttraigar\tVERB": "traer|VERB",
+"dígale\tdígalar\tVERB": "decir|VERB",
+"suban\tsuban \tVERB": "subir|VERB",
+"suban\tsuban\tVERB": "subir|VERB",
+"cuándo\tcuándo\tNOUN": "cuándo|ADV",
+"también\ttambién\tNOUN": "también|ADV",
+"os\tos\tINTJ": "ox|INTJ",
+"dame\tdame\tNOUN": "dar|VERB",
+"verás\tverar\tVERB": "ver|VERB",
+"pregúntale\tpregúntalir\tVERB": "preguntar|VERB",
+"vámonos\tvámono\tNOUN": "ir|VERB",
+"rompo\trompo\tVERB": "romper|VERB",
+"tendrás\ttendrás\tVERB": "tener|VERB",
+"líos\tlíos\tNOUN": "lío|NOUN",
+"venid\tvenid\tVERB": "venir|VERB",
+"sabré\tsabré\tVERB": "saber|VERB",
+"decírselo\tdecírselo\tVERB": "decir|VERB",
+"permitiré\tpermitiré\tVERB": "permitir|VERB",
+"dímelo\tdímelo\tINTJ": "decir|VERB",
+"enteré\tenteer\tVERB": "enterar|VERB",
+"miren\tmiren\tVERB": "mirar|VERB",
+"miren\tmiren \tVERB": "mirar|VERB",
+"quédate\tquédate\tVERB": "quedar|VERB",
+"molestes\tmolestser\tVERB": "molestar|VERB",
+"estabas\testabar\tVERB": "estar|VERB",
+"estabas\testabar\tAUX": "estar|VERB",
+"malas\tmala\tADJ": "malo|ADJ",
+"mala\tmala\tADJ": "malo|ADJ",
+"ratito\tratito\tNOUN": "rato|NOUN",
+"ayúdame\tayúdame\tVERB": "ayudar|VERB",
+"ayúdame\tayúdame\tAUX": "ayudar|VERB",
+"muchacho\tmuchacho\tADJ": "muchacho|NOUN",
+"muchachos\tmuchacho\tADJ": "muchacho|NOUN",
+"sea\tsea\tINTJ": "ser|VERB",
+"fuere\tfuerar\tVERB": "ser|VERB",
+"fueras\tfuerar\tAUX": "ser|VERB",
+"fueras\tfuerar\tVERB": "ser|VERB",
+"fueren\tfuerar\tVERB": "ser|VERB",
+"fuere\tfuerar\tAUX": "ser|VERB",
+"espere\tesperir\tVERB": "esperar|VERB",
+"déjala\tdéjalar\tVERB": "dejar|VERB",
+"déjalas\tdéjalar\tVERB": "dejar|VERB",
+"déjale\tdéjalar\tVERB": "dejar|VERB",
+"vamos\tvamo\tNOUN": "ir|VERB",
+"siéntese\tsiéntesar\tVERB": "sentar|VERB",
+"mejor\tmejor\tNOUN": "mejor|ADJ",
+"mostrarte\tmostrarte\tVERB": "mostrar|VERB",
+"comprendo\tcomprendo\tVERB": "comprender|VERB",
+"vais\tvais\tAUX": "ir|VERB",
+"vais\tvais\tVERB": "ir|VERB",
+"encontrarás\tencontrarás\tVERB": "encontrar|VERB",
+"diga\tdiga\tVERB": "decir|VERB",
+"oiga\toiga\tVERB": "oír|VERB",
+"decirme\tdecirme\tVERB": "decir|VERB",
+"tendré\ttendré\tVERB": "tener|VERB",
+"descubierto\tdescubierto\tNOUN": "descubrir|VERB",
+"corramos\tcorrar\tVERB": "correr|VERB",
+"corran\tcorrar\tVERB": "correr|VERB",
+"corremos\tcorrar\tVERB": "correr|VERB",
+"corra\tcorrar\tVERB": "correr|VERB",
+"corras\tcorrar\tVERB": "correr|VERB",
+"toda\ttoda\tNOUN": "todo|DET",
+"todas\ttoda\tNOUN": "todo|DET",
+"tómate\ttómatir\tVERB": "tomar|VERB",
+"reverendo\treverendo\tNOUN": "reverendo|ADJ",
+"buena\tbuena\tADP": "bueno|ADJ",
+"ponte\tpontir\tVERB": "poner|VERB",
+"oirá\toier\tVERB": "oír|VERB",
+"oiría\toier\tVERB": "oír|VERB",
+"oiremos\toier\tVERB": "oír|VERB",
+"oirán\toier\tVERB": "oír|VERB",
+"oirás\toier\tVERB": "oír|VERB",
+"atreves\tatreves\tVERB": "atrever|VERB",
+"pronto\tpronto\tNOUN": "pronto|ADV",
+"fé\tfé\tNOUN": "fe|NOUN",
+"pase\tpase\tVERB": "pasar|VERB",
+"permitido\tpermitido\tADJ": "permitir|VERB",
+"esperabas\tesperabas\tVERB": "esperar|VERB",
+"dímelo\tdímelo\tADJ": "decir|VERB",
+"empieces\tempieces\tAUX": "empezar|VERB",
+"empieces\tempieces\tVERB": "empezar|VERB",
+"besito\tbesito\tNOUN": "beso|NOUN",
+"estremece\testremecir\tVERB": "estremecer|VERB",
+"estremecía\testremecir\tVERB": "estremecer|VERB",
+"estremecían\testremecir\tVERB": "estremecer|VERB",
+"digas\tdigas\tVERB": "decir|VERB",
+"dijiste\tdijistar\tVERB": "decir|VERB",
+"descubran\tdescubrar\tVERB": "descubrir|VERB",
+"descubra\tdescubrar\tVERB": "descubrir|VERB",
+"descubramos\tdescubrar\tVERB": "descubrir|VERB",
+"descubren\tdescubrar\tVERB": "descubrir|VERB",
+"ves\tves\tINTJ": "ir|VERB",
+"hacías\thacías\tVERB": "hacer|VERB",
+"muchísimo\tmuchísimo\tADV": "mucho|ADV",
+"decírtelo\tdecírtelir\tVERB": "decir|VERB",
+"perderte\tperderte\tVERB": "perder|VERB",
+"permita\tpermitar\tVERB": "permitir|VERB",
+"permites\tpermitar\tVERB": "permitir|VERB",
+"permitas\tpermitar\tVERB": "permitir|VERB",
+"permitamos\tpermitar\tVERB": "permitir|VERB",
+"vayamos\tvayamos\tVERB": "ir|VERB",
+"sigamos\tsigar\tVERB": "seguir|VERB",
+"sigas\tsigar\tVERB": "seguir|VERB",
+"siga\tsigar\tVERB": "seguir|VERB",
+"sigamos\tsigar\tAUX": "seguir|VERB",
+"sigas\tsigar\tAUX": "seguir|VERB",
+"según\tsegún\tSCONJ": "según|ADP",
+"canalla\tcanallo\tADJ": "canalla|NOUN",
+"recuerdas\trecuerdas\tVERB": "recordar|VERB",
+"recuerdas\trecuerdas\tAUX": "recordar|VERB",
+"dale\tdale\tNOUN": "dar|VERB",
+"llegues\tlleguser\tVERB": "llegar|VERB",
+"des\tdser\tVERB": "dar|VERB",
+"des\tdser\tAUX": "dar|VERB",
+"veré\tveré\tVERB": "ver|VERB",
+"empiezas\tempiezas\tVERB": "empezar|VERB",
+"estés\testés\tAUX": "estar|VERB",
+"estés\testés\tVERB": "estar|VERB",
+"mírame\tmírame\tVERB": "mirar|VERB",
+"disculpe\tdisculpe\tVERB": "disculpar|VERB",
+"dijiste\tdijiste\tVERB": "decir|VERB",
+"tomarte\ttomarte\tVERB": "tomar|VERB",
+"muelles\tmuell\tNOUN": "muelle|NOUN",
+"harías\thariar\tVERB": "hacer|VERB",
+"harías\thariar\tAUX": "hacer|VERB",
+"vuelvan\tvuelvan\tVERB": "volver|VERB",
+"sabías\tsabiar\tVERB": "saber|VERB",
+"salgan\tsalgan\tVERB": "salir|VERB",
+"equivocas\tequivoca\tADJ": "equivocar|VERB",
+"cuentes\tcuent\tADJ": "contar|VERB",
+"ponlo\tponlir\tVERB": "poner|VERB",
+"ponle\tponlir\tVERB": "poner|VERB",
+"deje\tdeje\tVERB": "dejar|VERB",
+"déjelo\tdeje él\tVERB": "dejar|VERB",
+"háblame\tháblame\tINTJ": "hablar|VERB",
+"permites\tpermit\tADJ": "permitir|VERB",
+"equivalente\tequivalente\tNOUN": "equivalente|ADJ",
+"trate\ttratir\tAUX": "tratar|VERB",
+"traten\ttratir\tVERB": "tratar|VERB",
+"mueva\tmueir\tVERB": "mover|VERB",
+"muevas\tmueir\tVERB": "mover|VERB",
+"muevan\tmueir\tVERB": "mover|VERB",
+"rico\trico\tNOUN": "rico|ADJ",
+"ricos\trico\tNOUN": "rico|ADJ",
+"come\tcome\tVERB": "comer|VERB",
+"levántate\tlevántate\tINTJ": "levantar|VERB",
+"decís\tdecís\tVERB": "decir|VERB",
+"vos\tvo\tNOUN": "vos|PRON",
+"enseñe\tenseñe\tVERB": "enseñar|VERB",
+"date\tdate\tVERB": "dar|VERB",
+"guisantes\tguisant\tNOUN": "guisante|NOUN",
+"elegido\telegido\tADJ": "elegir|VERB",
+"elegidos\telegido\tADJ": "elegido|NOUN",
+"elegida\telegido\tADJ": "elegida|NOUN",
+"elegidas\telegido\tADJ": "elegida|NOUN",
+"perdóname\tperdóname\tINTJ": "perdonar|VERB",
+"comprendas\tcomprendar\tVERB": "comprender|VERB",
+"comprenda\tcomprendar\tVERB": "comprender|VERB",
+"olvídalo\tolvídalir\tVERB": "olvidar|VERB",
+"tardaré\ttardaré\tVERB": "tardar|VERB",
+"suéltame\tsuéltame\tINTJ": "soltar|VERB",
+"haga\thaga\tAUX": "hacer|VERB",
+"haga\thaga\tVERB": "hacer|VERB",
+"íbamos\tír\tVERB": "ir|VERB",
+"íbamos\tír\tAUX": "ir|VERB",
+"salgo\tsalgo\tVERB": "salir|VERB",
+"oírme\toírme\tVERB": "oír|VERB",
+"causado\tcausado\tADJ": "causar|VERB",
+"enviaré\tenviaré\tVERB": "enviar|VERB",
+"añadido\tañadido\tADJ": "añadir|VERB",
+"añadidos\tañadido\tADJ": "añadido|NOUN",
+"concedido\tconcedido\tADJ": "conceder|VERB",
+"póngame\tpóngame\tVERB": "poner|VERB",
+"entiendo\tenteir\tVERB": "entender|VERB",
+"aguanta\taguanta\tVERB": "aguantar|VERB",
+"pensaste\tpensastar\tVERB": "pensar|VERB",
+"pudieras\tpudierar\tAUX": "poder|VERB",
+"pudiere\tpudierar\tAUX": "poder|VERB",
+"sacaste\tsacastir\tVERB": "sacar|VERB",
+"hallo\thallo\tVERB": "hallar|VERB",
+"ocupo\tocaber\tVERB": "ocupar|VERB",
+"case\tcar\tVERB": "casar|VERB",
+"casen\tcar\tVERB": "casar|VERB",
+"vine\tvine\tVERB": "venir|VERB",
+"adiós\tadió\tPRON": "adiós|INTJ",
+"dame\tda yo\tVERB": "dar|VERB",
+"dale\tda él\tVERB": "dar|VERB",
+"dominado\tdominado\tADJ": "dominar|VERB",
+"dominada\tdominado\tADJ": "dominada|NOUN",
+"recuerde\trecuerde\tVERB": "recordar|VERB",
+"recuerde\trecuerde \tVERB": "recordar|VERB",
+"mírate\tmírate\tVERB": "mirar|VERB",
+"arrugas\tarrugas\tADJ": "arruga|NOUN",
+"vea\tvea\tVERB": "ver|VERB",
+"véase\tvea él\tVERB": "ver|VERB",
+"estaríamos\testarir\tAUX": "estar|VERB",
+"dale\tdalar\tVERB": "dar|VERB",
+"llamo\tllamo\tVERB": "llamar|VERB",
+"estuvieras\testuvierar\tVERB": "estar|VERB",
+"estuvieras\testuvierar\tAUX": "estar|VERB",
+"hayas\thayar\tAUX": "haber|VERB",
+"sea\tsea\tNOUN": "ser|VERB",
+"seas\tsea\tNOUN": "ser|VERB",
+"desamparado\tdesamparado\tADJ": "desamparar|VERB",
+"entiendes\tentiendes\tINTJ": "entender|VERB",
+"ten\tten\tNOUN": "tener|VERB",
+"estaremos\testarer\tAUX": "estar|VERB",
+"eres\tere\tPRON": "ser|VERB",
+"tenga\ttenga\tVERB": "tener|VERB",
+"años\taños\tNOUN": "año|NOUN",
+"espérame\tespérame\tVERB": "esperar|VERB",
+"fugitivo\tfugitivo\tNOUN": "fugitivo|ADJ",
+"fugitivos\tfugitivo\tNOUN": "fugitivo|ADJ",
+"recuerden\trecuerden\tVERB": "recordar|VERB",
+"esperad\tesperad\tINTJ": "esperar|VERB",
+"mamá\tmamá\tPRON": "mamá|NOUN",
+"libras\tlibras\tNOUN": "libra|NOUN",
+"manager\tmanager\tNOUN": "mánager|NOUN",
+"moriría\tmoririr\tVERB": "morir|VERB",
+"moriríamos\tmoririr\tVERB": "morir|VERB",
+"decírmelo\tdecírmelo\tVERB": "decir|VERB",
+"oíste\toíste\tVERB": "oír|VERB",
+"discuta\tdiscutar\tVERB": "discutir|VERB",
+"discutamos\tdiscutar\tVERB": "discutir|VERB",
+"discuten\tdiscutar\tVERB": "discutir|VERB",
+"vuelvas\tvuelvas\tVERB": "volver|VERB",
+"nobles\tnoble\tNOUN": "noble|ADJ",
+"hubieses\thubieses\tAUX": "haber|VERB",
+"traeré\ttraeré\tVERB": "traer|VERB",
+"bebamos\tbebar\tVERB": "beber|VERB",
+"beba\tbebar\tVERB": "beber|VERB",
+"acuerdas\tacuerdas\tVERB": "acordar|VERB",
+"cuídate\tcuídate\tVERB": "cuidar|VERB",
+"otra\totra\tNOUN": "otro|DET",
+"bici\tbici\tNOUN": "bicicleta|NOUN",
+"llevarás\tllevarar\tVERB": "llevar|VERB",
+"llevaré\tllevarar\tVERB": "llevar|VERB",
+"llevaras\tllevarar\tVERB": "llevar|VERB",
+"dia\tdia\tNOUN": "día|NOUN",
+"dias\tdia\tNOUN": "día|NOUN",
+"advertí\tadvertí\tVERB": "advertir|VERB",
+"porquería\tporquería\tADV": "porquería|NOUN",
+"llamé\tllamé\tVERB": "llamar|VERB",
+"siéntese\tsiéntese\tVERB": "sentar|VERB",
+"hables\thabl\tADJ": "hablar|VERB",
+"preocupes\tpreocupser\tVERB": "preocupar|VERB",
+"hágame\thágame\tVERB": "hacer|VERB",
+"hágame\thágame\tAUX": "hacer|VERB",
+"pierdo\tpierdo\tVERB": "perder|VERB",
+"oyes\toyes\tVERB": "oír|VERB",
+"fué\tfué\tAUX": "ser|VERB",
+"fué\tfué\tVERB": "ser|VERB",
+"hallado\thallado\tADJ": "hallar|VERB",
+"conoces\tconoces\tVERB": "conocer|VERB",
+"sabrás\tsabrar\tVERB": "saber|VERB",
+"sabremos\tsabrar\tVERB": "saber|VERB",
+"dígame\tdígame\tVERB": "decir|VERB",
+"llame\tllame\tVERB": "llamar|VERB",
+"reído\treer\tVERB": "reír|VERB",
+"saldrás\tsaldrás\tVERB": "salir|VERB",
+"verte\tverte\tVERB": "ver|VERB",
+"traed\ttraed\tVERB": "traer|VERB",
+"llamaremos\tllamarer\tVERB": "llamar|VERB",
+"guardias\tguardias\tNOUN": "guardia|NOUN",
+"dais\tdais\tVERB": "dar|VERB",
+"escuche\tescuche\tVERB": "escuchar|VERB",
+"lavado\tlavado\tADJ": "lavar|VERB",
+"lavada\tlavado\tADJ": "lavada|NOUN",
+"lavadas\tlavado\tADJ": "lavada|NOUN",
+"lavados\tlavado\tADJ": "lavado|NOUN",
+"súbete\tsúbetir\tVERB": "subir|VERB",
+"discúlpeme\tdiscúlpeme\tINTJ": "disculpar|VERB",
+"esperaremos\tesperarer\tVERB": "esperar|VERB",
+"cállate\tcállate\tVERB": "callar|VERB",
+"dinamita\tdinamito\tADJ": "dinamitar|VERB",
+"miente\tmiente\tADV": "mentir|VERB",
+"estarás\testarás\tAUX": "estar|VERB",
+"estarás\testarás\tVERB": "estar|VERB",
+"olvídalo\tolvídalo\tADJ": "olvidar|VERB",
+"conmovido\tconmovido\tADJ": "conmover|VERB",
+"pondrás\tpondrás\tVERB": "poner|VERB",
+"prisa\tprisa\tADV": "prisa|NOUN",
+"cállese\tcállese\tVERB": "callar|VERB",
+"he\thar\tAUX": "haber|VERB",
+"hé\thar\tAUX": "haber|VERB",
+"há\thar\tVERB": "haber|VERB",
+"pasaste\tpasaste\tVERB": "pasar|VERB",
+"deberás\tdeberar\tAUX": "deber|VERB",
+"maldita\tmaldita\tNOUN": "maldito|ADJ",
+"malditas\tmaldita\tNOUN": "maldito|ADJ",
+"habrías\thabriar\tAUX": "haber|VERB",
+"prometiste\tprometiste\tVERB": "prometer|VERB",
+"seguida\tseguida\tNOUN": "seguido|ADJ",
+"robaste\trobastar\tVERB": "robar|VERB",
+"pides\tpides\tVERB": "pedir|VERB",
+"hacia\thacia\tNOUN": "hacia|ADP",
+"engañas\tengañas\tVERB": "engañar|VERB",
+"comprendí\tcomprendí\tVERB": "comprender|VERB",
+"volved\tvolved\tVERB": "volver|VERB",
+"entendiste\tentendistir\tVERB": "entender|VERB",
+"buenísima\tbuenísimo\tADJ": "bueno|ADJ",
+"buenísimas\tbuenísimo\tADJ": "bueno|ADJ",
+"buenísimo\tbuenísimo\tADJ": "bueno|ADJ",
+"buenísimos\tbuenísimo\tADJ": "bueno|ADJ",
+"vuelvo\tvuelvo\tADV": "volver|VERB",
+"traes\ttraser\tVERB": "traer|VERB",
+"controlado\tcontrolado\tADJ": "controlar|VERB",
+"tomaré\ttomaré\tVERB": "tomar|VERB",
+"qué\tqué\tNOUN": "qué|PRON",
+"referido\treferido\tADJ": "referir|VERB",
+"enamoré\tenamoré\tVERB": "enamorar|VERB",
+"olvídalo\tolvídalo\tINTJ": "olvidar|VERB",
+"podrás\tpodrás\tAUX": "poder|VERB",
+"perdona\tperdona\tINTJ": "perdonar|VERB",
+"formado\tformado\tADJ": "formar|VERB",
+"quedes\tquedser\tVERB": "quedar|VERB",
+"tendrías\ttendrías\tVERB": "tener|VERB",
+"esté\testé\tAUX": "estar|VERB",
+"esté\testé\tVERB": "estar|VERB",
+"culpo\tculpo\tVERB": "culpar|VERB",
+"podéis\tpodéis\tAUX": "poder|VERB",
+"podéis\tpodéis\tVERB": "poder|VERB",
+"conteste\tconteste\tNOUN": "contestar|VERB",
+"buscaremos\tbuscarer\tVERB": "buscar|VERB",
+"escuche\tescuche\tINTJ": "escuchar|VERB",
+"dime\tdimar\tVERB": "decir|VERB",
+"representado\trepresentado\tADJ": "representar|VERB",
+"dígales\tdígal\tNOUN": "decir|VERB",
+"debí\tdebí\tAUX": "deber|VERB",
+"vean\tvean\tVERB": "ver|VERB",
+"pensabas\tpensabas\tVERB": "pensar|VERB",
+"duermen\tduermar\tVERB": "dormir|VERB",
+"duerma\tduermar\tVERB": "dormir|VERB",
+"duerme\tduermar\tVERB": "dormir|VERB",
+"duermas\tduermar\tVERB": "dormir|VERB",
+"duerman\tduermar\tVERB": "dormir|VERB",
+"duermes\tduermar\tVERB": "dormir|VERB",
+"dime\tdimir\tVERB": "decir|VERB",
+"inténtalo\tinténtalo\tADJ": "intentar|VERB",
+"vete\tvete\tINTJ": "ir|VERB",
+"casaste\tcasaste\tVERB": "casar|VERB",
+"mírame\tmírame\tNOUN": "mirar|VERB",
+"pobrecita\tpobrecito\tADJ": "pobrecita|NOUN",
+"recuerdas\trecuerda\tNOUN": "recordar|VERB",
+"buscarte\tbuscarte\tVERB": "buscar|VERB",
+"ayudes\tayudes\tVERB": "ayudar|VERB",
+"trabajé\ttrabajé\tVERB": "trabajar|VERB",
+"copita\tcopita\tNOUN": "copa|NOUN",
+"copitas\tcopita\tNOUN": "copa|NOUN",
+"resplandece\tresplandecir\tVERB": "resplandecer|VERB",
+"resplandecía\tresplandecir\tVERB": "resplandecer|VERB",
+"resplandecían\tresplandecir\tVERB": "resplandecer|VERB",
+"ultimo\tultimo\tADJ": "último|ADJ",
+"ultima\tultimo\tADJ": "último|ADJ",
+"ultimos\tultimo\tADJ": "último|ADJ",
+"mantén\tmantén\tVERB": "mantener|VERB",
+"mantente\tmantente\tADJ": "mantener|VERB",
+"tengan\ttengan\tVERB": "tener|VERB",
+"quédese\tquédese\tVERB": "quedar|VERB",
+"duérmete\tduérmetir\tVERB": "dormir|VERB",
+"escuchado\tescuchado\tADJ": "escuchar|VERB",
+"oigan\toigan\tVERB": "oír|VERB",
+"debiste\tdebiste\tAUX": "deber|VERB",
+"debiste\tdebiste\tVERB": "deber|VERB",
+"capturado\tcapturado\tADJ": "capturar|VERB",
+"andas\tandir\tVERB": "andar|VERB",
+"anden\tandir\tVERB": "andar|VERB",
+"ande\tandir\tVERB": "andar|VERB",
+"andamos\tandir\tVERB": "andar|VERB",
+"mirad\tmirad\tVERB": "mirar|VERB",
+"veis\tveis\tVERB": "ver|VERB",
+"conocéis\tconocéis\tVERB": "conocer|VERB",
+"hable\thable\tVERB": "hablar|VERB",
+"sepa\tsepa\tNOUN": "saber|VERB",
+"tomemos\ttomer\tVERB": "tomar|VERB",
+"olvídate\tolvídate\tVERB": "olvidar|VERB",
+"sacado\tsacado\tADJ": "sacar|VERB",
+"aún\taún\tNOUN": "aún|ADV",
+"lleven\tlleven\tVERB": "llevar|VERB",
+"dejarás\tdejarás\tVERB": "dejar|VERB",
+"hacéis\thacéis\tVERB": "hacer|VERB",
+"pierdas\tpierdar\tVERB": "perder|VERB",
+"eche\techir\tVERB": "echar|VERB",
+"echamos\techir\tVERB": "echar|VERB",
+"hagáis\thagáis\tVERB": "hacer|VERB",
+"deje\tdejir\tVERB": "dejar|VERB",
+"busquen\tbusquen\tVERB": "buscar|VERB",
+"trajiste\ttrajiste\tVERB": "traer|VERB",
+"voy\tvoy\tINTJ": "ir|VERB",
+"liderado\tliderado\tADJ": "liderar|VERB",
+"civil\tcivil\tNOUN": "civil|ADJ",
+"civiles\tcivil\tNOUN": "civil|ADJ",
+"esperad\tesperad\tVERB": "esperar|VERB",
+"relájate\trelájatir\tVERB": "relajar|VERB",
+"vayas\tvayar\tVERB": "ir|VERB",
+"vayas\tvayar\tAUX": "ir|VERB",
+"vayamos\tvayar\tVERB": "ir|VERB",
+"verá\tverá\tVERB": "ver|VERB",
+"come\tcome\tNOUN": "comer|VERB",
+"pagué\tpagué\tVERB": "pagar|VERB",
+"queréis\tqueréis\tVERB": "querer|VERB",
+"queréis\tqueréis\tAUX": "querer|VERB",
+"rindo\trindo\tVERB": "rendir|VERB",
+"opinas\topina\tNOUN": "opinar|VERB",
+"has\thir\tAUX": "haber|VERB",
+"puedas\tpuedar\tAUX": "poder|VERB",
+"puedes\tpuedar\tVERB": "poder|VERB",
+"pueda\tpuedar\tAUX": "poder|VERB",
+"querías\tqueriar\tVERB": "querer|VERB",
+"querías\tqueriar\tAUX": "querer|VERB",
+"salve\tsalvir\tVERB": "salvar|VERB",
+"salven\tsalvir\tVERB": "salvar|VERB",
+"déjenme\tdéjenmir\tAUX": "dejar|VERB",
+"llegaremos\tllegarer\tVERB": "llegar|VERB",
+"querría\tquerrir\tVERB": "querer|VERB",
+"querrían\tquerrir\tVERB": "querer|VERB",
+"llámame\tllámame\tVERB": "llamar|VERB",
+"cálmate\tcálmate\tINTJ": "calmar|VERB",
+"frente\tfrente\tADV": "frente|NOUN",
+"buscado\tbuscado\tADJ": "buscar|VERB",
+"eché\teché\tVERB": "echar|VERB",
+"váyanse\tváyanse\tVERB": "ir|VERB",
+"habernos\thabernos\tAUX": "haber|VERB",
+"difunto\tdifunto\tNOUN": "difunto|ADJ",
+"difuntos\tdifunto\tNOUN": "difunto|ADJ",
+"intelectuales\tintelectual\tNOUN": "intelectual|ADJ",
+"conseguiré\tconseguiré\tVERB": "conseguir|VERB",
+"pariente\tpariente\tADJ": "pariente|NOUN",
+"parientes\tpariente\tADJ": "pariente|NOUN",
+"imagínate\timagínate\tVERB": "imaginar|VERB",
+"obstante\tobstante\tNOUN": "obstante|ADJ",
+"avergüenzan\tavergüenzar\tVERB": "avergonzar|VERB",
+"avergüenza\tavergüenzar\tVERB": "avergonzar|VERB",
+"mirándome\tmirándome\tVERB": "mirar|VERB",
+"trabajé\ttrabajer\tVERB": "trabajar|VERB",
+"quitarte\tquitarte\tVERB": "quitar|VERB",
+"reconoces\treconoces\tVERB": "reconocer|VERB",
+"pondré\tpondré\tVERB": "poner|VERB",
+"regreses\tregreses \tVERB": "regresar|VERB",
+"regreses\tregreses\tVERB": "regresar|VERB",
+"perdiste\tperdiste\tVERB": "perder|VERB",
+"cual\tcual\tADJ": "cual|PRON",
+"cuales\tcual\tADJ": "cual|PRON",
+"trates\ttrates\tVERB": "tratar|VERB",
+"decírtelo\tdecírtelo\tNOUN": "decir|VERB",
+"siga\tsiga\tVERB": "seguir|VERB",
+"necesitas\tnecesitas\tVERB": "necesitar|VERB",
+"paralizado\tparalizado\tADJ": "paralizar|VERB",
+"tomes\ttomes\tVERB": "tomar|VERB",
+"mantengan\tmantengan\tVERB": "mantener|VERB",
+"grata\tgrata\tADJ": "grato|ADJ",
+"gratas\tgrata\tADJ": "grato|ADJ",
+"amabas\tamabas\tVERB": "amar|VERB",
+"políticas\tpolítica\tADJ": "político|ADJ",
+"olvidaste\tolvidastir\tVERB": "olvidar|VERB",
+"oiga\toigar\tVERB": "oír|VERB",
+"oigan\toigar\tVERB": "oír|VERB",
+"oigamos\toigar\tVERB": "oír|VERB",
+"diré\tdirar\tVERB": "decir|VERB",
+"diremos\tdirar\tVERB": "decir|VERB",
+"separado\tseparado\tNOUN": "separar|VERB",
+"charla\tchar él\tVERB": "charlar|VERB",
+"oscuras\toscuras\tNOUN": "oscuro|ADJ",
+"escuche\tescuche\tADV": "escuchar|VERB",
+"pedazos\tpedazos\tNOUN": "pedazo|NOUN",
+"perdóneme\tperdóneme\tINTJ": "perdonar|VERB",
+"aléjate\taléjate\tVERB": "alejar|VERB",
+"dejarás\tdejarar\tVERB": "dejar|VERB",
+"dejaras\tdejarar\tVERB": "dejar|VERB",
+"dejaremos\tdejarar\tVERB": "dejar|VERB",
+"meterte\tmeterte\tVERB": "meter|VERB",
+"compre\tcompre\tVERB": "comprar|VERB",
+"numero\tnumero\tNOUN": "numerar|VERB",
+"déjelo\tdéjelir\tVERB": "dejar|VERB",
+"decías\tdecías\tVERB": "decir|VERB",
+"tu\ttu\tINTJ": "tuyo|DET",
+"mio\tmio\tADJ": "mío|PRON",
+"d\td\tNOUN": "de|ADP",
+"mencionado\tmencionado\tADJ": "mencionar|VERB",
+"fuiste\tfuiste\tVERB": "ser|VERB",
+"fuiste\tfuiste\tAUX": "ser|VERB",
+"perdonen\tperdonir\tVERB": "perdonar|VERB",
+"perdone\tperdonir\tVERB": "perdonar|VERB",
+"logré\tlogré\tVERB": "lograr|VERB",
+"paraguas\tparagua\tNOUN": "paraguas|NOUN",
+"enviado\tenviado\tADJ": "enviar|VERB",
+"enviada\tenviado\tADJ": "enviada|NOUN",
+"enviados\tenviado\tADJ": "enviado|NOUN",
+"enviadas\tenviado\tADJ": "enviada|NOUN",
+"agregado\tagregado\tADJ": "agregar|VERB",
+"agregados\tagregado\tADJ": "agregado|NOUN",
+"moriremos\tmorirar\tVERB": "morir|VERB",
+"moriré\tmorirar\tVERB": "morir|VERB",
+"quisiéramos\tquisiser\tVERB": "querer|VERB",
+"perdona\tperdona\tNOUN": "perdonar|VERB",
+"podíamos\tpodíamos\tAUX": "poder|VERB",
+"estuve\testuve\tAUX": "estar|VERB",
+"morena\tmorén\tADJ": "moreno|ADJ",
+"llamaste\tllamaste\tVERB": "llamar|VERB",
+"iré\tiré\tINTJ": "ir|VERB",
+"comes\tcomes\tVERB": "comer|VERB",
+"creías\tcreías\tVERB": "creer|VERB",
+"noté\tnoté\tVERB": "notar|VERB",
+"preocupen\tpreocupir\tVERB": "preocupar|VERB",
+"aterrado\taterrado\tADJ": "aterrar|VERB",
+"reunimos\treunimos\tVERB": "reunir|VERB",
+"deberíamos\tdeberíar\tAUX": "deber|VERB",
+"deberíamos\tdeberíar\tVERB": "deber|VERB",
+"comprendes\tcomprendes\tVERB": "comprender|VERB",
+"hubieras\thubieras \tAUX": "haber|VERB",
+"hubieras\thubieras\tAUX": "haber|VERB",
+"ansiosa\tansiós\tADJ": "ansioso|ADJ",
+"fresca\tfresca\tADJ": "fresco|ADJ",
+"picnic\tpicnic\tNOUN": "pícnic|NOUN",
+"aprisa\taprisa\tNOUN": "aprisa|ADV",
+"duerme\tduer yo\tVERB": "dormir|VERB",
+"conocimos\tconocimos\tVERB": "conocer|VERB",
+"estás\testás\tNOUN": "estar|VERB",
+"quisiste\tquisiste\tVERB": "querer|VERB",
+"comprado\tcomprado\tADJ": "comprar|VERB",
+"seas\tseas\tAUX": "ser|VERB",
+"vinculado\tvinculado\tADJ": "vincular|VERB",
+"harta\tharta\tNOUN": "harto|ADJ",
+"listos\tlisto\tNOUN": "listo|ADJ",
+"listo\tlisto\tNOUN": "listo|ADJ",
+"modales\tmodal\tNOUN": "modales|NOUN",
+"creéis\tcreéis\tVERB": "creer|VERB",
+"creéis\tcreéis\tAUX": "creer|VERB",
+"daros\tdaros\tVERB": "dar|VERB",
+"avancen\tavancir\tVERB": "avanzar|VERB",
+"plantado\tplantado\tADJ": "plantar|VERB",
+"retenido\tretenido\tADJ": "retener|VERB",
+"retenidas\tretenido\tADJ": "retenida|NOUN",
+"retenida\tretenido\tADJ": "retenida|NOUN",
+"caes\tcaser\tVERB": "caer|VERB",
+"descuida\tdescuido\tADJ": "descuidar|VERB",
+"hazlo\thazlo\tVERB": "hacer|VERB",
+"prohíba\tprohíbir\tVERB": "prohibir|VERB",
+"prohíbe\tprohíbir\tVERB": "prohibir|VERB",
+"prohíbo\tprohíbir\tVERB": "prohibir|VERB",
+"prohíben\tprohíbir\tVERB": "prohibir|VERB",
+"comeremos\tcomerer\tVERB": "comer|VERB",
+"comeré\tcomerer\tVERB": "comer|VERB",
+"bravo\tbravo\tNOUN": "bravo|ADJ",
+"bravos\tbravo\tNOUN": "bravo|ADJ",
+"hubiéramos\thubiser\tAUX": "haber|VERB",
+"hubieras\thubiser\tAUX": "haber|VERB",
+"lesionado\tlesionado\tADJ": "lesionar|VERB",
+"arme\tar yo\tVERB": "armar|VERB",
+"aran\tar\tVERB": "arar|VERB",
+"ando\tar\tVERB": "andar|VERB",
+"llévate\tllévate\tVERB": "llevar|VERB",
+"cerrada\tcerrada\tNOUN": "cerrado|ADJ",
+"bién\tbién\tADV": "bien|ADV",
+"recibirás\trecibirás\tVERB": "recibir|VERB",
+"dígale\tdígalir\tVERB": "decir|VERB",
+"dígalo\tdígalir\tVERB": "decir|VERB",
+"ponga\tpongar\tVERB": "poner|VERB",
+"pongas\tpongar\tVERB": "poner|VERB",
+"pusiste\tpusiste\tVERB": "poner|VERB",
+"place\tplacir\tVERB": "placer|VERB",
+"pediste\tpedistir\tVERB": "pedir|VERB",
+"escribiste\tescribiste\tVERB": "escribir|VERB",
+"hola\thola\tNOUN": "hola|INTJ",
+"separe\tseparir\tVERB": "separar|VERB",
+"separen\tseparir\tVERB": "separar|VERB",
+"separamos\tseparir\tVERB": "separar|VERB",
+"supongo\tsupongo\tADJ": "suponer|VERB",
+"llames\tllames\tVERB": "llamar|VERB",
+"casaría\tcasarir\tVERB": "casar|VERB",
+"pasen\tpasen\tVERB": "pasar|VERB",
+"mandado\tmandado\tADJ": "mandar|VERB",
+"mandados\tmandado\tADJ": "mandado|NOUN",
+"pa\tpa\tADP": "para|ADP",
+"dirijo\tdirijo\tVERB": "dirigir|VERB",
+"cállate\tcállatar\tVERB": "callar|VERB",
+"ligados\tligado\tADJ": "ligado|NOUN",
+"ligado\tligado\tADJ": "ligar|VERB",
+"ayudarás\tayudarás\tVERB": "ayudar|VERB",
+"cobardes\tcobardes\tADJ": "cobarde|ADJ",
+"váyase\tváyase\tVERB": "ir|VERB",
+"bloqueado\tbloqueado\tADJ": "bloquear|VERB",
+"venís\tvenís\tVERB": "venir|VERB",
+"venís\tvenís\tAUX": "venir|VERB",
+"arrodillado\tarrodillado\tADJ": "arrodillar|VERB",
+"sirvientes\tsirvient\tNOUN": "sirviente|NOUN",
+"dejaremos\tdejarer\tVERB": "dejar|VERB",
+"créame\tcréame\tINTJ": "creer|VERB",
+"hermanito\thermanito\tNOUN": "hermano|NOUN",
+"hermanitos\thermanito\tNOUN": "hermano|NOUN",
+"explicarte\texplicarte\tVERB": "explicar|VERB",
+"oyes\toyser\tVERB": "oír|VERB",
+"nones\tnon\tNOUN": "nones|ADV",
+"non\tnon\tNOUN": "no|ADV",
+"mías\tmía\tADJ": "mío|ADJ",
+"pierda\tpierda\tVERB": "perder|VERB",
+"míos\tmíos\tDET": "mío|DET",
+"llevemos\tllever\tVERB": "llevar|VERB",
+"llevé\tllever\tVERB": "llevar|VERB",
+"quites\tquitser\tVERB": "quitar|VERB",
+"encontraras\tencontrarar\tVERB": "encontrar|VERB",
+"encontraran\tencontrarar\tVERB": "encontrar|VERB",
+"encontrara\tencontrarar\tVERB": "encontrar|VERB",
+"dámelo\tdámelir\tVERB": "dar|VERB",
+"furiosa\tfuriosa\tNOUN": "furioso|ADJ",
+"estábamos\testábar\tAUX": "estar|VERB",
+"mientes\tmient\tADJ": "mentir|VERB",
+"sufro\tsufro\tVERB": "sufrir|VERB",
+"habia\thabia\tNOUN": "había|VERB",
+"entren\tentren\tVERB": "entrar|VERB",
+"eres\ter\tNOUN": "ere|NOUN",
+"er\ter\tNOUN": "el|DET",
+"pobre\tpobre\tINTJ": "pobre|ADJ",
+"hirviendo\thirveir\tVERB": "hervir|VERB",
+"pretendes\tpretendes\tVERB": "pretender|VERB",
+"acompañado\tacompañado\tADJ": "acompañar|VERB",
+"acompañados\tacompañado\tADJ": "acompañado|NOUN",
+"bueno\tbueno\tNOUN": "bueno|INTJ",
+"quedaste\tquedaste\tVERB": "quedar|VERB",
+"prepárense\tprepárensir\tVERB": "preparar|VERB",
+"aqui\taqui\tINTJ": "aquí|INTJ",
+"salvajes\tsalvaj\tNOUN": "salvaje|NOUN",
+"conociste\tconociste\tVERB": "conocer|VERB",
+"respetables\trespetabl\tADJ": "respetable|ADJ",
+"aun\taun\tNOUN": "aun|ADV",
+"siéntense\tsiéntense\tADJ": "sentar|VERB",
+"llevé\tllevé\tVERB": "llevar|VERB",
+"vivos\tvivo\tNOUN": "vivo|ADJ",
+"vivo\tvivo\tNOUN": "vivir|VERB",
+"comiencen\tcomiencir\tVERB": "comenzar|VERB",
+"comience\tcomiencir\tVERB": "comenzar|VERB",
+"actúas\tactúas\tVERB": "actuar|VERB",
+"instalado\tinstalado\tADJ": "instalar|VERB",
+"peor\tpeor\tADV": "mal|ADV",
+"mataste\tmataste\tVERB": "matar|VERB",
+"salvaste\tsalvastir\tVERB": "salvar|VERB",
+"serle\tserle\tAUX": "ser|VERB",
+"hermanita\thermanita\tNOUN": "hermana|NOUN",
+"duermes\tduermes\tVERB": "dormir|VERB",
+"llamemos\tllamer\tVERB": "llamar|VERB",
+"llamé\tllamer\tVERB": "llamar|VERB",
+"despacio\tdespacio\tNOUN": "despacio|ADV",
+"cuerdo\tcuerdo\tNOUN": "cuerdo|ADJ",
+"cuerdos\tcuerdo\tNOUN": "cuerdo|ADJ",
+"sigan\tsigan\tVERB": "seguir|VERB",
+"hagan\thagan\tVERB": "hacer|VERB",
+"dinos\tdino\tNOUN": "decir|VERB",
+"dios\tdio\tNOUN": "dios|NOUN",
+"muchísimas\tmuchísimo\tADJ": "mucho|ADJ",
+"muchísimo\tmuchísimo\tADJ": "mucho|ADJ",
+"beneficiado\tbeneficiado\tADJ": "beneficiar|VERB",
+"maté\tmaté\tVERB": "matar|VERB",
+"aquél\taquél\tADJ": "aquél|PRON",
+"vendo\tvendo\tVERB": "vender|VERB",
+"pesos\tpesos\tNOUN": "peso|NOUN",
+"apoyado\tapoyado\tADJ": "apoyar|VERB",
+"interpretado\tinterpretado\tADJ": "interpretar|VERB",
+"pasaré\tpasarar\tVERB": "pasar|VERB",
+"pasaras\tpasarar\tVERB": "pasar|VERB",
+"pasare\tpasarar\tVERB": "pasar|VERB",
+"derivados\tderivado\tADJ": "derivado|NOUN",
+"derivado\tderivado\tADJ": "derivar|VERB",
+"am\tam\tNOUN": "am|ADV",
+"hablaste\thablastir\tVERB": "hablar|VERB",
+"rayas\trayas\tNOUN": "raya|NOUN",
+"bromeo\tbromeo\tNOUN": "bromear|VERB",
+"váyanse\tváyansar\tVERB": "ir|VERB",
+"querrías\tquerriar\tAUX": "querer|VERB",
+"querrías\tquerriar\tVERB": "querer|VERB",
+"dejes\tdejser\tAUX": "dejar|VERB",
+"dejes\tdejser\tVERB": "dejar|VERB",
+"serías\tsería\tNOUN": "ser|VERB",
+"voy\tvoy\tVERB": "ir|VERB",
+"voy\tvoy\tAUX": "ir|VERB",
+"entro\tentro\tNOUN": "entrar|VERB",
+"pienses\tpienses\tVERB": "pensar|VERB",
+"pienses\tpienses \tVERB": "pensar|VERB",
+"principios\tprincipios\tNOUN": "principio|NOUN",
+"favorecidos\tfavorecido\tADJ": "favorecido|NOUN",
+"favorecido\tfavorecido\tADJ": "favorecer|VERB",
+"fantástico\tfantástico\tINTJ": "fantástico|ADJ",
+"duela\tduelar\tVERB": "doler|VERB",
+"un\tun\tNUM": "uno|NUM",
+"oeste\toeste\tADJ": "oeste|NOUN",
+"míralo\tmíralo\tVERB": "mirar|VERB",
+"quítate\tquítate\tVERB": "quitar|VERB",
+"habitado\thabitado\tADJ": "habitar|VERB",
+"acércate\tacércate\tNOUN": "acercar|VERB",
+"muéstrame\tmuéstrame\tPRON": "mostrar|VERB",
+"escribes\tescribes\tVERB": "escribir|VERB",
+"seremos\tserer\tAUX": "ser|VERB",
+"atrevas\tatreir\tVERB": "atrever|VERB",
+"atrevan\tatreir\tVERB": "atrever|VERB",
+"quieto\tquieto\tNOUN": "quieto|ADJ",
+"quietos\tquieto\tNOUN": "quieto|ADJ",
+"pregúntale\tpregúntalar\tVERB": "preguntar|VERB",
+"tendrías\ttendriar\tVERB": "tener|VERB",
+"tendrías\ttendriar\tAUX": "tener|VERB",
+"espíritus\tespíritus\tNOUN": "espíritu|NOUN",
+"ciegas\tciegas\tNOUN": "ciega|NOUN",
+"saliste\tsaliste\tVERB": "salir|VERB",
+"llévame\tllévame\tVERB": "llevar|VERB",
+"ocasionado\tocasionado\tADJ": "ocasionar|VERB",
+"empecemos\tempecar\tVERB": "empezar|VERB",
+"creíste\tcreíste\tVERB": "creer|VERB",
+"guardado\tguardado\tADJ": "guardar|VERB",
+"guardados\tguardado\tADJ": "guardado|NOUN",
+"estás\test\tVERB": "estar|VERB",
+"capacitado\tcapacitado\tADJ": "capacitar|VERB",
+"vayas\tvayas\tVERB": "ir|VERB",
+"vayas\tvayas\tAUX": "ir|VERB",
+"quieras\tquierar\tVERB": "querer|VERB",
+"estúpidos\testúpido\tNOUN": "estúpido|ADJ",
+"estúpido\testúpido\tNOUN": "estúpido|ADJ",
+"tomas\ttomas\tVERB": "tomar|VERB",
+"levanto\tlevanto\tVERB": "levantar|VERB",
+"acaso\tacaso\tNOUN": "acaso|ADV",
+"darme\tdarme\tVERB": "dar|VERB",
+"déjame\tdéjame\tINTJ": "dejar|VERB",
+"grites\tgritser\tVERB": "gritar|VERB",
+"abres\tabres\tVERB": "abrir|VERB",
+"sino\tsino\tADV": "sino|CCONJ",
+"arregla\tarreglir\tVERB": "arreglar|VERB",
+"pensaste\tpensaste\tVERB": "pensar|VERB",
+"asusten\tasustir\tVERB": "asustar|VERB",
+"asuste\tasustir\tVERB": "asustar|VERB",
+"oí\toí\tVERB": "oír|VERB",
+"debías\tdebías\tAUX": "deber|VERB",
+"debías\tdebías\tVERB": "deber|VERB",
+"llamarte\tllamarte\tVERB": "llamar|VERB",
+"muévanse\tmuévanse\tADJ": "mover|VERB",
+"acuerdan\tacuerdir\tVERB": "acordar|VERB",
+"acuerden\tacuerdir\tVERB": "acordar|VERB",
+"acuerdas\tacuerdir\tVERB": "acordar|VERB",
+"agrado\tagrado\tADJ": "agradar|VERB",
+"agrada\tagrado\tADJ": "agradar|VERB",
+"iríamos\tirir\tVERB": "ir|VERB",
+"irían\tirir\tVERB": "ir|VERB",
+"irían\tirir\tAUX": "ir|VERB",
+"pareciera\tparecierar\tVERB": "parecer|VERB",
+"pareciere\tparecierar\tVERB": "parecer|VERB",
+"aprendiste\taprendiste\tVERB": "aprender|VERB",
+"cuantas\tcuanta\tNOUN": "cuanto|DET",
+"cuanta\tcuanta\tNOUN": "cuanto|DET",
+"consiguiente\tconsiguiente\tNOUN": "consiguiente|ADJ",
+"tambien\ttambien\tNOUN": "también|ADV",
+"está\testá\tNOUN": "estar|VERB",
+"bellísima\tbellísimo\tADJ": "bello|ADJ",
+"bellísimo\tbellísimo\tADJ": "bello|ADJ",
+"bellísimos\tbellísimo\tADJ": "bello|ADJ",
+"confirmado\tconfirmado\tADJ": "confirmar|VERB",
+"escribas\tescribas\tVERB": "escribir|VERB",
+"conocías\tconociar\tVERB": "conocer|VERB",
+"sur\tsur\tADJ": "sur|NOUN",
+"buen\tbuen\tNOUN": "bueno|ADJ",
+"equipado\tequipado\tADJ": "equipar|VERB",
+"amigo\tamigo\tADJ": "amigo|NOUN",
+"amigas\tamigo\tADJ": "amiga|NOUN",
+"amigos\tamigo\tADJ": "amigo|NOUN",
+"amiga\tamigo\tADJ": "amiga|NOUN",
+"m\tm\tNOUN": "me|PRON",
+"amarrado\tamarrado\tADJ": "amarrar|VERB",
+"amarrados\tamarrado\tADJ": "amarrado|NOUN",
+"azotes\tazot\tNOUN": "azote|NOUN",
+"preguntes\tpreguntser\tVERB": "preguntar|VERB",
+"entraste\tentrastir\tVERB": "entrar|VERB",
+"dados\tdado\tADJ": "dado|NOUN",
+"dado\tdado\tADJ": "dar|VERB",
+"liras\tliras\tNOUN": "lira|NOUN",
+"pongan\tpongan\tVERB": "poner|VERB",
+"tu\ttu\tNOUN": "tuyo|DET",
+"continuado\tcontinuado\tADJ": "continuar|VERB",
+"vengan\tvengan\tVERB": "venir|VERB",
+"chismes\tchism\tNOUN": "chisme|NOUN",
+"astuta\tastuta\tADJ": "astuto|ADJ",
+"gendarmes\tgendarm\tNOUN": "gendarme|NOUN",
+"habías\thabías\tAUX": "haber|VERB",
+"champaña\tchampaña\tNOUN": "champán|NOUN",
+"temido\ttemido\tADJ": "temer|VERB",
+"vendido\tvendido\tADJ": "vender|VERB",
+"vendidos\tvendido\tADJ": "vendido|NOUN",
+"temblorosa\ttemblorós\tADJ": "tembloroso|ADJ",
+"recibido\trecibido\tADJ": "recibir|VERB",
+"contesta\tcontesto\tADJ": "contestar|VERB",
+"asi\tasi\tADV": "así|ADV",
+"salgamos\tsalgamos\tVERB": "salir|VERB",
+"cuantas\tcuanta\tADJ": "cuanto|ADJ",
+"recuerdas\trecuerdir\tVERB": "recordar|VERB",
+"persiguen\tpersigar\tVERB": "perseguir|VERB",
+"persiga\tpersigar\tVERB": "perseguir|VERB",
+"oía\toía\tVERB": "oír|VERB",
+"k\tk\tNOUN": "que|PRON",
+"enseñarte\tenseñarte\tVERB": "enseñar|VERB",
+"acuerdo\tacuerdo\tVERB": "acordar|VERB",
+"poquito\tpoquito\tNOUN": "poco|ADV",
+"down\tdown\tNOUN": "down|ADJ",
+"vieras\tvierar\tVERB": "ver|VERB",
+"viere\tvierar\tVERB": "ver|VERB",
+"vieren\tvierar\tVERB": "ver|VERB",
+"necesitábamos\tnecesitár\tVERB": "necesitar|VERB",
+"desvanecido\tdesvanecir\tVERB": "desvanecer|VERB",
+"desvanecen\tdesvanecir\tVERB": "desvanecer|VERB",
+"desvanecía\tdesvanecir\tVERB": "desvanecer|VERB",
+"dilo\tdilo\tNOUN": "decir|VERB",
+"hablas\thab él\tVERB": "hablar|VERB",
+"hables\thab él\tVERB": "hablar|VERB",
+"dejes\tdej\tNOUN": "dejo|NOUN",
+"tómalo\ttómalir\tVERB": "tomar|VERB",
+"venías\tvenías\tVERB": "venir|VERB",
+"contesté\tcontesté\tVERB": "contestar|VERB",
+"discúlpenme\tdiscúlpenme\tINTJ": "disculpar|VERB",
+"cosquillas\tcosquilla\tNOUN": "cosquillas|NOUN",
+"hazte\thaztir\tVERB": "hacer|VERB",
+"vino\tvino\tVERB": "venir|VERB",
+"dejaste\tdejaste\tVERB": "dejar|VERB",
+"gracias\tgracias\tADP": "gracias|INTJ",
+"empiezo\tempiezo\tVERB": "empezar|VERB",
+"quedarte\tquedarte\tNOUN": "quedar|VERB",
+"creerás\tcreerar\tVERB": "creer|VERB",
+"marcho\tmarcho\tADJ": "marchar|VERB",
+"verás\tverás\tVERB": "ver|VERB",
+"pintado\tpintado\tADJ": "pintar|VERB",
+"pintadas\tpintado\tADJ": "pintada|NOUN",
+"pintados\tpintado\tADJ": "pintado|NOUN",
+"pintada\tpintado\tADJ": "pintada|NOUN",
+"comparta\tcompartar\tVERB": "compartir|VERB",
+"compartas\tcompartar\tVERB": "compartir|VERB",
+"compartamos\tcompartar\tVERB": "compartir|VERB",
+"cuéntamelo\tcuéntamelir\tVERB": "contar|VERB",
+"maté\tmater\tVERB": "matar|VERB",
+"cuadrante\tcuadrante\tADJ": "cuadrante|NOUN",
+"despierto\tdespierto\tNOUN": "despertar|VERB",
+"seréis\tseréis\tAUX": "ser|VERB",
+"vos\tvo\tPRON": "vos|PRON",
+"vendes\tvendes\tVERB": "vender|VERB",
+"veíamos\tveíar\tVERB": "ver|VERB",
+"discúlpame\tdiscúlpame\tADV": "disculpar|VERB",
+"dí\tdir\tVERB": "dar|VERB",
+"mire\tmire\tNOUN": "mirar|VERB",
+"termino\ttermino\tNOUN": "terminar|VERB",
+"debes\tdebes\tAUX": "deber|VERB",
+"debes\tdebes\tVERB": "deber|VERB",
+"concluido\tconcluido\tADJ": "concluir|VERB",
+"tenés\ttenés\tVERB": "tener|VERB",
+"ayudé\tayudé\tVERB": "ayudar|VERB",
+"finales\tfinales\tNOUN": "final|NOUN",
+"ayúdame\tayúdame\tINTJ": "ayudar|VERB",
+"coman\tcomar\tVERB": "comer|VERB",
+"comamos\tcomar\tVERB": "comer|VERB",
+"come\tcomar\tVERB": "comer|VERB",
+"cuide\tcuidir\tVERB": "cuidar|VERB",
+"supiste\tsupistar\tVERB": "saber|VERB",
+"ahogada\tahogado\tADJ": "ahogada|NOUN",
+"ahogado\tahogado\tADJ": "ahogar|VERB",
+"ahogados\tahogado\tADJ": "ahogado|NOUN",
+"mírame\tmírame\tINTJ": "mirar|VERB",
+"hermosísima\thermosísimo\tADJ": "hermoso|ADJ",
+"hermosísimo\thermosísimo\tADJ": "hermoso|ADJ",
+"sienes\tsién\tNOUN": "sien|NOUN",
+"hijitas\thijita\tNOUN": "hija|NOUN",
+"hijita\thijita\tNOUN": "hija|NOUN",
+"fíjate\tfíjate\tVERB": "fijar|VERB",
+"víveres\tvíver\tNOUN": "víveres|NOUN",
+"necesitarás\tnecesitarás\tVERB": "necesitar|VERB",
+"canoas\tcanoas\tNOUN": "canoa|NOUN",
+"soñé\tsoñé\tVERB": "soñar|VERB",
+"haga\thagar\tVERB": "hacer|VERB",
+"hagamos\thagar\tVERB": "hacer|VERB",
+"último\túltimo\tNOUN": "último|ADJ",
+"maldita\tmalditar\tVERB": "maldecir|VERB",
+"fantasma\tfantasma\tADJ": "fantasma|NOUN",
+"fantasmas\tfantasma\tADJ": "fantasma|NOUN",
+"pienses\tpiensser\tVERB": "pensar|VERB",
+"pásame\tpásame\tVERB": "pasar|VERB",
+"horas\thoras\tNOUN": "hora|NOUN",
+"rio\trio\tNOUN": "río|NOUN",
+"rios\trio\tNOUN": "río|NOUN",
+"echemos\tech\tVERB": "echar|VERB",
+"entremos\tentrer\tVERB": "entrar|VERB",
+"lleno\tlleno\tNOUN": "lleno|ADJ",
+"llenos\tlleno\tNOUN": "lleno|ADJ",
+"vi\tvi\tVERB": "ver|VERB",
+"comprendido\tcomprendido\tADJ": "comprender|VERB",
+"seguí\tseguí\tVERB": "seguir|VERB",
+"maquina\tmaquina\tNOUN": "maquinar|VERB",
+"maquinas\tmaquina\tNOUN": "maquinar|VERB",
+"t\tt\tCCONJ": "tiempo|NOUN",
+"alli\talli\tNOUN": "allí|ADV",
+"perdonad\tperdonad\tVERB": "perdonar|VERB",
+"darían\tdarir\tVERB": "dar|VERB",
+"sentirte\tsentirte\tVERB": "sentir|VERB",
+"salvado\tsalvado\tADJ": "salvar|VERB",
+"salvada\tsalvado\tADJ": "salvada|NOUN",
+"salvados\tsalvado\tADJ": "salvado|NOUN",
+"hablábamos\thablábar\tVERB": "hablar|VERB",
+"concuerda\tconcuerdar\tVERB": "concordar|VERB",
+"concuerdan\tconcuerdar\tVERB": "concordar|VERB",
+"sepultado\tsepultado\tADJ": "sepultar|VERB",
+"muero\tmuero\tVERB": "morir|VERB",
+"ved\tved\tINTJ": "ver|VERB",
+"cualquiera\tcualquiero\tADJ": "cualquiera|ADJ",
+"estabas\testabas\tNOUN": "estar|VERB",
+"enterado\tenterado\tADJ": "enterar|VERB",
+"buscas\tbuscas\tVERB": "buscar|VERB",
+"sal\tsal\tVERB": "salir|VERB",
+"repita\trepitar\tVERB": "repetir|VERB",
+"repitas\trepitar\tVERB": "repetir|VERB",
+"repitan\trepitar\tVERB": "repetir|VERB",
+"linea\tlinea\tNOUN": "línea|NOUN",
+"lineas\tlinea\tNOUN": "línea|NOUN",
+"registrado\tregistrado\tADJ": "registrar|VERB",
+"tambien\ttambien\tPRON": "también|PRON",
+"conocerás\tconocerás\tVERB": "conocer|VERB",
+"procure\tprocurir\tVERB": "procurar|VERB",
+"procuren\tprocurir\tVERB": "procurar|VERB",
+"procuran\tprocurir\tVERB": "procurar|VERB",
+"vuele\tvuelir\tVERB": "volar|VERB",
+"vuelvas\tvuelir\tVERB": "volver|VERB",
+"falto\tfalto\tVERB": "faltar|VERB",
+"tambien\ttambien\tADJ": "también|ADV",
+"mortales\tmortal\tNOUN": "mortal|ADJ",
+"febril\tfebril\tNOUN": "febril|ADJ",
+"anchas\tanchas\tNOUN": "ancha|NOUN",
+"atraído\tatraído\tADJ": "atraer|VERB",
+"avísame\tavísame\tINTJ": "avisar|VERB",
+"creímos\tcreímos\tVERB": "creer|VERB",
+"preparen\tpreparen\tVERB": "preparar|VERB",
+"dificil\tdificil\tADJ": "difícil|ADJ",
+"dificiles\tdificil\tADJ": "difícil|ADJ",
+"cercado\tcercado\tADJ": "cercar|VERB",
+"cercados\tcercado\tADJ": "cercado|NOUN",
+"alojado\talojado\tADJ": "alojar|VERB",
+"alojada\talojado\tADJ": "alojada|NOUN",
+"mato\tmato\tVERB": "matar|VERB",
+"desarrollado\tdesarrollado\tADJ": "desarrollar|VERB",
+"halle\thallir\tVERB": "hallar|VERB",
+"haréis\tharéis\tVERB": "hacer|VERB",
+"levántate\tlevántatar\tVERB": "levantar|VERB",
+"lees\tlees\tVERB": "leer|VERB",
+"fuí\tfuir\tVERB": "ir|VERB",
+"fuí\tfuir\tAUX": "ir|VERB",
+"sos\tsos\tAUX": "ser|VERB",
+"contenidos\tcontenido\tADJ": "contenido|NOUN",
+"fundado\tfundado\tADJ": "fundar|VERB",
+"acabas\tacabas\tVERB": "acabar|VERB",
+"acabas\tacabas\tAUX": "acabar|VERB",
+"pies\tpies\tNOUN": "pie|NOUN",
+"tientas\ttientas\tNOUN": "tienta|NOUN",
+"queramos\tquerar\tVERB": "querer|VERB",
+"emitido\temitido\tADJ": "emitir|VERB",
+"à\tà\tCCONJ": "a|ADP",
+"diablos\tdiablo\tPRON": "diablos|PRON",
+"carruajes\tcarruaj\tNOUN": "carruaje|NOUN",
+"ve\tve\tVERB": "ir|VERB",
+"vete\tve tú\tVERB": "ir|VERB",
+"despues\tdespues\tNOUN": "después|ADV",
+"proyectado\tproyectado\tADJ": "proyectar|VERB",
+"proyectada\tproyectado\tADJ": "proyectada|NOUN",
+"adornado\tadornado\tADJ": "adornar|VERB",
+"estuvimos\testuvimos\tVERB": "estar|VERB",
+"estuvimos\testuvimos\tAUX": "estar|VERB",
+"quanto\tquanto\tNOUN": "cuanto|NOUN",
+"bautizado\tbautizado\tADJ": "bautizar|VERB",
+"pedazos\tpedazo\tADJ": "pedazo|NOUN",
+"debamos\tdebar\tAUX": "deber|VERB",
+"debas\tdebar\tAUX": "deber|VERB",
+"debes\tdebar\tVERB": "deber|VERB",
+"verte\tvertar\tVERB": "ver|VERB",
+"os\tos\tNOUN": "os|PRON",
+"digan\tdigan\tVERB": "decir|VERB",
+"dudes\tdudser\tVERB": "dudar|VERB",
+"debías\tdebiar\tAUX": "deber|VERB",
+"ponte\tponte\tADJ": "poner|VERB",
+"gobernado\tgobernado\tADJ": "gobernar|VERB",
+"sígueme\tsígueme\tVERB": "seguir|VERB",
+"juzgar\tjuzgar\tNOUN": "juzgar|VERB",
+"trazado\ttrazado\tADJ": "trazar|VERB",
+"trazados\ttrazado\tADJ": "trazado|NOUN",
+"piés\tpié\tNOUN": "pie|NOUN",
+"pié\tpié\tNOUN": "pie|NOUN",
+"escucharte\tescucharte\tVERB": "escuchar|VERB",
+"hagámoslo\thagámoslo\tVERB": "hacer|VERB",
+"cebada\tcebado\tADJ": "cebada|NOUN",
+"cebado\tcebado\tADJ": "cebar|VERB",
+"gravísimo\tgravísimo\tADJ": "grave|ADJ",
+"gravísimas\tgravísimo\tADJ": "grave|ADJ",
+"dividido\tdividido\tADJ": "dividir|VERB",
+"defendidas\tdefendido\tADJ": "defendida|NOUN",
+"defendido\tdefendido\tADJ": "defender|VERB",
+"defendida\tdefendido\tADJ": "defendida|NOUN",
+"equivoqué\tequivoquar\tVERB": "equivocar|VERB",
+"reflejado\treflejado\tADJ": "reflejar|VERB",
+"razon\trazon\tNOUN": "razón|NOUN",
+"miremos\tmier\tVERB": "mirar|VERB",
+"mirá\tmier\tVERB": "mirar|VERB",
+"ganaste\tganastir\tVERB": "ganar|VERB",
+"acondicionado\tacondicionado\tNOUN": "acondicionado|ADJ",
+"orientado\torientado\tADJ": "orientar|VERB",
+"escuchaste\tescuchaste\tVERB": "escuchar|VERB",
+"lograste\tlograstar\tVERB": "lograr|VERB",
+"vuelto\tvuelto\tADJ": "volver|VERB",
+"vueltos\tvuelto\tADJ": "vuelto|NOUN",
+"deliciosa\tdeliciós\tADJ": "delicioso|ADJ",
+"reportes\treport\tNOUN": "reporte|NOUN",
+"muerta\tmuerta\tNOUN": "muerto|ADJ",
+"muertas\tmuerta\tNOUN": "muerto|ADJ",
+"conducido\tconducido\tADJ": "conducir|VERB",
+"conocer\tconocer\tNOUN": "conocer|VERB",
+"amarte\tamarte\tVERB": "amar|VERB",
+"presto\tpresto\tVERB": "prestar|VERB",
+"piénsalo\tpiénsalo\tVERB": "pensar|VERB",
+"lentes\tlent\tNOUN": "lentes|NOUN",
+"pajarillo\tpajarillo\tNOUN": "pájaro|NOUN",
+"pajarillos\tpajarillo\tNOUN": "pájaro|NOUN",
+"vos\tvo\tADJ": "vos|PRON",
+"arrepiento\tarrepientir\tVERB": "arrepentirse|VERB",
+"pompa\tpompa\tADJ": "pompo|ADJ",
+"cumplo\tcumplo\tVERB": "cumplir|VERB",
+"pese\tpese\tNOUN": "pesar|VERB",
+"recomendado\trecomendado\tADJ": "recomendar|VERB",
+"distribuido\tdistribuido\tADJ": "distribuir|VERB",
+"disparado\tdisparado\tADJ": "disparar|VERB",
+"mátame\tmátame\tINTJ": "matar|VERB",
+"tomaremos\ttomarar\tVERB": "tomar|VERB",
+"tomaras\ttomarar\tVERB": "tomar|VERB",
+"hallé\thallé\tVERB": "hallar|VERB",
+"malvado\tmalvado\tNOUN": "malvado|ADJ",
+"malvados\tmalvado\tNOUN": "malvado|ADJ",
+"preguntaste\tpreguntaste\tVERB": "preguntar|VERB",
+"jodiendo\tjodeir\tVERB": "joder|VERB",
+"improviso\timproviso\tNOUN": "improvisar|VERB",
+"menester\tmenester\tADJ": "menester|NOUN",
+"bum\tbum\tNOUN": "boom|NOUN",
+"odiosa\todiós\tADJ": "odioso|ADJ",
+"á\tá\tADP": "a|ADP",
+"asi\tasi\tINTJ": "así|INTJ",
+"a\ta\tNOUN": "a|ADP",
+"pesetas\tpesetas\tNOUN": "peseta|NOUN",
+"dígame\tdígamar\tVERB": "decir|VERB",
+"sembradas\tsembrado\tADJ": "sembrada|NOUN",
+"sembrado\tsembrado\tADJ": "sembrar|VERB",
+"sembrada\tsembrado\tADJ": "sembrada|NOUN",
+"sembrados\tsembrado\tADJ": "sembrado|NOUN",
+"ensangrentado\tensangrentado\tADJ": "ensangrentar|VERB",
+"espantado\tespantado\tADJ": "espantar|VERB",
+"espantada\tespantado\tADJ": "espantada|NOUN",
+"actualizado\tactualizado\tADJ": "actualizar|VERB",
+"alarme\talar yo\tVERB": "alarmar|VERB",
+"alaba\talar\tVERB": "alabar|VERB",
+"alaban\talar\tVERB": "alabar|VERB",
+"traba\ttrar\tVERB": "trabar|VERB",
+"traban\ttrar\tVERB": "trabar|VERB",
+"jodan\tjodir\tVERB": "joder|VERB",
+"jodas\tjodir\tVERB": "joder|VERB",
+"jodido\tjodir\tVERB": "joder|VERB",
+"joda\tjodir\tVERB": "joder|VERB",
+"enviaste\tenviastir\tVERB": "enviar|VERB",
+"estremeció\testremeceír\tVERB": "estremecer|VERB",
+"familiarizado\tfamiliarizado\tADJ": "familiarizar|VERB",
+"propuesta\tpropuesto\tADJ": "propuesta|NOUN",
+"propuestas\tpropuesto\tADJ": "propuesta|NOUN",
+"propuesto\tpropuesto\tADJ": "proponer|VERB",
+"time\ttime\tNOUN": "timar|VERB",
+"sumado\tsumado\tADJ": "sumar|VERB",
+"concursantes\tconcursant\tNOUN": "concursante|NOUN",
+"vá\tvar\tVERB": "ir|VERB",
+"vá\tvar\tAUX": "ir|VERB",
+"violó\tvioló\tVERB": "violar|VERB",
+"pm\tpm\tNOUN": "pm|ADV",
+"jode\tjodar\tVERB": "joder|VERB",
+"jodimos\tjodar\tVERB": "joder|VERB",
+"joden\tjodar\tVERB": "joder|VERB",
+"jodieron\tjodar\tVERB": "joder|VERB",
+"solicitado\tsolicitado\tADJ": "solicitar|VERB",
+"mátalo\tmátalo\tINTJ": "matar|VERB",
+"pequeñitos\tpequeñito\tADJ": "pequeño|ADJ",
+"pequeñitas\tpequeñito\tADJ": "pequeño|ADJ",
+"pequeñito\tpequeñito\tADJ": "pequeño|ADJ",
+"pequeñita\tpequeñito\tADJ": "pequeño|ADJ",
+"inscrito\tinscrito\tADJ": "inscribir|VERB",
+"fabricado\tfabricado\tADJ": "fabricar|VERB",
+"ardientes\tardient\tADJ": "ardiente|ADJ",
+"interrumpido\tinterrumpido\tADJ": "interrumpir|VERB",
+"aquél\taquél\tNOUN": "aquél|PRON",
+"fijo\tfijo\tNOUN": "fijar|VERB",
+"fijos\tfijo\tNOUN": "fijo|ADJ",
+"enloquecido\tenloquecir\tVERB": "enloquecer|VERB",
+"enloquece\tenloquecir\tVERB": "enloquecer|VERB",
+"enloquecen\tenloquecir\tVERB": "enloquecer|VERB",
+"indígena\tindígén\tADJ": "indígena|ADJ",
+"impulsado\timpulsado\tADJ": "impulsar|VERB",
+"encarcelado\tencarcelado\tADJ": "encarcelar|VERB",
+"original\toriginal\tNOUN": "original|ADJ",
+"comun\tcomun\tADJ": "común|ADJ",
+"demostrado\tdemostrado\tADJ": "demostrar|VERB",
+"definitiva\tdefinitiva\tNOUN": "definitivo|ADJ",
+"necesites\tnecesitser\tVERB": "necesitar|VERB",
+"m\tm\tNUM": "me|NUM",
+"inclinado\tinclinado\tADJ": "inclinar|VERB",
+"ensalada\tensalado\tADJ": "ensalada|NOUN",
+"descrito\tdescrito\tADJ": "describir|VERB",
+"frailes\tfrail\tNOUN": "fraile|NOUN",
+"provisto\tprovisto\tADJ": "proveer|VERB",
+"dándome\tdándome\tVERB": "dar|VERB",
+"bañados\tbañado\tADJ": "bañado|NOUN",
+"bañado\tbañado\tADJ": "bañar|VERB",
+"preparé\tprepacer\tVERB": "preparar|VERB",
+"preparemos\tprepacer\tVERB": "preparar|VERB",
+"obtenido\tobtenido\tADJ": "obtener|VERB",
+"compuesto\tcompuesto\tNOUN": "componer|VERB",
+"compuestos\tcompuesto\tNOUN": "compuesto|ADJ",
+"vasta\tvasta\tADJ": "vasto|ADJ",
+"inclusive\tinclusive\tADJ": "inclusive|ADV",
+"é\té\tCCONJ": "e|CCONJ",
+"automotrices\tautomotriz\tADJ": "automotor|ADJ",
+"automotriz\tautomotriz\tADJ": "automotor|ADJ",
+"fieles\tfiel\tNOUN": "fiel|ADJ",
+"fiel\tfiel\tNOUN": "fiel|ADJ",
+"fuí\tfuí\tAUX": "ir|VERB",
+"interesarte\tinteresarte\tVERB": "interesar|VERB",
+"recordemos\trecorder\tVERB": "recordar|VERB",
+"escucharon\tescucharon\tVERB": "escuchar|VERB",
+"fuimos\tfuimos\tAUX": "ser|VERB",
+"ayúdenme\tayúdenme\tINTJ": "ayudar|VERB",
+"fatigado\tfatigado\tADJ": "fatigar|VERB",
+"religioso\treligioso\tNOUN": "religioso|ADJ",
+"religiosos\treligioso\tNOUN": "religioso|ADJ",
+"disputado\tdisputado\tADJ": "disputar|VERB",
+"substancia\tsubstancia\tNOUN": "sustancia|NOUN",
+"substancias\tsubstancia\tNOUN": "sustancia|NOUN",
+"conformado\tconformado\tADJ": "conformar|VERB",
+"acumulado\tacumulado\tADJ": "acumular|VERB",
+"convocado\tconvocado\tADJ": "convocar|VERB",
+"respetado\trespetado\tADJ": "respetar|VERB",
+"calavera\tcalavero\tADJ": "calavera|NOUN",
+"sexy\tsexy\tADJ": "sexi|ADJ",
+"agora\tagoro\tADJ": "ahora|ADV",
+"capitan\tcapitan\tNOUN": "capitán|NOUN",
+"apreciado\tapreciado\tADJ": "apreciar|VERB",
+"hacíamos\thacíar\tVERB": "hacer|VERB",
+"integrado\tintegrado\tADJ": "integrar|VERB",
+"prevenido\tprevenido\tADJ": "prevenir|VERB",
+"abría\taber\tVERB": "abrir|VERB",
+"anunciado\tanunciado\tADJ": "anunciar|VERB",
+"f\tf\tNOUN": "f|INTJ",
+"programado\tprogramado\tADJ": "programar|VERB",
+"haciéndoles\thaciendo él\tVERB": "hacer|VERB",
+"haciéndolas\thaciendo él\tVERB": "hacer|VERB",
+"haciéndolos\thaciendo él\tVERB": "hacer|VERB",
+"protagonizado\tprotagonizado\tADJ": "protagonizar|VERB",
+"fines\tfines\tNOUN": "fin|NOUN",
+"respaldado\trespaldado\tADJ": "respaldar|VERB",
+"pimienta\tpimiento\tADJ": "pimienta|NOUN",
+"turbado\tturbado\tADJ": "turbar|VERB",
+"to\tto\tNOUN": "to|INTJ",
+"serena\tserén\tADJ": "sereno|ADJ",
+"desnudo\tdesnudo\tNOUN": "desnudo|ADJ",
+"desnudos\tdesnudo\tNOUN": "desnudo|ADJ",
+"mismo\tmismo\tNOUN": "mismo|ADJ",
+"peinado\tpeinado\tADJ": "peinar|VERB",
+"peinados\tpeinado\tADJ": "peinado|NOUN",
+"llevado\tllevado\tADJ": "llevar|VERB",
+"velada\tvelado\tADJ": "velada|NOUN",
+"velado\tvelado\tADJ": "velar|VERB",
+"gallardo\tgallardo\tNOUN": "gallardo|ADJ",
+"gallardos\tgallardo\tNOUN": "gallardo|ADJ",
+"vídeo\tvídeo\tNOUN": "video|NOUN",
+"vídeos\tvídeo\tNOUN": "video|NOUN",
+"futbol\tfutbol\tNOUN": "fútbol|NOUN",
+"uy\tuy\tINTJ": "huy|INTJ",
+"venidas\tvenido\tADJ": "venida|NOUN",
+"venida\tvenido\tADJ": "venida|NOUN",
+"venido\tvenido\tADJ": "venir|VERB",
+"maldito\tmalditir\tVERB": "maldecir|VERB",
+"reconocí\treconocí\tVERB": "reconocer|VERB",
+"aprendido\taprendido\tADJ": "aprender|VERB",
+"policiaca\tpoliciaco\tADJ": "policíaco|ADJ",
+"policiacas\tpoliciaco\tADJ": "policíaco|ADJ",
+"policiaco\tpoliciaco\tADJ": "policíaco|ADJ",
+"correrían\tcorrerir\tVERB": "correr|VERB",
+"correrían\tcorrerir\tAUX": "correr|VERB",
+"altísimo\taltísimo\tADJ": "alto|ADJ",
+"altísima\taltísimo\tADJ": "alto|ADJ",
+"altísimos\taltísimo\tADJ": "alto|ADJ",
+"altísimas\taltísimo\tADJ": "alto|ADJ",
+"grandísimo\tgrandísimo\tADJ": "grande|ADJ",
+"grandísima\tgrandísimo\tADJ": "grande|ADJ",
+"grandísimas\tgrandísimo\tADJ": "grande|ADJ",
+"quando\tquando\tSCONJ": "cuando|SCONJ",
+"amnistía\tamnistir\tVERB": "amnistiar|VERB",
+"dolares\tdolar\tNOUN": "dólar|NOUN",
+"dolar\tdolar\tNOUN": "dólar|NOUN",
+"hazlo\thazlo\tINTJ": "hacer|VERB",
+"principe\tprincipe\tNOUN": "príncipe|NOUN",
+"contemporáneos\tcontemporáneo\tNOUN": "contemporáneo|ADJ",
+"noroeste\tnoroeste\tADJ": "noroeste|NOUN",
+"afiliado\tafiliado\tADJ": "afiliado|NOUN",
+"afiliada\tafiliado\tADJ": "afiliada|NOUN",
+"afiliados\tafiliado\tADJ": "afiliado|NOUN",
+"humanos\thumanos\tNOUN": "humano|NOUN",
+"usé\tuser\tVERB": "usar|VERB",
+"mediados\tmediados\tNOUN": "mediado|ADJ",
+"adorado\tadorado\tADJ": "adorar|VERB",
+"mostrado\tmostrado\tADJ": "mostrar|VERB",
+"obscuridad\tobscuridad\tNOUN": "oscuridad|NOUN",
+"obscuridades\tobscuridad\tNOUN": "oscuridad|NOUN",
+"na\tna\tNOUN": "nada|PRON",
+"capitulo\tcapitulo\tNOUN": "capitular|VERB",
+"da\tda\tADP": "dar|VERB",
+"tambien\ttambien\tADV": "también|ADV",
+"efectuado\tefectuado\tADJ": "efectuar|VERB",
+"generalizado\tgeneralizado\tADJ": "generalizar|VERB",
+"agravado\tagravado\tADJ": "agravar|VERB",
+"paralelo\tparalelo\tNOUN": "paralelo|ADJ",
+"drones\tdrón\tNOUN": "dron|NOUN",
+"impuestos\timpuesto\tADJ": "impuesto|NOUN",
+"impuesto\timpuesto\tADJ": "imponer|VERB",
+"derechos\tderechos\tNOUN": "derecho|NOUN",
+"desplegado\tdesplegado\tADJ": "desplegar|VERB",
+"documental\tdocumental\tADJ": "documental|NOUN",
+"documentales\tdocumental\tADJ": "documental|NOUN",
+"recostado\trecostado\tADJ": "recostar|VERB",
+"mdp\tmdp\tNOUN": "millón|NOUN",
+"admirado\tadmirado\tADJ": "admirar|VERB",
+"empresaria\tempresario\tADJ": "empresaria|NOUN",
+"récord\trécord\tADJ": "récord|NOUN",
+"encabezados\tencabezado\tADJ": "encabezado|NOUN",
+"encabezado\tencabezado\tADJ": "encabezar|VERB",
+"consultado\tconsultado\tADJ": "consultar|VERB",
+"quatro\tquatro\tNUM": "cuatro|NUM",
+"fósiles\tfósil\tADJ": "fósil|NOUN",
+"vió\tvió\tVERB": "ver|VERB",
+"contemplado\tcontemplado\tADJ": "contemplar|VERB",
+"dista\tdista\tADJ": "distar|VERB",
+"lumbre\tlumbre\tADJ": "lumbre|NOUN",
+"web\tweb\tADJ": "web|NOUN",
+"ende\tende\tNOUN": "ende|ADV",
+"euros\teuros\tNOUN": "euro|NOUN",
+"difundido\tdifundido\tADJ": "difundir|VERB",
+"presidido\tpresidido\tADJ": "presidir|VERB",
+"memes\tmem\tNOUN": "meme|NOUN",
+"humanista\thumanista\tADJ": "humanista|NOUN",
+"migrantes\tmigrant\tNOUN": "migrante|NOUN",
+"islamista\tislamista\tADJ": "islamista|NOUN",
+"connacional\tconnacional\tADJ": "connacional|NOUN",
+"connacionales\tconnacional\tADJ": "connacional|NOUN",
+"usuarios\tusuario\tADJ": "usuario|NOUN",
+"usuarias\tusuario\tADJ": "usuaria|NOUN",
+"usuaria\tusuario\tADJ": "usuaria|NOUN",
+"expresado\texpresado\tADJ": "expresar|VERB",
+"sancionado\tsancionado\tADJ": "sancionar|VERB",
+"decembrinas\tdecembrina\tADJ": "decembrino|ADJ",
+"cabe\tcabe\tDET": "caber|VERB",
+"accesibles\taccesibl\tADJ": "accesible|ADJ",
+"feminicidios\tfeminicidio\tNOUN": "femicidio|NOUN",
+"feminicidio\tfeminicidio\tNOUN": "femicidio|NOUN",
+"afectados\tafectado\tNOUN": "afectado|ADJ",
+"cabe\tcabe\tADJ": "caber|VERB",
+"imputados\timputado\tADJ": "imputado|NOUN",
+"imputada\timputado\tADJ": "imputada|NOUN",
+"imputado\timputado\tADJ": "imputar|VERB",
+"otorgado\totorgado\tADJ": "otorgar|VERB",
+"suba\tsuba\tNOUN": "subir|VERB",
+"interesar\tinteresar\tNOUN": "interesar|VERB",
+"pactado\tpactado\tADJ": "pactar|VERB",
+"aunado\taunado\tADJ": "aunar|VERB",
+"enlaces\tenlaces\tNOUN": "enlace|NOUN",
+"chats\tchats\tNOUN": "chat|NOUN",
+"soleado\tsoleado\tNOUN": "soleado|ADJ",
+"viva\tviva\tADP": "vivir|VERB",
+"promovido\tpromovido\tADJ": "promover|VERB",
+"indagatorias\tindagatoria\tNOUN": "indagatorio|ADJ",
+"indagatoria\tindagatoria\tNOUN": "indagatorio|ADJ",
+"vertientes\tvertient\tNOUN": "vertiente|NOUN",
+"mirá\tmirá\tADJ": "mirar|VERB",
+"comparte\tcomparte\tADJ": "compartir|VERB",
+"revelaba\trevelabar\tVERB": "revelar|VERB",
+"cacique\tcacique\tADJ": "cacique|NOUN",
+"facer\tfacer\tVERB": "hacer|VERB",
+"fecho\tfacer\tVERB": "hacer|VERB",
+"ficieron\tfacer\tVERB": "hacer|VERB",
+"faga\tfacer\tVERB": "hacer|VERB",
+"orígen\torígen\tNOUN": "origen|NOUN",
+"obscuro\tobscuro\tADJ": "oscuro|ADJ",
+"obscura\tobscuro\tADJ": "oscuro|ADJ",
+"obscuros\tobscuro\tADJ": "oscuro|ADJ",
+"ansí\tansí\tADP": "así|ADV",
+"hácia\thácia\tNOUN": "hacia|ADP",
+"entónces\tentónces\tADV": "entonces|ADV",
+"hobiese\thobeír\tVERB": "haber|VERB",
+"dél\tdél\tADP": "de|ADP",
+"ántes\tánt\tADJ": "antes|ADP",
+"ora\tora\tADV": "orar|VERB",
+"copies\tcopies \tVERB": "copiar|VERB",
+"copies\tcopies\tVERB": "copiar|VERB",
+"ò\tò\tCCONJ": "o|CCONJ",
+"removed\tremoved\tVERB": "remover|VERB",
+"ansi\tansi\tNOUN": "así|CCONJ",
+"qual\tqual\tADJ": "cual|PRON",
+"qual\tqual\tNOUN": "cual|PRON",
+"estraño\testraño\tADJ": "extraño|ADJ",
+"estraña\testraño\tADJ": "extraño|ADJ",
+"estraños\testraño\tADJ": "extraño|ADJ",
+"dixo\tdixo\tVERB": "decir|VERB",
+"mesmo\tmesmo\tNOUN": "mismo|ADJ",
+"sugeto\tsugeto\tADJ": "sujeto|NOUN",
+"exemplo\texemplo\tNOUN": "ejemplo|NOUN",
+"exemplos\texemplo\tNOUN": "ejemplo|NOUN",
+"mugeres\tmuger\tNOUN": "mujer|NOUN",
+"muger\tmuger\tNOUN": "mujer|NOUN",
+"escena\tescena\tADJ": "escena|NOUN",
+"viage\tviage\tNOUN": "viaje|NOUN",
+"aguardiente\taguardiente\tADJ": "aguardiente|NOUN",
+"quales\tquale\tPRON": "cual|PRON",
+"jesuítas\tjesuíta\tNOUN": "jesuita|NOUN",
+"jesuíta\tjesuíta\tNOUN": "jesuita|NOUN",
+"estátua\testátua\tNOUN": "estatua|NOUN",
+"estátuas\testátua\tNOUN": "estatua|NOUN",
+"caciques\tcaciqu\tNOUN": "cacique|NOUN",
+"entrambos\tentrambos\tNUM": "ambos|NUM",
+"ô\tô\tCCONJ": "o|CCONJ",
+"dexando\tdexar\tVERB": "dejar|VERB",
+"dexaba\tdexar\tVERB": "dejar|VERB",
+"dexaban\tdexar\tVERB": "dejar|VERB",
+"ducados\tducado\tADJ": "ducado|NOUN",
+"quel\tquel\tNOUN": "cual|PRON",
+"azumbres\tazumbr\tNOUN": "azumbre|NOUN",
+"ysla\tysla\tNOUN": "isla|NOUN",
+"yslas\tysla\tNOUN": "isla|NOUN",
+"yndios\tyndio\tNOUN": "indio|NOUN",
+"cibdad\tcibdad\tNOUN": "ciudad|NOUN",
+"cibdades\tcibdad\tNOUN": "ciudad|NOUN",
+"jeique\tjeique\tNOUN": "jeque|NOUN",
+"arroyito\tarroyito\tNOUN": "arroyo|NOUN",
+"PROPN\tbuenas": {
+"key": "bueno|ADJ",
+"initial_ok": true
+},
+"PROPN\tperdóname": {
+"key": "perdonar|VERB",
+"initial_ok": true
+},
+"PROPN\táfrica": {
+"key": "áfrico|ADJ",
+"initial_ok": false
+},
+"PROPN\tbosque": {
+"key": "bosque|NOUN",
+"initial_ok": false
+},
+"PROPN\tpapa": {
+"key": "papa|NOUN",
+"initial_ok": false
+},
+"PROPN\tpizza": {
+"key": "pizza|NOUN",
+"initial_ok": true
+},
+"PROPN\tbella": {
+"key": "bello|ADJ",
+"initial_ok": true
+},
+"PROPN\tderechos": {
+"key": "derecho|NOUN",
+"initial_ok": true
+},
+"PROPN\thumanos": {
+"key": "humano|ADJ",
+"initial_ok": true
+},
+"PROPN\tnaciones": {
+"key": "nación|NOUN",
+"initial_ok": true
+},
+"PROPN\tunidas": {
+"key": "unido|ADJ",
+"initial_ok": true
+},
+"PROPN\tgarza": {
+"key": "garza|NOUN",
+"initial_ok": false
+},
+"PROPN\tnueva": {
+"key": "nuevo|ADJ",
+"initial_ok": false
+},
+"PROPN\tjersey": {
+"key": "jersey|NOUN",
+"initial_ok": false
+},
+"PROPN\tjefe": {
+"key": "jefe|NOUN",
+"initial_ok": true
+},
+"PROPN\tmajestad": {
+"key": "majestad|NOUN",
+"initial_ok": true
+},
+"PROPN\tuno": {
+"key": "uno|DET",
+"initial_ok": true
+},
+"PROPN\treina": {
+"key": "reina|NOUN",
+"initial_ok": false
+},
+"PROPN\tcondesa": {
+"key": "condesa|NOUN",
+"initial_ok": true
+},
+"PROPN\tmancha": {
+"key": "mancha|NOUN",
+"initial_ok": false
+},
+"PROPN\tteatro": {
+"key": "teatro|NOUN",
+"initial_ok": true
+},
+"PROPN\tlord": {
+"key": "lord|NOUN",
+"initial_ok": true
+},
+"PROPN\taires": {
+"key": "aire|NOUN",
+"initial_ok": true
+},
+"PROPN\tcarta": {
+"key": "carta|NOUN",
+"initial_ok": true
+},
+"PROPN\tgeneral": {
+"key": "general|ADJ",
+"initial_ok": true
+},
+"PROPN\tcoronel": {
+"key": "coronel|NOUN",
+"initial_ok": false
+},
+"PROPN\tverdadero": {
+"key": "verdadero|ADJ",
+"initial_ok": true
+},
+"PROPN\telena": {
+"key": "elena|NOUN",
+"initial_ok": false
+},
+"PROPN\tconde": {
+"key": "conde|NOUN",
+"initial_ok": false
+},
+"PROPN\tmadre": {
+"key": "madre|NOUN",
+"initial_ok": true
+},
+"PROPN\ttimes": {
+"key": "timar|VERB",
+"initial_ok": true
+},
+"PROPN\tbo": {
+"key": "bo|INTJ",
+"initial_ok": true
+},
+"PROPN\tflores": {
+"key": "flor|NOUN",
+"initial_ok": false
+},
+"PROPN\tsur": {
+"key": "sur|NOUN",
+"initial_ok": true
+},
+"PROPN\tpequeño": {
+"key": "pequeño|ADJ",
+"initial_ok": true
+},
+"PROPN\tliga": {
+"key": "liga|NOUN",
+"initial_ok": false
+},
+"PROPN\tunión": {
+"key": "unión|NOUN",
+"initial_ok": false
+},
+"PROPN\tcarolina": {
+"key": "carolina|NOUN",
+"initial_ok": false
+},
+"PROPN\tconfederación": {
+"key": "confederación|NOUN",
+"initial_ok": true
+},
+"PROPN\tmar": {
+"key": "mar|NOUN",
+"initial_ok": true
+},
+"PROPN\tcarpintero": {
+"key": "carpintero|NOUN",
+"initial_ok": false
+},
+"PROPN\tparís": {
+"key": "parir|VERB",
+"initial_ok": false
+},
+"PROPN\tvino": {
+"key": "venir|VERB",
+"initial_ok": true
+},
+"PROPN\tsan": {
+"key": "santo|ADJ",
+"initial_ok": true
+},
+"PROPN\tcalifornia": {
+"key": "california|NOUN",
+"initial_ok": false
+},
+"PROPN\tsolo": {
+"key": "solo|ADJ",
+"initial_ok": true
+},
+"PROPN\tdominicana": {
+"key": "dominicana|NOUN",
+"initial_ok": true
+},
+"PROPN\tdime": {
+"key": "decir|VERB",
+"initial_ok": true
+},
+"PROPN\tcomité": {
+"key": "comité|NOUN",
+"initial_ok": true
+},
+"PROPN\tnegro": {
+"key": "negro|NOUN",
+"initial_ok": true
+},
+"PROPN\tfin": {
+"key": "fin|NOUN",
+"initial_ok": true
+},
+"PROPN\tmata": {
+"key": "matar|VERB",
+"initial_ok": false
+},
+"PROPN\tclub": {
+"key": "club|NOUN",
+"initial_ok": true
+},
+"PROPN\tazul": {
+"key": "azul|ADJ",
+"initial_ok": false
+},
+"PROPN\tasi": {
+"key": "así|ADV",
+"initial_ok": true
+},
+"PROPN\tnapoleón": {
+"key": "napoleón|NOUN",
+"initial_ok": false
+},
+"PROPN\teres": {
+"key": "ser|VERB",
+"initial_ok": true
+},
+"PROPN\tman": {
+"key": "man|NOUN",
+"initial_ok": true
+},
+"PROPN\thall": {
+"key": "hall|NOUN",
+"initial_ok": true
+},
+"PROPN\toficina": {
+"key": "oficina|NOUN",
+"initial_ok": true
+},
+"PROPN\tayuda": {
+"key": "ayuda|NOUN",
+"initial_ok": true
+},
+"PROPN\tpública": {
+"key": "público|ADJ",
+"initial_ok": true
+},
+"PROPN\tamor": {
+"key": "amor|NOUN",
+"initial_ok": false
+},
+"PROPN\tchica": {
+"key": "chica|NOUN",
+"initial_ok": true
+},
+"PROPN\tmontaña": {
+"key": "montaña|NOUN",
+"initial_ok": true
+},
+"PROPN\tseñor": {
+"key": "señor|NOUN",
+"initial_ok": false
+},
+"PROPN\tdios": {
+"key": "dios|NOUN",
+"initial_ok": false
+},
+"PROPN\tbabilonia": {
+"key": "babilonia|NOUN",
+"initial_ok": false
+},
+"PROPN\tcariño": {
+"key": "cariño|NOUN",
+"initial_ok": false
+},
+"PROPN\tluna": {
+"key": "luna|NOUN",
+"initial_ok": false
+},
+"PROPN\tvilla": {
+"key": "villa|NOUN",
+"initial_ok": false
+},
+"PROPN\tcruz": {
+"key": "cruz|NOUN",
+"initial_ok": false
+},
+"PROPN\troja": {
+"key": "rojo|ADJ",
+"initial_ok": false
+},
+"PROPN\ttercer": {
+"key": "tercero|ADJ",
+"initial_ok": true
+},
+"PROPN\tapúrense": {
+"key": "apurar|VERB",
+"initial_ok": true
+},
+"PROPN\tmierda": {
+"key": "mierda|NOUN",
+"initial_ok": true
+},
+"PROPN\tlotería": {
+"key": "lotería|NOUN",
+"initial_ok": true
+},
+"PROPN\tpremio": {
+"key": "premio|NOUN",
+"initial_ok": true
+},
+"PROPN\tfeliz": {
+"key": "feliz|ADJ",
+"initial_ok": true
+},
+"PROPN\tcarmen": {
+"key": "carmen|NOUN",
+"initial_ok": false
+},
+"PROPN\ttío": {
+"key": "tío|NOUN",
+"initial_ok": true
+},
+"PROPN\tcapítulo": {
+"key": "capítulo|NOUN",
+"initial_ok": true
+},
+"PROPN\talli": {
+"key": "allí|ADV",
+"initial_ok": true
+},
+"PROPN\tinvierno": {
+"key": "invierno|NOUN",
+"initial_ok": true
+},
+"PROPN\tlago": {
+"key": "lago|NOUN",
+"initial_ok": false
+},
+"PROPN\tsagrado": {
+"key": "sagrado|ADJ",
+"initial_ok": true
+},
+"PROPN\tsol": {
+"key": "sol|NOUN",
+"initial_ok": false
+},
+"PROPN\tcabeza": {
+"key": "cabeza|NOUN",
+"initial_ok": false
+},
+"PROPN\tbuda": {
+"key": "buda|NOUN",
+"initial_ok": false
+},
+"PROPN\tsalón": {
+"key": "salón|NOUN",
+"initial_ok": true
+},
+"PROPN\toro": {
+"key": "oro|NOUN",
+"initial_ok": true
+},
+"PROPN\tsociedad": {
+"key": "sociedad|NOUN",
+"initial_ok": false
+},
+"PROPN\tdon": {
+"key": "don|NOUN",
+"initial_ok": true
+},
+"PROPN\tmadame": {
+"key": "madame|NOUN",
+"initial_ok": true
+},
+"PROPN\tnúmero": {
+"key": "número|NOUN",
+"initial_ok": true
+},
+"PROPN\tpríncipe": {
+"key": "príncipe|NOUN",
+"initial_ok": true
+},
+"PROPN\tdirección": {
+"key": "dirección|NOUN",
+"initial_ok": true
+},
+"PROPN\tcomandante": {
+"key": "comandante|NOUN",
+"initial_ok": true
+},
+"PROPN\tjean": {
+"key": "jean|NOUN",
+"initial_ok": true
+},
+"PROPN\thotel": {
+"key": "hotel|NOUN",
+"initial_ok": true
+},
+"PROPN\tdirector": {
+"key": "director|NOUN",
+"initial_ok": true
+},
+"PROPN\tprofesor": {
+"key": "profesor|NOUN",
+"initial_ok": true
+},
+"PROPN\tperro": {
+"key": "perro|NOUN",
+"initial_ok": true
+},
+"PROPN\tnoche": {
+"key": "noche|NOUN",
+"initial_ok": true
+},
+"PROPN\tuniversidad": {
+"key": "universidad|NOUN",
+"initial_ok": true
+},
+"PROPN\tgabinete": {
+"key": "gabinete|NOUN",
+"initial_ok": true
+},
+"PROPN\tarchive": {
+"key": "archivar|VERB",
+"initial_ok": true
+},
+"PROPN\tbuena": {
+"key": "bueno|ADJ",
+"initial_ok": true
+},
+"PROPN\tbolsa": {
+"key": "bolsa|NOUN",
+"initial_ok": true
+},
+"PROPN\tvan": {
+"key": "ir|VERB",
+"initial_ok": true
+},
+"PROPN\tdías": {
+"key": "día|NOUN",
+"initial_ok": true
+},
+"PROPN\tgolden": {
+"key": "golden|NOUN",
+"initial_ok": true
+},
+"PROPN\tmala": {
+"key": "malo|ADJ",
+"initial_ok": true
+},
+"PROPN\tsatán": {
+"key": "satán|NOUN",
+"initial_ok": false
+},
+"PROPN\tpadre": {
+"key": "padre|NOUN",
+"initial_ok": true
+},
+"PROPN\trey": {
+"key": "rey|NOUN",
+"initial_ok": false
+},
+"PROPN\tgloria": {
+"key": "gloria|NOUN",
+"initial_ok": false
+},
+"PROPN\tmamá": {
+"key": "mamá|NOUN",
+"initial_ok": true
+},
+"PROPN\tsola": {
+"key": "solo|ADJ",
+"initial_ok": false
+},
+"PROPN\tempuja": {
+"key": "empujar|VERB",
+"initial_ok": true
+},
+"PROPN\tverde": {
+"key": "verde|ADJ",
+"initial_ok": true
+},
+"PROPN\thombre": {
+"key": "hombre|NOUN",
+"initial_ok": true
+},
+"PROPN\thierro": {
+"key": "hierro|NOUN",
+"initial_ok": false
+},
+"PROPN\ttony": {
+"key": "tony|NOUN",
+"initial_ok": true
+},
+"PROPN\tnoches": {
+"key": "noche|NOUN",
+"initial_ok": true
+},
+"PROPN\tlee": {
+"key": "leer|VERB",
+"initial_ok": true
+},
+"PROPN\thola": {
+"key": "hola|INTJ",
+"initial_ok": true
+},
+"PROPN\taqui": {
+"key": "aquí|ADV",
+"initial_ok": true
+},
+"PROPN\tseñoría": {
+"key": "señoría|NOUN",
+"initial_ok": true
+},
+"PROPN\testados": {
+"key": "estado|NOUN",
+"initial_ok": true
+},
+"PROPN\tunidos": {
+"key": "unido|ADJ",
+"initial_ok": true
+},
+"PROPN\tcia": {
+"key": "ciar|VERB",
+"initial_ok": true
+},
+"PROPN\tarmas": {
+"key": "arma|NOUN",
+"initial_ok": true
+},
+"PROPN\tinquisición": {
+"key": "inquisición|NOUN",
+"initial_ok": false
+},
+"PROPN\ttierra": {
+"key": "tierra|NOUN",
+"initial_ok": false
+},
+"PROPN\tinfierno": {
+"key": "infierno|NOUN",
+"initial_ok": true
+},
+"PROPN\tdiablo": {
+"key": "diablo|NOUN",
+"initial_ok": false
+},
+"PROPN\tquinta": {
+"key": "quinta|NOUN",
+"initial_ok": true
+},
+"PROPN\tavenida": {
+"key": "avenida|NOUN",
+"initial_ok": true
+},
+"PROPN\tabad": {
+"key": "abad|NOUN",
+"initial_ok": false
+},
+"PROPN\ttranquilízate": {
+"key": "tranquilizar|VERB",
+"initial_ok": true
+},
+"PROPN\talteza": {
+"key": "alteza|NOUN",
+"initial_ok": true
+},
+"PROPN\tvos": {
+"key": "vos|PRON",
+"initial_ok": true
+},
+"PROPN\timperial": {
+"key": "imperial|ADJ",
+"initial_ok": false
+},
+"PROPN\tnevada": {
+"key": "nevada|NOUN",
+"initial_ok": false
+},
+"PROPN\tsígame": {
+"key": "seguir|VERB",
+"initial_ok": true
+},
+"PROPN\tperdón": {
+"key": "perdón|NOUN",
+"initial_ok": true
+},
+"PROPN\tdoctor": {
+"key": "doctor|NOUN",
+"initial_ok": true
+},
+"PROPN\tbanco": {
+"key": "banco|NOUN",
+"initial_ok": true
+},
+"PROPN\tpapá": {
+"key": "papá|NOUN",
+"initial_ok": true
+},
+"PROPN\tacción": {
+"key": "acción|NOUN",
+"initial_ok": true
+},
+"PROPN\tgracias": {
+"key": "gracias|INTJ",
+"initial_ok": false
+},
+"PROPN\tsangre": {
+"key": "sangre|NOUN",
+"initial_ok": true
+},
+"PROPN\tisla": {
+"key": "isla|NOUN",
+"initial_ok": false
+},
+"PROPN\thijos": {
+"key": "hijo|NOUN",
+"initial_ok": true
+},
+"PROPN\tvuestro": {
+"key": "vuestro|DET",
+"initial_ok": true
+},
+"PROPN\tángeles": {
+"key": "ángel|NOUN",
+"initial_ok": false
+},
+"PROPN\tcatedral": {
+"key": "catedral|NOUN",
+"initial_ok": true
+},
+"PROPN\thora": {
+"key": "hora|NOUN",
+"initial_ok": true
+},
+"PROPN\tsanta": {
+"key": "santa|NOUN",
+"initial_ok": true
+},
+"PROPN\tten": {
+"key": "tener|VERB",
+"initial_ok": true
+},
+"PROPN\thermano": {
+"key": "hermano|NOUN",
+"initial_ok": true
+},
+"PROPN\tduque": {
+"key": "duque|NOUN",
+"initial_ok": false
+},
+"PROPN\tcanto": {
+"key": "canto|NOUN",
+"initial_ok": true
+},
+"PROPN\tvi": {
+"key": "ver|VERB",
+"initial_ok": true
+},
+"PROPN\tnorte": {
+"key": "norte|ADJ",
+"initial_ok": false
+},
+"PROPN\tindio": {
+"key": "indio|ADJ",
+"initial_ok": true
+},
+"PROPN\tcorte": {
+"key": "corte|NOUN",
+"initial_ok": true
+},
+"PROPN\tcapitán": {
+"key": "capitán|NOUN",
+"initial_ok": true
+},
+"PROPN\tluis": {
+"key": "luis|NOUN",
+"initial_ok": false
+},
+"PROPN\texcelencia": {
+"key": "excelencia|NOUN",
+"initial_ok": true
+},
+"PROPN\tinternacional": {
+"key": "internacional|ADJ",
+"initial_ok": false
+},
+"PROPN\thermana": {
+"key": "hermana|NOUN",
+"initial_ok": true
+},
+"PROPN\tida": {
+"key": "ida|NOUN",
+"initial_ok": true
+},
+"PROPN\tate": {
+"key": "atar|VERB",
+"initial_ok": true
+},
+"PROPN\tmujeres": {
+"key": "mujer|NOUN",
+"initial_ok": false
+},
+"PROPN\tdamas": {
+"key": "dama|NOUN",
+"initial_ok": true
+},
+"PROPN\tverte": {
+"key": "ver|VERB",
+"initial_ok": true
+},
+"PROPN\tjardín": {
+"key": "jardín|NOUN",
+"initial_ok": true
+},
+"PROPN\talegría": {
+"key": "alegría|NOUN",
+"initial_ok": false
+},
+"PROPN\tmedio": {
+"key": "medio|ADJ",
+"initial_ok": true
+},
+"PROPN\tarco": {
+"key": "arco|NOUN",
+"initial_ok": true
+},
+"PROPN\trayo": {
+"key": "rayo|NOUN",
+"initial_ok": false
+},
+"PROPN\tmuerte": {
+"key": "muerte|NOUN",
+"initial_ok": true
+},
+"PROPN\tcámara": {
+"key": "cámara|NOUN",
+"initial_ok": true
+},
+"PROPN\thija": {
+"key": "hija|NOUN",
+"initial_ok": true
+},
+"PROPN\tmía": {
+"key": "mío|PRON",
+"initial_ok": true
+},
+"PROPN\tput": {
+"key": "put|NOUN",
+"initial_ok": true
+},
+"PROPN\tboys": {
+"key": "boy|NOUN",
+"initial_ok": true
+},
+"PROPN\tout": {
+"key": "out|NOUN",
+"initial_ok": true
+},
+"PROPN\tbrasil": {
+"key": "brasil|NOUN",
+"initial_ok": false
+},
+"PROPN\tmaldita": {
+"key": "maldito|ADJ",
+"initial_ok": true
+},
+"PROPN\tcamarada": {
+"key": "camarada|NOUN",
+"initial_ok": true
+},
+"PROPN\tsancho": {
+"key": "sancho|NOUN",
+"initial_ok": false
+},
+"PROPN\tpoder": {
+"key": "poder|VERB",
+"initial_ok": true
+},
+"PROPN\tfausto": {
+"key": "fausto|ADJ",
+"initial_ok": false
+},
+"PROPN\talgo": {
+"key": "algo|PRON",
+"initial_ok": true
+},
+"PROPN\tacademia": {
+"key": "academia|NOUN",
+"initial_ok": true
+},
+"PROPN\tgratis": {
+"key": "gratis|ADJ",
+"initial_ok": true
+},
+"PROPN\tirlanda": {
+"key": "irlanda|NOUN",
+"initial_ok": false
+},
+"PROPN\tfrancés": {
+"key": "francés|ADJ",
+"initial_ok": true
+},
+"PROPN\tsegunda": {
+"key": "segundo|ADJ",
+"initial_ok": true
+},
+"PROPN\tparte": {
+"key": "parte|NOUN",
+"initial_ok": true
+},
+"PROPN\tsé": {
+"key": "ser|VERB",
+"initial_ok": true
+},
+"PROPN\tvaliente": {
+"key": "valiente|ADJ",
+"initial_ok": true
+},
+"PROPN\tcorazón": {
+"key": "corazón|NOUN",
+"initial_ok": true
+},
+"PROPN\tdelgado": {
+"key": "delgado|ADJ",
+"initial_ok": false
+},
+"PROPN\tmaría": {
+"key": "maría|NOUN",
+"initial_ok": false
+},
+"PROPN\ttuyo": {
+"key": "tuyo|PRON",
+"initial_ok": true
+},
+"PROPN\tdeme": {
+"key": "dar|VERB",
+"initial_ok": true
+},
+"PROPN\tcasanova": {
+"key": "casanova|NOUN",
+"initial_ok": false
+},
+"PROPN\trio": {
+"key": "río|NOUN",
+"initial_ok": true
+},
+"PROPN\tmaldición": {
+"key": "maldición|NOUN",
+"initial_ok": true
+},
+"PROPN\tministro": {
+"key": "ministro|NOUN",
+"initial_ok": true
+},
+"PROPN\tguerra": {
+"key": "guerra|NOUN",
+"initial_ok": false
+},
+"PROPN\tnacional": {
+"key": "nacional|ADJ",
+"initial_ok": true
+},
+"PROPN\tconvención": {
+"key": "convención|NOUN",
+"initial_ok": true
+},
+"PROPN\tbaile": {
+"key": "baile|NOUN",
+"initial_ok": true
+},
+"PROPN\tchico": {
+"key": "chico|NOUN",
+"initial_ok": true
+},
+"PROPN\tcabo": {
+"key": "cabo|NOUN",
+"initial_ok": true
+},
+"PROPN\tarabia": {
+"key": "arabio|ADJ",
+"initial_ok": false
+},
+"PROPN\tbarbara": {
+"key": "barbar|VERB",
+"initial_ok": true
+},
+"PROPN\tcambio": {
+"key": "cambio|NOUN",
+"initial_ok": true
+},
+"PROPN\tdesierta": {
+"key": "desierto|ADJ",
+"initial_ok": true
+},
+"PROPN\tdan": {
+"key": "dar|VERB",
+"initial_ok": false
+},
+"PROPN\tcirco": {
+"key": "circo|NOUN",
+"initial_ok": true
+},
+"PROPN\tsocorro": {
+"key": "socorro|NOUN",
+"initial_ok": true
+},
+"PROPN\trosa": {
+"key": "rosa|NOUN",
+"initial_ok": false
+},
+"PROPN\tcomercial": {
+"key": "comercial|ADJ",
+"initial_ok": true
+},
+"PROPN\tmonte": {
+"key": "monte|NOUN",
+"initial_ok": false
+},
+"PROPN\tpuebla": {
+"key": "puebla|NOUN",
+"initial_ok": false
+},
+"PROPN\trazón": {
+"key": "razón|NOUN",
+"initial_ok": true
+},
+"PROPN\tlápiz": {
+"key": "lápiz|NOUN",
+"initial_ok": true
+},
+"PROPN\tatlántico": {
+"key": "atlántico|ADJ",
+"initial_ok": false
+},
+"PROPN\tcafé": {
+"key": "café|NOUN",
+"initial_ok": true
+},
+"PROPN\tescucha": {
+"key": "escuchar|VERB",
+"initial_ok": true
+},
+"PROPN\tbob": {
+"key": "bob|NOUN",
+"initial_ok": false
+},
+"PROPN\tpost": {
+"key": "post|NOUN",
+"initial_ok": true
+},
+"PROPN\tdecreto": {
+"key": "decreto|NOUN",
+"initial_ok": true
+},
+"PROPN\treal": {
+"key": "real|ADJ",
+"initial_ok": true
+},
+"PROPN\tdepartamento": {
+"key": "departamento|NOUN",
+"initial_ok": true
+},
+"PROPN\tmilitar": {
+"key": "militar|ADJ",
+"initial_ok": true
+},
+"PROPN\tiglesia": {
+"key": "iglesia|NOUN",
+"initial_ok": false
+},
+"PROPN\taló": {
+"key": "aló|INTJ",
+"initial_ok": true
+},
+"PROPN\tcaballeros": {
+"key": "caballero|NOUN",
+"initial_ok": true
+},
+"PROPN\tjuzgado": {
+"key": "juzgado|NOUN",
+"initial_ok": true
+},
+"PROPN\tberlín": {
+"key": "berlín|NOUN",
+"initial_ok": false
+},
+"PROPN\tnación": {
+"key": "nación|NOUN",
+"initial_ok": true
+},
+"PROPN\tstop": {
+"key": "stop|INTJ",
+"initial_ok": true
+},
+"PROPN\tacuerdo": {
+"key": "acuerdo|NOUN",
+"initial_ok": true
+},
+"PROPN\tmaldito": {
+"key": "maldito|ADJ",
+"initial_ok": true
+},
+"PROPN\tvida": {
+"key": "vida|NOUN",
+"initial_ok": true
+},
+"PROPN\tseñorita": {
+"key": "señorita|NOUN",
+"initial_ok": false
+},
+"PROPN\tconque": {
+"key": "conque|CCONJ",
+"initial_ok": true
+},
+"PROPN\ttime": {
+"key": "timar|VERB",
+"initial_ok": true
+},
+"PROPN\tescuche": {
+"key": "escuchar|VERB",
+"initial_ok": true
+},
+"PROPN\tsilencio": {
+"key": "silencio|NOUN",
+"initial_ok": true
+},
+"PROPN\tfa": {
+"key": "fa|NOUN",
+"initial_ok": true
+},
+"PROPN\tviaje": {
+"key": "viaje|NOUN",
+"initial_ok": true
+},
+"PROPN\tnorma": {
+"key": "norma|NOUN",
+"initial_ok": false
+},
+"PROPN\tsiéntate": {
+"key": "sentar|VERB",
+"initial_ok": true
+},
+"PROPN\tcasa": {
+"key": "casa|NOUN",
+"initial_ok": true
+},
+"PROPN\tcongreso": {
+"key": "congreso|NOUN",
+"initial_ok": true
+},
+"PROPN\tparad": {
+"key": "parar|VERB",
+"initial_ok": true
+},
+"PROPN\tjo": {
+"key": "jo|INTJ",
+"initial_ok": true
+},
+"PROPN\tpapi": {
+"key": "papi|NOUN",
+"initial_ok": true
+},
+"PROPN\tbridge": {
+"key": "bridge|NOUN",
+"initial_ok": true
+},
+"PROPN\théroes": {
+"key": "héroe|NOUN",
+"initial_ok": true
+},
+"PROPN\thombres": {
+"key": "hombre|NOUN",
+"initial_ok": true
+},
+"PROPN\tc": {
+"key": "se|PRON",
+"initial_ok": true
+},
+"PROPN\tradio": {
+"key": "radio|NOUN",
+"initial_ok": true
+},
+"PROPN\torganización": {
+"key": "organización|NOUN",
+"initial_ok": true
+},
+"PROPN\tbingo": {
+"key": "bingo|NOUN",
+"initial_ok": true
+},
+"PROPN\tcharles": {
+"key": "charlar|VERB",
+"initial_ok": true
+},
+"PROPN\tmami": {
+"key": "mami|NOUN",
+"initial_ok": true
+},
+"PROPN\tlady": {
+"key": "lady|NOUN",
+"initial_ok": true
+},
+"PROPN\ttigre": {
+"key": "tigre|NOUN",
+"initial_ok": true
+},
+"PROPN\tdulce": {
+"key": "dulce|ADJ",
+"initial_ok": false
+},
+"PROPN\teh": {
+"key": "eh|INTJ",
+"initial_ok": true
+},
+"PROPN\tcalla": {
+"key": "callar|VERB",
+"initial_ok": true
+},
+"PROPN\treino": {
+"key": "reino|NOUN",
+"initial_ok": true
+},
+"PROPN\tnavidad": {
+"key": "navidad|NOUN",
+"initial_ok": false
+},
+"PROPN\torden": {
+"key": "orden|NOUN",
+"initial_ok": true
+},
+"PROPN\talemán": {
+"key": "alemán|ADJ",
+"initial_ok": false
+},
+"PROPN\tcentral": {
+"key": "central|ADJ",
+"initial_ok": false
+},
+"PROPN\tcompañía": {
+"key": "compañía|NOUN",
+"initial_ok": true
+},
+"PROPN\tolvídelo": {
+"key": "olvidar|VERB",
+"initial_ok": true
+},
+"PROPN\tpatria": {
+"key": "patria|NOUN",
+"initial_ok": true
+},
+"PROPN\thope": {
+"key": "hope|VERB",
+"initial_ok": true
+},
+"PROPN\tcountry": {
+"key": "country|NOUN",
+"initial_ok": true
+},
+"PROPN\twhen": {
+"key": "when|CCONJ",
+"initial_ok": true
+},
+"PROPN\ttoo": {
+"key": "toar|VERB",
+"initial_ok": true
+},
+"PROPN\tfar": {
+"key": "hacer|VERB",
+"initial_ok": true
+},
+"PROPN\tmore": {
+"key": "morar|VERB",
+"initial_ok": true
+},
+"PROPN\tlike": {
+"key": "like|NOUN",
+"initial_ok": true
+},
+"PROPN\tbravo": {
+"key": "bravo|ADJ",
+"initial_ok": false
+},
+"PROPN\tvale": {
+"key": "valer|VERB",
+"initial_ok": true
+},
+"PROPN\tcielos": {
+"key": "cielo|NOUN",
+"initial_ok": true
+},
+"PROPN\tseñora": {
+"key": "señora|NOUN",
+"initial_ok": true
+},
+"PROPN\tsuiza": {
+"key": "suiza|NOUN",
+"initial_ok": false
+},
+"PROPN\tbuenos": {
+"key": "bueno|ADJ",
+"initial_ok": true
+},
+"PROPN\tnegocios": {
+"key": "negocio|NOUN",
+"initial_ok": true
+},
+"PROPN\ttoca": {
+"key": "tocar|VERB",
+"initial_ok": true
+},
+"PROPN\tmío": {
+"key": "mío|PRON",
+"initial_ok": true
+},
+"PROPN\tquieres": {
+"key": "querer|VERB",
+"initial_ok": true
+},
+"PROPN\tcésar": {
+"key": "césar|NOUN",
+"initial_ok": false
+},
+"PROPN\tnochebuena": {
+"key": "nochebuena|NOUN",
+"initial_ok": false
+},
+"PROPN\tfu": {
+"key": "fu|INTJ",
+"initial_ok": true
+},
+"PROPN\tamigos": {
+"key": "amigo|NOUN",
+"initial_ok": true
+},
+"PROPN\tescuchad": {
+"key": "escuchar|VERB",
+"initial_ok": true
+},
+"PROPN\tnena": {
+"key": "nena|NOUN",
+"initial_ok": true
+},
+"PROPN\tsaludos": {
+"key": "saludo|NOUN",
+"initial_ok": true
+},
+"PROPN\tabajo": {
+"key": "abajo|ADV",
+"initial_ok": true
+},
+"PROPN\tarriba": {
+"key": "arriba|ADV",
+"initial_ok": true
+},
+"PROPN\tniño": {
+"key": "niño|NOUN",
+"initial_ok": true
+},
+"PROPN\tbonito": {
+"key": "bonito|ADJ",
+"initial_ok": true
+},
+"PROPN\tahi": {
+"key": "ahí|ADV",
+"initial_ok": true
+},
+"PROPN\trosita": {
+"key": "rosa|NOUN",
+"initial_ok": false
+},
+"PROPN\tvaya": {
+"key": "ir|VERB",
+"initial_ok": true
+},
+"PROPN\toeste": {
+"key": "oeste|NOUN",
+"initial_ok": false
+},
+"PROPN\tpaz": {
+"key": "paz|NOUN",
+"initial_ok": false
+},
+"PROPN\tdía": {
+"key": "día|NOUN",
+"initial_ok": true
+},
+"PROPN\taño": {
+"key": "año|NOUN",
+"initial_ok": false
+},
+"PROPN\tcampeón": {
+"key": "campeón|NOUN",
+"initial_ok": true
+},
+"PROPN\tdisculpa": {
+"key": "disculpa|NOUN",
+"initial_ok": true
+},
+"PROPN\tfelicitaciones": {
+"key": "felicitación|NOUN",
+"initial_ok": true
+},
+"PROPN\tprovidencia": {
+"key": "providencia|NOUN",
+"initial_ok": false
+},
+"PROPN\tsal": {
+"key": "salir|VERB",
+"initial_ok": true
+},
+"PROPN\tteniente": {
+"key": "teniente|NOUN",
+"initial_ok": true
+},
+"PROPN\tmina": {
+"key": "mina|NOUN",
+"initial_ok": true
+},
+"PROPN\tmanos": {
+"key": "mano|NOUN",
+"initial_ok": true
+},
+"PROPN\tapártense": {
+"key": "apartar|VERB",
+"initial_ok": true
+},
+"PROPN\tuniversal": {
+"key": "universal|ADJ",
+"initial_ok": true
+},
+"PROPN\trosas": {
+"key": "rosa|NOUN",
+"initial_ok": false
+},
+"PROPN\tcalle": {
+"key": "calle|NOUN",
+"initial_ok": false
+},
+"PROPN\tpete": {
+"key": "pete|NOUN",
+"initial_ok": true
+},
+"PROPN\tjusto": {
+"key": "justo|ADV",
+"initial_ok": false
+},
+"PROPN\ttrabajo": {
+"key": "trabajo|NOUN",
+"initial_ok": true
+},
+"PROPN\tmaestro": {
+"key": "maestro|NOUN",
+"initial_ok": true
+},
+"PROPN\tcaramba": {
+"key": "caramba|INTJ",
+"initial_ok": true
+},
+"PROPN\tdespierta": {
+"key": "despertar|VERB",
+"initial_ok": true
+},
+"PROPN\tcomisario": {
+"key": "comisario|NOUN",
+"initial_ok": true
+},
+"PROPN\tpalacio": {
+"key": "palacio|NOUN",
+"initial_ok": true
+},
+"PROPN\tprincesa": {
+"key": "princesa|NOUN",
+"initial_ok": true
+},
+"PROPN\tnota": {
+"key": "nota|NOUN",
+"initial_ok": true
+},
+"PROPN\tderecho": {
+"key": "derecho|ADJ",
+"initial_ok": true
+},
+"PROPN\tsanto": {
+"key": "santo|ADJ",
+"initial_ok": false
+},
+"PROPN\tabra": {
+"key": "abrir|VERB",
+"initial_ok": true
+},
+"PROPN\tseguro": {
+"key": "seguro|ADJ",
+"initial_ok": true
+},
+"PROPN\talcalde": {
+"key": "alcalde|NOUN",
+"initial_ok": false
+},
+"PROPN\tadios": {
+"key": "adios|INTJ",
+"initial_ok": true
+},
+"PROPN\tcallaos": {
+"key": "callar|VERB",
+"initial_ok": true
+},
+"PROPN\tchicos": {
+"key": "chico|NOUN",
+"initial_ok": true
+},
+"PROPN\tsocial": {
+"key": "social|ADJ",
+"initial_ok": true
+},
+"PROPN\tgaceta": {
+"key": "gaceta|NOUN",
+"initial_ok": true
+},
+"PROPN\tnorman": {
+"key": "normar|VERB",
+"initial_ok": true
+},
+"PROPN\tsaluda": {
+"key": "saludar|VERB",
+"initial_ok": true
+},
+"PROPN\tcora": {
+"key": "cora|NOUN",
+"initial_ok": true
+},
+"PROPN\taños": {
+"key": "año|NOUN",
+"initial_ok": true
+},
+"PROPN\testás": {
+"key": "estar|VERB",
+"initial_ok": true
+},
+"PROPN\tmire": {
+"key": "mirar|VERB",
+"initial_ok": true
+},
+"PROPN\tjerez": {
+"key": "jerez|NOUN",
+"initial_ok": false
+},
+"PROPN\ttardes": {
+"key": "tarde|NOUN",
+"initial_ok": true
+},
+"PROPN\tchicas": {
+"key": "chica|NOUN",
+"initial_ok": true
+},
+"PROPN\tmarcos": {
+"key": "marco|NOUN",
+"initial_ok": false
+},
+"PROPN\tcole": {
+"key": "cole|NOUN",
+"initial_ok": true
+},
+"PROPN\tboy": {
+"key": "boy|NOUN",
+"initial_ok": true
+},
+"PROPN\tsiéntense": {
+"key": "sentar|VERB",
+"initial_ok": true
+},
+"PROPN\trico": {
+"key": "rico|ADJ",
+"initial_ok": false
+},
+"PROPN\tbase": {
+"key": "base|NOUN",
+"initial_ok": true
+},
+"PROPN\tcarne": {
+"key": "carne|NOUN",
+"initial_ok": true
+},
+"PROPN\ttoledo": {
+"key": "toledo|NOUN",
+"initial_ok": false
+},
+"PROPN\trecuerda": {
+"key": "recordar|VERB",
+"initial_ok": true
+},
+"PROPN\tbla": {
+"key": "bla|NOUN",
+"initial_ok": true
+},
+"PROPN\tud": {
+"key": "ud|PRON",
+"initial_ok": true
+},
+"PROPN\tfuera": {
+"key": "ser|VERB",
+"initial_ok": true
+},
+"PROPN\tváyase": {
+"key": "ir|VERB",
+"initial_ok": true
+},
+"PROPN\tsoy": {
+"key": "ser|VERB",
+"initial_ok": true
+},
+"PROPN\tdisculpe": {
+"key": "disculpe|INTJ",
+"initial_ok": true
+},
+"PROPN\tmona": {
+"key": "mona|NOUN",
+"initial_ok": true
+},
+"PROPN\tlisa": {
+"key": "lisa|NOUN",
+"initial_ok": true
+},
+"PROPN\tllámame": {
+"key": "llamar|VERB",
+"initial_ok": true
+},
+"PROPN\tpolicía": {
+"key": "policía|NOUN",
+"initial_ok": true
+},
+"PROPN\tmárchate": {
+"key": "marchar|VERB",
+"initial_ok": true
+},
+"PROPN\tfederico": {
+"key": "federico|ADJ",
+"initial_ok": false
+},
+"PROPN\tfelicidades": {
+"key": "felicidad|NOUN",
+"initial_ok": true
+},
+"PROPN\tcrees": {
+"key": "creer|VERB",
+"initial_ok": true
+},
+"PROPN\thabana": {
+"key": "habano|ADJ",
+"initial_ok": false
+},
+"PROPN\tcome": {
+"key": "comer|VERB",
+"initial_ok": true
+},
+"PROPN\talto": {
+"key": "alto|ADJ",
+"initial_ok": true
+},
+"PROPN\tbarón": {
+"key": "barón|NOUN",
+"initial_ok": true
+},
+"PROPN\ttoma": {
+"key": "tomar|VERB",
+"initial_ok": true
+},
+"PROPN\tflora": {
+"key": "flora|NOUN",
+"initial_ok": false
+},
+"PROPN\tdígame": {
+"key": "decir|VERB",
+"initial_ok": true
+},
+"PROPN\testado": {
+"key": "estar|VERB",
+"initial_ok": false
+},
+"PROPN\tlinda": {
+"key": "lindo|ADJ",
+"initial_ok": true
+},
+"PROPN\thorror": {
+"key": "horror|NOUN",
+"initial_ok": true
+},
+"PROPN\tmuévete": {
+"key": "mover|VERB",
+"initial_ok": true
+},
+"PROPN\tfuerza": {
+"key": "fuerza|NOUN",
+"initial_ok": true
+},
+"PROPN\thogar": {
+"key": "hogar|NOUN",
+"initial_ok": true
+},
+"PROPN\tsalud": {
+"key": "salud|NOUN",
+"initial_ok": true
+},
+"PROPN\tfíjate": {
+"key": "fijar|VERB",
+"initial_ok": true
+},
+"PROPN\tdinero": {
+"key": "dinero|NOUN",
+"initial_ok": true
+},
+"PROPN\tdate": {
+"key": "dar|VERB",
+"initial_ok": true
+},
+"PROPN\tmarco": {
+"key": "marco|NOUN",
+"initial_ok": false
+},
+"PROPN\temperador": {
+"key": "emperador|NOUN",
+"initial_ok": true
+},
+"PROPN\tnelson": {
+"key": "nelson|ADV",
+"initial_ok": false
+},
+"PROPN\tmayor": {
+"key": "mayor|ADJ",
+"initial_ok": true
+},
+"PROPN\tsargento": {
+"key": "sargento|NOUN",
+"initial_ok": true
+},
+"PROPN\tvalle": {
+"key": "valle|NOUN",
+"initial_ok": false
+},
+"PROPN\tmujer": {
+"key": "mujer|NOUN",
+"initial_ok": true
+},
+"PROPN\tsalvador": {
+"key": "salvador|NOUN",
+"initial_ok": false
+},
+"PROPN\tchina": {
+"key": "chino|ADJ",
+"initial_ok": false
+},
+"PROPN\testación": {
+"key": "estación|NOUN",
+"initial_ok": true
+},
+"PROPN\troma": {
+"key": "romo|ADJ",
+"initial_ok": false
+},
+"PROPN\tlárgate": {
+"key": "largar|VERB",
+"initial_ok": true
+},
+"PROPN\tgobierno": {
+"key": "gobierno|NOUN",
+"initial_ok": true
+},
+"PROPN\tforo": {
+"key": "foro|NOUN",
+"initial_ok": false
+},
+"PROPN\tcine": {
+"key": "cine|NOUN",
+"initial_ok": true
+},
+"PROPN\tguía": {
+"key": "guía|NOUN",
+"initial_ok": true
+},
+"PROPN\tandes": {
+"key": "andar|VERB",
+"initial_ok": false
+},
+"PROPN\tmiren": {
+"key": "mirar|VERB",
+"initial_ok": true
+},
+"PROPN\tmirad": {
+"key": "mirar|VERB",
+"initial_ok": true
+},
+"PROPN\tsale": {
+"key": "salir|VERB",
+"initial_ok": true
+},
+"PROPN\tmuchacho": {
+"key": "muchacho|NOUN",
+"initial_ok": true
+},
+"PROPN\tbar": {
+"key": "bar|NOUN",
+"initial_ok": true
+},
+"PROPN\tdónde": {
+"key": "dónde|NOUN",
+"initial_ok": true
+},
+"PROPN\tzorra": {
+"key": "zorra|NOUN",
+"initial_ok": true
+},
+"PROPN\ttonto": {
+"key": "tonto|ADJ",
+"initial_ok": true
+},
+"PROPN\tponte": {
+"key": "poner|VERB",
+"initial_ok": true
+},
+"PROPN\tjunta": {
+"key": "junto|ADJ",
+"initial_ok": true
+},
+"PROPN\ttía": {
+"key": "tía|NOUN",
+"initial_ok": true
+},
+"PROPN\tcabra": {
+"key": "cabra|NOUN",
+"initial_ok": true
+},
+"PROPN\tvioleta": {
+"key": "violeta|ADJ",
+"initial_ok": false
+},
+"PROPN\thércules": {
+"key": "hércules|NOUN",
+"initial_ok": false
+},
+"PROPN\tabuelo": {
+"key": "abuelo|NOUN",
+"initial_ok": true
+},
+"PROPN\ttranquila": {
+"key": "tranquilo|ADJ",
+"initial_ok": true
+},
+"PROPN\tabogado": {
+"key": "abogado|NOUN",
+"initial_ok": true
+},
+"PROPN\tmariscal": {
+"key": "mariscal|NOUN",
+"initial_ok": false
+},
+"PROPN\tcampo": {
+"key": "campo|NOUN",
+"initial_ok": false
+},
+"PROPN\tguardia": {
+"key": "guardia|NOUN",
+"initial_ok": false
+},
+"PROPN\tescúcheme": {
+"key": "escuchar|VERB",
+"initial_ok": true
+},
+"PROPN\tpascua": {
+"key": "pascua|NOUN",
+"initial_ok": true
+},
+"PROPN\tembajador": {
+"key": "embajador|NOUN",
+"initial_ok": true
+},
+"PROPN\tjuicio": {
+"key": "juicio|NOUN",
+"initial_ok": true
+},
+"PROPN\trío": {
+"key": "río|NOUN",
+"initial_ok": false
+},
+"PROPN\tbobo": {
+"key": "bobo|ADJ",
+"initial_ok": true
+},
+"PROPN\tprimero": {
+"key": "primero|ADJ",
+"initial_ok": true
+},
+"PROPN\tjuez": {
+"key": "juez|NOUN",
+"initial_ok": true
+},
+"PROPN\tmundo": {
+"key": "mundo|NOUN",
+"initial_ok": true
+},
+"PROPN\tindia": {
+"key": "india|NOUN",
+"initial_ok": false
+},
+"PROPN\tleón": {
+"key": "león|NOUN",
+"initial_ok": false
+},
+"PROPN\tlucas": {
+"key": "luca|NOUN",
+"initial_ok": false
+},
+"PROPN\tconoces": {
+"key": "conocer|VERB",
+"initial_ok": true
+},
+"PROPN\tcamarero": {
+"key": "camarero|NOUN",
+"initial_ok": true
+},
+"PROPN\tbrindis": {
+"key": "brindis|NOUN",
+"initial_ok": true
+},
+"PROPN\tmorir": {
+"key": "morir|VERB",
+"initial_ok": true
+},
+"PROPN\tenhorabuena": {
+"key": "enhorabuena|INTJ",
+"initial_ok": true
+},
+"PROPN\ttodopoderoso": {
+"key": "todopoderoso|ADJ",
+"initial_ok": false
+},
+"PROPN\tcamino": {
+"key": "camino|NOUN",
+"initial_ok": true
+},
+"PROPN\thabitación": {
+"key": "habitación|NOUN",
+"initial_ok": true
+},
+"PROPN\tdistrito": {
+"key": "distrito|NOUN",
+"initial_ok": true
+},
+"PROPN\tciudad": {
+"key": "ciudad|NOUN",
+"initial_ok": true
+},
+"PROPN\trojo": {
+"key": "rojo|ADJ",
+"initial_ok": false
+},
+"PROPN\tpresidente": {
+"key": "presidente|NOUN",
+"initial_ok": true
+},
+"PROPN\tblanca": {
+"key": "blanco|ADJ",
+"initial_ok": false
+},
+"PROPN\tcuba": {
+"key": "cuba|NOUN",
+"initial_ok": false
+},
+"PROPN\tsalas": {
+"key": "sala|NOUN",
+"initial_ok": false
+},
+"PROPN\tamigo": {
+"key": "amigo|NOUN",
+"initial_ok": false
+},
+"PROPN\trepública": {
+"key": "república|NOUN",
+"initial_ok": true
+},
+"PROPN\tinstituto": {
+"key": "instituto|NOUN",
+"initial_ok": true
+},
+"PROPN\tingeniero": {
+"key": "ingeniero|NOUN",
+"initial_ok": true
+},
+"PROPN\thistoria": {
+"key": "historia|NOUN",
+"initial_ok": true
+},
+"PROPN\tmedia": {
+"key": "media|NOUN",
+"initial_ok": false
+},
+"PROPN\tusted": {
+"key": "usted|PRON",
+"initial_ok": true
+},
+"PROPN\tsección": {
+"key": "sección|NOUN",
+"initial_ok": true
+},
+"PROPN\tdivisión": {
+"key": "división|NOUN",
+"initial_ok": true
+},
+"PROPN\tsuper": {
+"key": "super|ADJ",
+"initial_ok": true
+},
+"PROPN\tniebla": {
+"key": "niebla|NOUN",
+"initial_ok": false
+},
+"PROPN\tcállense": {
+"key": "callar|VERB",
+"initial_ok": true
+},
+"PROPN\tsecretario": {
+"key": "secretario|NOUN",
+"initial_ok": true
+},
+"PROPN\tsindicato": {
+"key": "sindicato|NOUN",
+"initial_ok": true
+},
+"PROPN\tdi": {
+"key": "decir|VERB",
+"initial_ok": true
+},
+"PROPN\tcaray": {
+"key": "caray|INTJ",
+"initial_ok": true
+},
+"PROPN\tquietos": {
+"key": "quieto|ADJ",
+"initial_ok": true
+},
+"PROPN\tplaza": {
+"key": "plaza|NOUN",
+"initial_ok": false
+},
+"PROPN\tcaballo": {
+"key": "caballo|NOUN",
+"initial_ok": true
+},
+"PROPN\tministerio": {
+"key": "ministerio|NOUN",
+"initial_ok": true
+},
+"PROPN\tsenado": {
+"key": "senado|NOUN",
+"initial_ok": false
+},
+"PROPN\tembajada": {
+"key": "embajada|NOUN",
+"initial_ok": true
+},
+"PROPN\tmonseñor": {
+"key": "monseñor|NOUN",
+"initial_ok": true
+},
+"PROPN\tatención": {
+"key": "atención|NOUN",
+"initial_ok": true
+},
+"PROPN\tángel": {
+"key": "ángel|NOUN",
+"initial_ok": false
+},
+"PROPN\tllover": {
+"key": "llover|VERB",
+"initial_ok": true
+},
+"PROPN\tcatalina": {
+"key": "catalina|NOUN",
+"initial_ok": false
+},
+"PROPN\tbritánico": {
+"key": "británico|ADJ",
+"initial_ok": true
+},
+"PROPN\tpopa": {
+"key": "popa|NOUN",
+"initial_ok": true
+},
+"PROPN\tconsejo": {
+"key": "consejo|NOUN",
+"initial_ok": true
+},
+"PROPN\tguapo": {
+"key": "guapo|ADJ",
+"initial_ok": true
+},
+"PROPN\ttarzán": {
+"key": "tarzán|NOUN",
+"initial_ok": false
+},
+"PROPN\tuds": {
+"key": "uds|PRON",
+"initial_ok": true
+},
+"PROPN\tcopa": {
+"key": "copa|NOUN",
+"initial_ok": true
+},
+"PROPN\tviva": {
+"key": "vivir|VERB",
+"initial_ok": true
+},
+"PROPN\txi": {
+"key": "xi|NOUN",
+"initial_ok": true
+},
+"PROPN\tcara": {
+"key": "cara|NOUN",
+"initial_ok": true
+},
+"PROPN\tdespacio": {
+"key": "despacio|ADV",
+"initial_ok": true
+},
+"PROPN\tacosta": {
+"key": "acostar|VERB",
+"initial_ok": false
+},
+"PROPN\tcorrientes": {
+"key": "corriente|NOUN",
+"initial_ok": false
+},
+"PROPN\teste": {
+"key": "este|DET",
+"initial_ok": true
+},
+"PROPN\tpalermo": {
+"key": "palermo|ADJ",
+"initial_ok": false
+},
+"PROPN\tperfecto": {
+"key": "perfecto|ADJ",
+"initial_ok": false
+},
+"PROPN\thouse": {
+"key": "house|NOUN",
+"initial_ok": true
+},
+"PROPN\tcorreos": {
+"key": "correr|VERB",
+"initial_ok": false
+},
+"PROPN\tbárbara": {
+"key": "bárbara|NOUN",
+"initial_ok": false
+},
+"PROPN\tseñoras": {
+"key": "señora|NOUN",
+"initial_ok": true
+},
+"PROPN\tmuseo": {
+"key": "museo|NOUN",
+"initial_ok": true
+},
+"PROPN\tdiosa": {
+"key": "diosa|NOUN",
+"initial_ok": true
+},
+"PROPN\ttoni": {
+"key": "tony|NOUN",
+"initial_ok": true
+},
+"PROPN\targentina": {
+"key": "argentino|ADJ",
+"initial_ok": false
+},
+"PROPN\tpartido": {
+"key": "partido|NOUN",
+"initial_ok": true
+},
+"PROPN\tmovimiento": {
+"key": "movimiento|NOUN",
+"initial_ok": true
+},
+"PROPN\taire": {
+"key": "aire|NOUN",
+"initial_ok": true
+},
+"PROPN\tmemoria": {
+"key": "memoria|NOUN",
+"initial_ok": true
+},
+"PROPN\tpamela": {
+"key": "pamela|NOUN",
+"initial_ok": false
+},
+"PROPN\tsheriff": {
+"key": "sheriff|NOUN",
+"initial_ok": true
+},
+"PROPN\tprincipal": {
+"key": "principal|ADJ",
+"initial_ok": true
+},
+"PROPN\tpase": {
+"key": "pasar|VERB",
+"initial_ok": true
+},
+"PROPN\tperra": {
+"key": "perra|NOUN",
+"initial_ok": true
+},
+"PROPN\tsalva": {
+"key": "salvar|VERB",
+"initial_ok": true
+},
+"PROPN\tvara": {
+"key": "vara|NOUN",
+"initial_ok": true
+},
+"PROPN\tmarta": {
+"key": "marta|NOUN",
+"initial_ok": false
+},
+"PROPN\tcanta": {
+"key": "cantar|VERB",
+"initial_ok": false
+},
+"PROPN\tpop": {
+"key": "pop|NOUN",
+"initial_ok": true
+},
+"PROPN\tdora": {
+"key": "dorar|VERB",
+"initial_ok": false
+},
+"PROPN\tpascual": {
+"key": "pascual|ADJ",
+"initial_ok": false
+},
+"PROPN\tbaila": {
+"key": "bailar|VERB",
+"initial_ok": true
+},
+"PROPN\tviejo": {
+"key": "viejo|ADJ",
+"initial_ok": true
+},
+"PROPN\tpuerto": {
+"key": "puerto|NOUN",
+"initial_ok": false
+},
+"PROPN\ttrinidad": {
+"key": "trinidad|NOUN",
+"initial_ok": false
+},
+"PROPN\tnoroeste": {
+"key": "noroeste|NOUN",
+"initial_ok": true
+},
+"PROPN\tfondo": {
+"key": "fondo|NOUN",
+"initial_ok": true
+},
+"PROPN\ttribunal": {
+"key": "tribunal|NOUN",
+"initial_ok": true
+},
+"PROPN\tmozo": {
+"key": "mozo|NOUN",
+"initial_ok": false
+},
+"PROPN\tsecreto": {
+"key": "secreto|ADJ",
+"initial_ok": true
+},
+"PROPN\tgene": {
+"key": "gene|NOUN",
+"initial_ok": true
+},
+"PROPN\tsala": {
+"key": "sala|NOUN",
+"initial_ok": false
+},
+"PROPN\tcontrol": {
+"key": "control|NOUN",
+"initial_ok": true
+},
+"PROPN\tloco": {
+"key": "loco|ADJ",
+"initial_ok": true
+},
+"PROPN\tcorona": {
+"key": "corona|NOUN",
+"initial_ok": false
+},
+"PROPN\tefe": {
+"key": "efe|NOUN",
+"initial_ok": true
+},
+"PROPN\tvito": {
+"key": "vito|NOUN",
+"initial_ok": false
+},
+"PROPN\tdale": {
+"key": "dar|VERB",
+"initial_ok": true
+},
+"PROPN\tgobernador": {
+"key": "gobernador|NOUN",
+"initial_ok": true
+},
+"PROPN\troyal": {
+"key": "royal|NOUN",
+"initial_ok": true
+},
+"PROPN\tpare": {
+"key": "parar|VERB",
+"initial_ok": true
+},
+"PROPN\tchan": {
+"key": "chía|NOUN",
+"initial_ok": false
+},
+"PROPN\tburdeos": {
+"key": "burdeos|ADJ",
+"initial_ok": false
+},
+"PROPN\tley": {
+"key": "ley|NOUN",
+"initial_ok": true
+},
+"PROPN\tolimpo": {
+"key": "olimpo|NOUN",
+"initial_ok": false
+},
+"PROPN\tvictoria": {
+"key": "victoria|NOUN",
+"initial_ok": false
+},
+"PROPN\ttina": {
+"key": "tina|NOUN",
+"initial_ok": true
+},
+"PROPN\tespada": {
+"key": "espada|NOUN",
+"initial_ok": true
+},
+"PROPN\tcardenal": {
+"key": "cardenal|NOUN",
+"initial_ok": true
+},
+"PROPN\ttratado": {
+"key": "tratar|VERB",
+"initial_ok": true
+},
+"PROPN\tmodelo": {
+"key": "modelo|NOUN",
+"initial_ok": true
+},
+"PROPN\tea": {
+"key": "ea|INTJ",
+"initial_ok": true
+},
+"PROPN\tf": {
+"key": "f|INTJ",
+"initial_ok": true
+},
+"PROPN\tmarina": {
+"key": "marina|NOUN",
+"initial_ok": false
+},
+"PROPN\tmira": {
+"key": "mirar|VERB",
+"initial_ok": true
+},
+"PROPN\ttigres": {
+"key": "tigre|NOUN",
+"initial_ok": true
+},
+"PROPN\tleones": {
+"key": "león|NOUN",
+"initial_ok": true
+},
+"PROPN\tservicio": {
+"key": "servicio|NOUN",
+"initial_ok": true
+},
+"PROPN\ttoto": {
+"key": "toto|NOUN",
+"initial_ok": true
+},
+"PROPN\tiris": {
+"key": "iris|NOUN",
+"initial_ok": false
+},
+"PROPN\tcomercio": {
+"key": "comercio|NOUN",
+"initial_ok": true
+},
+"PROPN\tmoisés": {
+"key": "moisés|NOUN",
+"initial_ok": false
+},
+"PROPN\tsierra": {
+"key": "sierra|NOUN",
+"initial_ok": false
+},
+"PROPN\tbésame": {
+"key": "besar|VERB",
+"initial_ok": true
+},
+"PROPN\tcasino": {
+"key": "casino|NOUN",
+"initial_ok": true
+},
+"PROPN\tface": {
+"key": "face|NOUN",
+"initial_ok": true
+},
+"PROPN\tdefensa": {
+"key": "defensa|NOUN",
+"initial_ok": true
+},
+"PROPN\tprueba": {
+"key": "prueba|NOUN",
+"initial_ok": true
+},
+"PROPN\tbienvenido": {
+"key": "bienvenido|ADJ",
+"initial_ok": false
+},
+"PROPN\tholanda": {
+"key": "holanda|NOUN",
+"initial_ok": false
+},
+"PROPN\tmuchachos": {
+"key": "muchacho|NOUN",
+"initial_ok": true
+},
+"PROPN\tcapitulo": {
+"key": "capitular|VERB",
+"initial_ok": true
+},
+"PROPN\talta": {
+"key": "alto|ADJ",
+"initial_ok": true
+},
+"PROPN\treyes": {
+"key": "rey|NOUN",
+"initial_ok": false
+},
+"PROPN\tcastillo": {
+"key": "castillo|NOUN",
+"initial_ok": false
+},
+"PROPN\tromance": {
+"key": "romance|ADJ",
+"initial_ok": true
+},
+"PROPN\tromero": {
+"key": "romero|ADJ",
+"initial_ok": false
+},
+"PROPN\tindias": {
+"key": "indio|ADJ",
+"initial_ok": false
+},
+"PROPN\tsuerte": {
+"key": "suerte|NOUN",
+"initial_ok": true
+},
+"PROPN\tmargarita": {
+"key": "margarita|NOUN",
+"initial_ok": false
+},
+"PROPN\tarmando": {
+"key": "armar|VERB",
+"initial_ok": false
+},
+"PROPN\taeropuerto": {
+"key": "aeropuerto|NOUN",
+"initial_ok": true
+},
+"PROPN\tmanila": {
+"key": "manila|NOUN",
+"initial_ok": false
+},
+"PROPN\talameda": {
+"key": "alameda|NOUN",
+"initial_ok": false
+},
+"PROPN\tfamilia": {
+"key": "familia|NOUN",
+"initial_ok": true
+},
+"PROPN\tbaja": {
+"key": "baja|NOUN",
+"initial_ok": true
+},
+"PROPN\tmelancólico": {
+"key": "melancólico|ADJ",
+"initial_ok": true
+},
+"PROPN\tdisculpen": {
+"key": "disculpar|VERB",
+"initial_ok": true
+},
+"PROPN\tdivina": {
+"key": "divino|ADJ",
+"initial_ok": true
+},
+"PROPN\tmúsica": {
+"key": "música|NOUN",
+"initial_ok": true
+},
+"PROPN\tdices": {
+"key": "decir|VERB",
+"initial_ok": true
+},
+"PROPN\tplata": {
+"key": "plata|NOUN",
+"initial_ok": true
+},
+"PROPN\tdos": {
+"key": "dos|NUM",
+"initial_ok": true
+},
+"PROPN\tlola": {
+"key": "lola|NOUN",
+"initial_ok": false
+},
+"PROPN\tgreen": {
+"key": "green|NOUN",
+"initial_ok": true
+},
+"PROPN\tcuántos": {
+"key": "cuánto|PRON",
+"initial_ok": true
+},
+"PROPN\ttoro": {
+"key": "toro|NOUN",
+"initial_ok": false
+},
+"PROPN\tmuerto": {
+"key": "muerto|ADJ",
+"initial_ok": true
+},
+"PROPN\tright": {
+"key": "right|NOUN",
+"initial_ok": true
+},
+"PROPN\tnotas": {
+"key": "nota|NOUN",
+"initial_ok": true
+},
+"PROPN\tinspector": {
+"key": "inspector|NOUN",
+"initial_ok": true
+},
+"PROPN\tinglés": {
+"key": "inglés|ADJ",
+"initial_ok": true
+},
+"PROPN\testatal": {
+"key": "estatal|ADJ",
+"initial_ok": true
+},
+"PROPN\tmal": {
+"key": "mal|ADV",
+"initial_ok": true
+},
+"PROPN\tpastor": {
+"key": "pastor|NOUN",
+"initial_ok": false
+},
+"PROPN\tjuegos": {
+"key": "juego|NOUN",
+"initial_ok": true
+},
+"PROPN\tsepa": {
+"key": "saber|VERB",
+"initial_ok": true
+},
+"PROPN\tarmada": {
+"key": "armado|ADJ",
+"initial_ok": true
+},
+"PROPN\tartículo": {
+"key": "artículo|NOUN",
+"initial_ok": true
+},
+"PROPN\tginebra": {
+"key": "ginebra|NOUN",
+"initial_ok": false
+},
+"PROPN\tdemonios": {
+"key": "demonio|NOUN",
+"initial_ok": true
+},
+"PROPN\tcierren": {
+"key": "cerrar|VERB",
+"initial_ok": true
+},
+"PROPN\tcomida": {
+"key": "comida|NOUN",
+"initial_ok": true
+},
+"PROPN\tnieves": {
+"key": "nieve|NOUN",
+"initial_ok": false
+},
+"PROPN\tcólera": {
+"key": "cólera|NOUN",
+"initial_ok": true
+},
+"PROPN\tsalve": {
+"key": "salvar|VERB",
+"initial_ok": true
+},
+"PROPN\ttiempo": {
+"key": "tiempo|NOUN",
+"initial_ok": true
+},
+"PROPN\tcáncer": {
+"key": "cáncer|NOUN",
+"initial_ok": false
+},
+"PROPN\tanimal": {
+"key": "animal|NOUN",
+"initial_ok": true
+},
+"PROPN\tpolo": {
+"key": "polo|NOUN",
+"initial_ok": false
+},
+"PROPN\tx": {
+"key": "por|ADP",
+"initial_ok": false
+},
+"PROPN\tsantidad": {
+"key": "santidad|NOUN",
+"initial_ok": true
+},
+"PROPN\tbuey": {
+"key": "buey|NOUN",
+"initial_ok": true
+},
+"PROPN\tmaravillosa": {
+"key": "maravilloso|ADJ",
+"initial_ok": true
+},
+"PROPN\tmente": {
+"key": "mente|NOUN",
+"initial_ok": true
+},
+"PROPN\tlevante": {
+"key": "levantar|VERB",
+"initial_ok": false
+},
+"PROPN\tbaby": {
+"key": "baby|NOUN",
+"initial_ok": true
+},
+"PROPN\tpon": {
+"key": "poner|VERB",
+"initial_ok": true
+},
+"PROPN\tespíritu": {
+"key": "espíritu|NOUN",
+"initial_ok": true
+},
+"PROPN\tcura": {
+"key": "cura|NOUN",
+"initial_ok": true
+},
+"PROPN\tmarqués": {
+"key": "marqués|NOUN",
+"initial_ok": true
+},
+"PROPN\tproducción": {
+"key": "producción|NOUN",
+"initial_ok": true
+},
+"PROPN\tfacultad": {
+"key": "facultad|NOUN",
+"initial_ok": true
+},
+"PROPN\tcastro": {
+"key": "castro|NOUN",
+"initial_ok": false
+},
+"PROPN\tjapón": {
+"key": "japón|ADJ",
+"initial_ok": false
+},
+"PROPN\tfilipinas": {
+"key": "filipino|ADJ",
+"initial_ok": false
+},
+"PROPN\tcolorado": {
+"key": "colorado|ADJ",
+"initial_ok": false
+},
+"PROPN\tpanamá": {
+"key": "panamá|NOUN",
+"initial_ok": false
+},
+"PROPN\thacienda": {
+"key": "hacienda|NOUN",
+"initial_ok": true
+},
+"PROPN\tdoña": {
+"key": "doña|NOUN",
+"initial_ok": true
+},
+"PROPN\tconferencia": {
+"key": "conferencia|NOUN",
+"initial_ok": true
+},
+"PROPN\tred": {
+"key": "red|NOUN",
+"initial_ok": false
+},
+"PROPN\tmáximo": {
+"key": "máximo|ADJ",
+"initial_ok": false
+},
+"PROPN\tfiscalía": {
+"key": "fiscalía|NOUN",
+"initial_ok": true
+},
+"PROPN\thospital": {
+"key": "hospital|NOUN",
+"initial_ok": true
+},
+"PROPN\ttorre": {
+"key": "torre|NOUN",
+"initial_ok": true
+},
+"PROPN\tmagdalena": {
+"key": "magdalena|NOUN",
+"initial_ok": false
+},
+"PROPN\texposición": {
+"key": "exposición|NOUN",
+"initial_ok": true
+},
+"PROPN\tnaranja": {
+"key": "naranja|ADJ",
+"initial_ok": true
+},
+"PROPN\ttonterías": {
+"key": "tontería|NOUN",
+"initial_ok": true
+},
+"PROPN\tsegura": {
+"key": "seguro|ADJ",
+"initial_ok": false
+},
+"PROPN\tasuntos": {
+"key": "asunto|NOUN",
+"initial_ok": true
+},
+"PROPN\tprusia": {
+"key": "prusia|NOUN",
+"initial_ok": false
+},
+"PROPN\tcerveza": {
+"key": "cerveza|NOUN",
+"initial_ok": true
+},
+"PROPN\tauxilio": {
+"key": "auxilio|NOUN",
+"initial_ok": true
+},
+"PROPN\tpublicidad": {
+"key": "publicidad|NOUN",
+"initial_ok": true
+},
+"PROPN\tvera": {
+"key": "vera|NOUN",
+"initial_ok": false
+},
+"PROPN\tjosefina": {
+"key": "josefina|NOUN",
+"initial_ok": false
+},
+"PROPN\tguardias": {
+"key": "guardia|NOUN",
+"initial_ok": true
+},
+"PROPN\tmedicina": {
+"key": "medicina|NOUN",
+"initial_ok": true
+},
+"PROPN\tayuntamiento": {
+"key": "ayuntamiento|NOUN",
+"initial_ok": true
+},
+"PROPN\tcaballero": {
+"key": "caballero|NOUN",
+"initial_ok": false
+},
+"PROPN\tfederación": {
+"key": "federación|NOUN",
+"initial_ok": true
+},
+"PROPN\tconstitución": {
+"key": "constitución|NOUN",
+"initial_ok": false
+},
+"PROPN\tllama": {
+"key": "llamar|VERB",
+"initial_ok": true
+},
+"PROPN\texteriores": {
+"key": "exterior|ADJ",
+"initial_ok": true
+},
+"PROPN\tcorpus": {
+"key": "corpus|NOUN",
+"initial_ok": true
+},
+"PROPN\tresistencia": {
+"key": "resistencia|NOUN",
+"initial_ok": false
+},
+"PROPN\tmónica": {
+"key": "mónico|ADJ",
+"initial_ok": false
+},
+"PROPN\tté": {
+"key": "té|NOUN",
+"initial_ok": true
+},
+"PROPN\ttropa": {
+"key": "tropa|NOUN",
+"initial_ok": true
+},
+"PROPN\tpatrulla": {
+"key": "patrulla|NOUN",
+"initial_ok": true
+},
+"PROPN\tadministrativo": {
+"key": "administrativo|ADJ",
+"initial_ok": true
+},
+"PROPN\tejecutivo": {
+"key": "ejecutivo|ADJ",
+"initial_ok": true
+},
+"PROPN\tquijote": {
+"key": "quijote|NOUN",
+"initial_ok": false
+},
+"PROPN\tsenador": {
+"key": "senador|NOUN",
+"initial_ok": true
+},
+"PROPN\tseñores": {
+"key": "señor|NOUN",
+"initial_ok": true
+},
+"PROPN\tt": {
+"key": "tiempo|NOUN",
+"initial_ok": true
+},
+"PROPN\taparta": {
+"key": "apartar|VERB",
+"initial_ok": true
+},
+"PROPN\tblanco": {
+"key": "blanco|ADJ",
+"initial_ok": false
+},
+"PROPN\tfantasma": {
+"key": "fantasma|NOUN",
+"initial_ok": true
+},
+"PROPN\tringo": {
+"key": "ringar|VERB",
+"initial_ok": true
+},
+"PROPN\testudio": {
+"key": "estudio|NOUN",
+"initial_ok": true
+},
+"PROPN\tcorre": {
+"key": "correr|VERB",
+"initial_ok": true
+},
+"PROPN\tpaís": {
+"key": "país|NOUN",
+"initial_ok": true
+},
+"PROPN\tvete": {
+"key": "ir|VERB",
+"initial_ok": true
+},
+"PROPN\tjuntos": {
+"key": "junto|ADJ",
+"initial_ok": true
+},
+"PROPN\tindiana": {
+"key": "indiana|NOUN",
+"initial_ok": false
+},
+"PROPN\tfuerte": {
+"key": "fuerte|ADJ",
+"initial_ok": true
+},
+"PROPN\tjoven": {
+"key": "joven|ADJ",
+"initial_ok": false
+},
+"PROPN\tbruno": {
+"key": "bruno|ADJ",
+"initial_ok": false
+},
+"PROPN\tshow": {
+"key": "show|NOUN",
+"initial_ok": true
+},
+"PROPN\tdama": {
+"key": "dama|NOUN",
+"initial_ok": true
+},
+"PROPN\ttara": {
+"key": "tara|NOUN",
+"initial_ok": true
+},
+"PROPN\tyanquis": {
+"key": "yanqui|NOUN",
+"initial_ok": true
+},
+"PROPN\tcielo": {
+"key": "cielo|NOUN",
+"initial_ok": true
+},
+"PROPN\tlargo": {
+"key": "largo|ADJ",
+"initial_ok": false
+},
+"PROPN\tcorrecto": {
+"key": "correcto|ADJ",
+"initial_ok": true
+},
+"PROPN\tapúrate": {
+"key": "apurar|VERB",
+"initial_ok": true
+},
+"PROPN\tabuela": {
+"key": "abuela|NOUN",
+"initial_ok": true
+},
+"PROPN\tmédica": {
+"key": "médico|ADJ",
+"initial_ok": true
+},
+"PROPN\testrella": {
+"key": "estrella|NOUN",
+"initial_ok": false
+},
+"PROPN\tesmeralda": {
+"key": "esmeralda|NOUN",
+"initial_ok": false
+},
+"PROPN\tnoble": {
+"key": "noble|ADJ",
+"initial_ok": true
+},
+"PROPN\tpaso": {
+"key": "paso|NOUN",
+"initial_ok": true
+},
+"PROPN\tcaso": {
+"key": "caso|NOUN",
+"initial_ok": true
+},
+"PROPN\tvía": {
+"key": "vía|NOUN",
+"initial_ok": true
+},
+"PROPN\tnavidades": {
+"key": "navidad|NOUN",
+"initial_ok": false
+},
+"PROPN\tjorge": {
+"key": "jorge|NOUN",
+"initial_ok": false
+},
+"PROPN\tbenito": {
+"key": "benito|NOUN",
+"initial_ok": false
+},
+"PROPN\tbates": {
+"key": "batir|VERB",
+"initial_ok": true
+},
+"PROPN\tmontero": {
+"key": "montero|NOUN",
+"initial_ok": false
+},
+"PROPN\tsuperior": {
+"key": "superior|ADJ",
+"initial_ok": true
+},
+"PROPN\tnací": {
+"key": "nacer|VERB",
+"initial_ok": true
+},
+"PROPN\tescuadrón": {
+"key": "escuadrón|NOUN",
+"initial_ok": true
+},
+"PROPN\tbailando": {
+"key": "bailar|VERB",
+"initial_ok": true
+},
+"PROPN\tinteligencia": {
+"key": "inteligencia|NOUN",
+"initial_ok": true
+},
+"PROPN\tejército": {
+"key": "ejército|NOUN",
+"initial_ok": true
+},
+"PROPN\tizquierda": {
+"key": "izquierda|NOUN",
+"initial_ok": true
+},
+"PROPN\tmundial": {
+"key": "mundial|ADJ",
+"initial_ok": true
+},
+"PROPN\tmara": {
+"key": "mara|NOUN",
+"initial_ok": true
+},
+"PROPN\ttransportes": {
+"key": "transporte|NOUN",
+"initial_ok": true
+},
+"PROPN\tcuartel": {
+"key": "cuartel|NOUN",
+"initial_ok": true
+},
+"PROPN\tpatricia": {
+"key": "patricia|NOUN",
+"initial_ok": false
+},
+"PROPN\tconcejo": {
+"key": "concejo|NOUN",
+"initial_ok": true
+},
+"PROPN\tcálmese": {
+"key": "calmar|VERB",
+"initial_ok": true
+},
+"PROPN\tflorida": {
+"key": "florido|ADJ",
+"initial_ok": false
+},
+"PROPN\tenfermera": {
+"key": "enfermera|NOUN",
+"initial_ok": true
+},
+"PROPN\tniños": {
+"key": "niño|NOUN",
+"initial_ok": true
+},
+"PROPN\tvirgen": {
+"key": "virgen|ADJ",
+"initial_ok": true
+},
+"PROPN\tsuelta": {
+"key": "soltar|VERB",
+"initial_ok": true
+},
+"PROPN\tciencia": {
+"key": "ciencia|NOUN",
+"initial_ok": true
+},
+"PROPN\tchile": {
+"key": "chile|NOUN",
+"initial_ok": false
+},
+"PROPN\tagencia": {
+"key": "agencia|NOUN",
+"initial_ok": true
+},
+"PROPN\tplan": {
+"key": "plan|NOUN",
+"initial_ok": true
+},
+"PROPN\tjudas": {
+"key": "judas|NOUN",
+"initial_ok": false
+},
+"PROPN\thijo": {
+"key": "hijo|NOUN",
+"initial_ok": true
+},
+"PROPN\tríe": {
+"key": "reír|VERB",
+"initial_ok": true
+},
+"PROPN\tsuprema": {
+"key": "supremo|ADJ",
+"initial_ok": true
+},
+"PROPN\tamericano": {
+"key": "americano|ADJ",
+"initial_ok": true
+},
+"PROPN\thood": {
+"key": "hood|NOUN",
+"initial_ok": true
+},
+"PROPN\tpura": {
+"key": "puro|ADJ",
+"initial_ok": true
+},
+"PROPN\tcanalla": {
+"key": "canalla|NOUN",
+"initial_ok": true
+},
+"PROPN\tnewton": {
+"key": "newton|NOUN",
+"initial_ok": true
+},
+"PROPN\tleo": {
+"key": "leer|VERB",
+"initial_ok": false
+},
+"PROPN\tverónica": {
+"key": "verónica|NOUN",
+"initial_ok": false
+},
+"PROPN\tgallardo": {
+"key": "gallardo|ADJ",
+"initial_ok": false
+},
+"PROPN\tcid": {
+"key": "cid|NOUN",
+"initial_ok": false
+},
+"PROPN\tmunicipal": {
+"key": "municipal|ADJ",
+"initial_ok": true
+},
+"PROPN\tciudadano": {
+"key": "ciudadano|ADJ",
+"initial_ok": true
+},
+"PROPN\tfundación": {
+"key": "fundación|NOUN",
+"initial_ok": true
+},
+"PROPN\tbiblioteca": {
+"key": "biblioteca|NOUN",
+"initial_ok": true
+},
+"PROPN\tbahía": {
+"key": "bahía|NOUN",
+"initial_ok": true
+},
+"PROPN\taurora": {
+"key": "aurora|NOUN",
+"initial_ok": false
+},
+"PROPN\tnarices": {
+"key": "nariz|NOUN",
+"initial_ok": true
+},
+"PROPN\tamazonas": {
+"key": "amazona|NOUN",
+"initial_ok": false
+},
+"PROPN\tpacífico": {
+"key": "pacífico|ADJ",
+"initial_ok": false
+},
+"PROPN\tgordo": {
+"key": "gordo|ADJ",
+"initial_ok": true
+},
+"PROPN\tborracho": {
+"key": "borracho|ADJ",
+"initial_ok": true
+},
+"PROPN\tlobo": {
+"key": "lobo|NOUN",
+"initial_ok": true
+},
+"PROPN\tgente": {
+"key": "gente|NOUN",
+"initial_ok": true
+},
+"PROPN\tvegas": {
+"key": "vega|NOUN",
+"initial_ok": true
+},
+"PROPN\tarre": {
+"key": "arre|INTJ",
+"initial_ok": true
+},
+"PROPN\tdude": {
+"key": "dudar|VERB",
+"initial_ok": true
+},
+"PROPN\tsalta": {
+"key": "saltar|VERB",
+"initial_ok": false
+},
+"PROPN\tcomisión": {
+"key": "comisión|NOUN",
+"initial_ok": true
+},
+"PROPN\tjuego": {
+"key": "juego|NOUN",
+"initial_ok": true
+},
+"PROPN\tdelfina": {
+"key": "delfina|NOUN",
+"initial_ok": true
+},
+"PROPN\tregistro": {
+"key": "registro|NOUN",
+"initial_ok": true
+},
+"PROPN\toff": {
+"key": "off|ADJ",
+"initial_ok": true
+},
+"PROPN\tcristina": {
+"key": "cristina|NOUN",
+"initial_ok": false
+},
+"PROPN\tpregunta": {
+"key": "pregunta|NOUN",
+"initial_ok": true
+},
+"PROPN\tace": {
+"key": "ace|NOUN",
+"initial_ok": true
+},
+"PROPN\tbromeas": {
+"key": "bromear|VERB",
+"initial_ok": true
+},
+"PROPN\tdespues": {
+"key": "después|ADV",
+"initial_ok": true
+},
+"PROPN\toriente": {
+"key": "oriente|NOUN",
+"initial_ok": false
+},
+"PROPN\tpúblico": {
+"key": "público|ADJ",
+"initial_ok": true
+},
+"PROPN\tgranja": {
+"key": "granja|NOUN",
+"initial_ok": true
+},
+"PROPN\trazon": {
+"key": "razón|NOUN",
+"initial_ok": false
+},
+"PROPN\tdeportivo": {
+"key": "deportivo|ADJ",
+"initial_ok": false
+},
+"PROPN\ttomas": {
+"key": "tomar|VERB",
+"initial_ok": true
+},
+"PROPN\ttesoro": {
+"key": "tesoro|NOUN",
+"initial_ok": true
+},
+"PROPN\teras": {
+"key": "ser|VERB",
+"initial_ok": true
+},
+"PROPN\tcaribe": {
+"key": "caribe|ADJ",
+"initial_ok": false
+},
+"PROPN\thecho": {
+"key": "hacer|VERB",
+"initial_ok": true
+},
+"PROPN\tvaca": {
+"key": "vaca|NOUN",
+"initial_ok": false
+},
+"PROPN\tpro": {
+"key": "pro|NOUN",
+"initial_ok": true
+},
+"PROPN\temergencia": {
+"key": "emergencia|NOUN",
+"initial_ok": true
+},
+"PROPN\tsuba": {
+"key": "subir|VERB",
+"initial_ok": true
+},
+"PROPN\tdiana": {
+"key": "diana|NOUN",
+"initial_ok": false
+},
+"PROPN\ttodos": {
+"key": "todo|DET",
+"initial_ok": true
+},
+"PROPN\tmiguel": {
+"key": "miguel|PRON",
+"initial_ok": false
+},
+"PROPN\trivera": {
+"key": "rivera|NOUN",
+"initial_ok": false
+},
+"PROPN\tma": {
+"key": "ma|NOUN",
+"initial_ok": true
+},
+"PROPN\tstrike": {
+"key": "strike|NOUN",
+"initial_ok": true
+},
+"PROPN\tasociación": {
+"key": "asociación|NOUN",
+"initial_ok": true
+},
+"PROPN\tsuélteme": {
+"key": "soltar|VERB",
+"initial_ok": true
+},
+"PROPN\tcomisaría": {
+"key": "comisaría|NOUN",
+"initial_ok": true
+},
+"PROPN\talma": {
+"key": "alma|NOUN",
+"initial_ok": false
+},
+"PROPN\tdígale": {
+"key": "decir|VERB",
+"initial_ok": true
+},
+"PROPN\tmorales": {
+"key": "moral|ADJ",
+"initial_ok": false
+},
+"PROPN\trosario": {
+"key": "rosario|NOUN",
+"initial_ok": false
+},
+"PROPN\tasno": {
+"key": "asno|NOUN",
+"initial_ok": true
+},
+"PROPN\tyankee": {
+"key": "yanqui|NOUN",
+"initial_ok": true
+},
+"PROPN\tlárguese": {
+"key": "largar|VERB",
+"initial_ok": true
+},
+"PROPN\tlibertad": {
+"key": "libertad|NOUN",
+"initial_ok": true
+},
+"PROPN\thabla": {
+"key": "hablar|VERB",
+"initial_ok": true
+},
+"PROPN\tfuerzas": {
+"key": "fuerza|NOUN",
+"initial_ok": true
+},
+"PROPN\trelaciones": {
+"key": "relación|NOUN",
+"initial_ok": true
+},
+"PROPN\tmarquesa": {
+"key": "marquesa|NOUN",
+"initial_ok": true
+},
+"PROPN\tcosta": {
+"key": "costa|NOUN",
+"initial_ok": false
+},
+"PROPN\tferrara": {
+"key": "ferrar|VERB",
+"initial_ok": true
+},
+"PROPN\tmoran": {
+"key": "morar|VERB",
+"initial_ok": true
+},
+"PROPN\tmarines": {
+"key": "marine|NOUN",
+"initial_ok": true
+},
+"PROPN\tcuervo": {
+"key": "cuervo|NOUN",
+"initial_ok": true
+},
+"PROPN\tfernando": {
+"key": "fernando|NOUN",
+"initial_ok": false
+},
+"PROPN\tpilar": {
+"key": "pilar|NOUN",
+"initial_ok": false
+},
+"PROPN\tnombre": {
+"key": "nombre|NOUN",
+"initial_ok": true
+},
+"PROPN\tay": {
+"key": "ay|INTJ",
+"initial_ok": true
+},
+"PROPN\tescuela": {
+"key": "escuela|NOUN",
+"initial_ok": true
+},
+"PROPN\tcenter": {
+"key": "center|NOUN",
+"initial_ok": true
+},
+"PROPN\tverdad": {
+"key": "verdad|NOUN",
+"initial_ok": true
+},
+"PROPN\tsoplo": {
+"key": "soplo|NOUN",
+"initial_ok": true
+},
+"PROPN\ttorres": {
+"key": "torre|NOUN",
+"initial_ok": false
+},
+"PROPN\tsales": {
+"key": "salir|VERB",
+"initial_ok": false
+},
+"PROPN\tfuego": {
+"key": "fuego|NOUN",
+"initial_ok": true
+},
+"PROPN\ttécnica": {
+"key": "técnica|NOUN",
+"initial_ok": true
+},
+"PROPN\tamar": {
+"key": "amar|VERB",
+"initial_ok": true
+},
+"PROPN\tguarda": {
+"key": "guardar|VERB",
+"initial_ok": true
+},
+"PROPN\tparezca": {
+"key": "parecer|VERB",
+"initial_ok": true
+},
+"PROPN\ttell": {
+"key": "tell|NOUN",
+"initial_ok": true
+},
+"PROPN\tparedes": {
+"key": "pared|NOUN",
+"initial_ok": false
+},
+"PROPN\tnavarro": {
+"key": "navarro|ADJ",
+"initial_ok": false
+},
+"PROPN\tca": {
+"key": "ca|CCONJ",
+"initial_ok": true
+},
+"PROPN\tsatanás": {
+"key": "satanás|NOUN",
+"initial_ok": false
+},
+"PROPN\tamen": {
+"key": "amar|VERB",
+"initial_ok": true
+},
+"PROPN\tsonora": {
+"key": "sonoro|ADJ",
+"initial_ok": false
+},
+"PROPN\tsor": {
+"key": "sor|NOUN",
+"initial_ok": true
+},
+"PROPN\tvoz": {
+"key": "voz|NOUN",
+"initial_ok": true
+},
+"PROPN\tpalo": {
+"key": "palo|NOUN",
+"initial_ok": true
+},
+"PROPN\tbastardo": {
+"key": "bastardo|ADJ",
+"initial_ok": false
+},
+"PROPN\tbiblia": {
+"key": "biblia|NOUN",
+"initial_ok": false
+},
+"PROPN\testrellas": {
+"key": "estrella|NOUN",
+"initial_ok": true
+},
+"PROPN\tpuerta": {
+"key": "puerta|NOUN",
+"initial_ok": false
+},
+"PROPN\tcristianos": {
+"key": "cristiano|ADJ",
+"initial_ok": true
+},
+"PROPN\thai": {
+"key": "haber|VERB",
+"initial_ok": true
+},
+"PROPN\taérea": {
+"key": "aéreo|ADJ",
+"initial_ok": true
+},
+"PROPN\tcolón": {
+"key": "colón|NOUN",
+"initial_ok": false
+},
+"PROPN\tcesar": {
+"key": "cesar|VERB",
+"initial_ok": false
+},
+"PROPN\tcorta": {
+"key": "cortar|VERB",
+"initial_ok": true
+},
+"PROPN\talá": {
+"key": "hala|INTJ",
+"initial_ok": false
+},
+"PROPN\tparaguay": {
+"key": "paraguay|NOUN",
+"initial_ok": false
+},
+"PROPN\tlibia": {
+"key": "libia|NOUN",
+"initial_ok": false
+},
+"PROPN\ttren": {
+"key": "tren|NOUN",
+"initial_ok": true
+},
+"PROPN\tclara": {
+"key": "claro|ADJ",
+"initial_ok": false
+},
+"PROPN\tpalacios": {
+"key": "palacio|NOUN",
+"initial_ok": false
+},
+"PROPN\thermosa": {
+"key": "hermoso|ADJ",
+"initial_ok": false
+},
+"PROPN\tcoca": {
+"key": "coca|NOUN",
+"initial_ok": true
+},
+"PROPN\tunido": {
+"key": "unido|ADJ",
+"initial_ok": true
+},
+"PROPN\tcuerpo": {
+"key": "cuerpo|NOUN",
+"initial_ok": true
+},
+"PROPN\ttomo": {
+"key": "tomar|VERB",
+"initial_ok": true
+},
+"PROPN\tojos": {
+"key": "ojo|NOUN",
+"initial_ok": true
+},
+"PROPN\tramón": {
+"key": "ramón|NOUN",
+"initial_ok": false
+},
+"PROPN\tcristo": {
+"key": "cristo|NOUN",
+"initial_ok": false
+},
+"PROPN\talerta": {
+"key": "alerta|NOUN",
+"initial_ok": true
+},
+"PROPN\tloca": {
+"key": "loco|ADJ",
+"initial_ok": true
+},
+"PROPN\tbenjamín": {
+"key": "benjamín|ADJ",
+"initial_ok": false
+},
+"PROPN\tescuchen": {
+"key": "escuchar|VERB",
+"initial_ok": true
+},
+"PROPN\tbendita": {
+"key": "bendito|ADJ",
+"initial_ok": true
+},
+"PROPN\tecuador": {
+"key": "ecuador|NOUN",
+"initial_ok": false
+},
+"PROPN\tfrente": {
+"key": "frente|NOUN",
+"initial_ok": true
+},
+"PROPN\tcuento": {
+"key": "contar|VERB",
+"initial_ok": true
+},
+"PROPN\tcanciller": {
+"key": "canciller|NOUN",
+"initial_ok": true
+},
+"PROPN\tmae": {
+"key": "mae|NOUN",
+"initial_ok": true
+},
+"PROPN\tu": {
+"key": "u|CCONJ",
+"initial_ok": true
+},
+"PROPN\tarmadas": {
+"key": "armado|ADJ",
+"initial_ok": true
+},
+"PROPN\tgénova": {
+"key": "génova|NOUN",
+"initial_ok": false
+},
+"PROPN\tmartín": {
+"key": "martín|NOUN",
+"initial_ok": false
+},
+"PROPN\tcalatrava": {
+"key": "calatrava|NOUN",
+"initial_ok": false
+},
+"PROPN\tvista": {
+"key": "vista|NOUN",
+"initial_ok": true
+},
+"PROPN\tfranco": {
+"key": "franco|NOUN",
+"initial_ok": false
+},
+"PROPN\tdame": {
+"key": "dar|VERB",
+"initial_ok": true
+},
+"PROPN\tpresidencia": {
+"key": "presidencia|NOUN",
+"initial_ok": true
+},
+"PROPN\tmesa": {
+"key": "mesa|NOUN",
+"initial_ok": true
+},
+"PROPN\tjusticia": {
+"key": "justicia|NOUN",
+"initial_ok": true
+},
+"PROPN\tdetective": {
+"key": "detective|NOUN",
+"initial_ok": true
+},
+"PROPN\tprimera": {
+"key": "primero|ADJ",
+"initial_ok": true
+},
+"PROPN\tcomunicaciones": {
+"key": "comunicación|NOUN",
+"initial_ok": true
+},
+"PROPN\tirán": {
+"key": "ir|VERB",
+"initial_ok": false
+},
+"PROPN\trecursos": {
+"key": "recurso|NOUN",
+"initial_ok": true
+},
+"PROPN\tbestia": {
+"key": "bestia|NOUN",
+"initial_ok": false
+},
+"PROPN\tlogan": {
+"key": "logar|VERB",
+"initial_ok": true
+},
+"PROPN\tcoco": {
+"key": "coco|NOUN",
+"initial_ok": false
+},
+"PROPN\tfiscal": {
+"key": "fiscal|ADJ",
+"initial_ok": false
+},
+"PROPN\tcañón": {
+"key": "cañón|NOUN",
+"initial_ok": true
+},
+"PROPN\tdallas": {
+"key": "dallar|VERB",
+"initial_ok": true
+},
+"PROPN\timposible": {
+"key": "imposible|ADJ",
+"initial_ok": true
+},
+"PROPN\tlarga": {
+"key": "largo|ADJ",
+"initial_ok": true
+},
+"PROPN\ttotal": {
+"key": "total|ADJ",
+"initial_ok": true
+},
+"PROPN\tgolfo": {
+"key": "golfo|NOUN",
+"initial_ok": true
+},
+"PROPN\tcal": {
+"key": "cal|NOUN",
+"initial_ok": true
+},
+"PROPN\tambiente": {
+"key": "ambiente|NOUN",
+"initial_ok": true
+},
+"PROPN\tsuéltala": {
+"key": "soltar|VERB",
+"initial_ok": true
+},
+"PROPN\tshare": {
+"key": "share|NOUN",
+"initial_ok": true
+},
+"PROPN\tcentro": {
+"key": "centro|NOUN",
+"initial_ok": true
+},
+"PROPN\tboletín": {
+"key": "boletín|NOUN",
+"initial_ok": true
+},
+"PROPN\toficial": {
+"key": "oficial|ADJ",
+"initial_ok": true
+},
+"PROPN\tmeta": {
+"key": "meta|NOUN",
+"initial_ok": false
+},
+"PROPN\tagustín": {
+"key": "agustín|ADV",
+"initial_ok": false
+},
+"PROPN\tvargas": {
+"key": "varga|NOUN",
+"initial_ok": false
+},
+"PROPN\tortega": {
+"key": "ortega|NOUN",
+"initial_ok": false
+},
+"PROPN\tgay": {
+"key": "gay|ADJ",
+"initial_ok": true
+},
+"PROPN\tluz": {
+"key": "luz|NOUN",
+"initial_ok": false
+},
+"PROPN\tronda": {
+"key": "ronda|NOUN",
+"initial_ok": false
+},
+"PROPN\topen": {
+"key": "open|NOUN",
+"initial_ok": true
+},
+"PROPN\tparaíso": {
+"key": "paraíso|NOUN",
+"initial_ok": true
+},
+"PROPN\tcalidad": {
+"key": "calidad|NOUN",
+"initial_ok": true
+},
+"PROPN\tbarbados": {
+"key": "barbado|ADJ",
+"initial_ok": false
+},
+"PROPN\tpiedra": {
+"key": "piedra|NOUN",
+"initial_ok": false
+},
+"PROPN\tmanuela": {
+"key": "manuela|NOUN",
+"initial_ok": false
+},
+"PROPN\tm": {
+"key": "me|PRON",
+"initial_ok": true
+},
+"PROPN\tpage": {
+"key": "page|NOUN",
+"initial_ok": true
+},
+"PROPN\trojas": {
+"key": "rojo|ADJ",
+"initial_ok": false
+},
+"PROPN\tparlamento": {
+"key": "parlamento|NOUN",
+"initial_ok": true
+},
+"PROPN\tplace": {
+"key": "placer|VERB",
+"initial_ok": true
+},
+"PROPN\tval": {
+"key": "valle|NOUN",
+"initial_ok": true
+},
+"PROPN\ttomé": {
+"key": "tomar|VERB",
+"initial_ok": false
+},
+"PROPN\toso": {
+"key": "oso|NOUN",
+"initial_ok": true
+},
+"PROPN\tyo": {
+"key": "yo|PRON",
+"initial_ok": true
+},
+"PROPN\tcolonia": {
+"key": "colonia|NOUN",
+"initial_ok": false
+},
+"PROPN\tcondado": {
+"key": "condado|NOUN",
+"initial_ok": true
+},
+"PROPN\tgo": {
+"key": "go|NOUN",
+"initial_ok": true
+},
+"PROPN\treverendo": {
+"key": "reverendo|ADJ",
+"initial_ok": true
+},
+"PROPN\tvuelve": {
+"key": "volver|VERB",
+"initial_ok": true
+},
+"PROPN\thonor": {
+"key": "honor|NOUN",
+"initial_ok": true
+},
+"PROPN\tcórdoba": {
+"key": "córdoba|NOUN",
+"initial_ok": false
+},
+"PROPN\tcanal": {
+"key": "canal|NOUN",
+"initial_ok": true
+},
+"PROPN\tagricultura": {
+"key": "agricultura|NOUN",
+"initial_ok": true
+},
+"PROPN\tvuelta": {
+"key": "vuelta|NOUN",
+"initial_ok": false
+},
+"PROPN\td": {
+"key": "de|ADP",
+"initial_ok": true
+},
+"PROPN\tromano": {
+"key": "romano|ADJ",
+"initial_ok": true
+},
+"PROPN\tmetro": {
+"key": "metro|NOUN",
+"initial_ok": true
+},
+"PROPN\tcaracol": {
+"key": "caracol|NOUN",
+"initial_ok": true
+},
+"PROPN\tpiedad": {
+"key": "piedad|NOUN",
+"initial_ok": false
+},
+"PROPN\talmirante": {
+"key": "almirante|NOUN",
+"initial_ok": true
+},
+"PROPN\trevolución": {
+"key": "revolución|NOUN",
+"initial_ok": true
+},
+"PROPN\tmando": {
+"key": "mando|NOUN",
+"initial_ok": true
+},
+"PROPN\tfine": {
+"key": "finar|VERB",
+"initial_ok": true
+},
+"PROPN\tpardo": {
+"key": "pardo|ADJ",
+"initial_ok": false
+},
+"PROPN\tauto": {
+"key": "auto|NOUN",
+"initial_ok": true
+},
+"PROPN\tarturo": {
+"key": "arturo|ADJ",
+"initial_ok": false
+},
+"PROPN\tmen": {
+"key": "man|NOUN",
+"initial_ok": true
+},
+"PROPN\tretiro": {
+"key": "retiro|NOUN",
+"initial_ok": false
+},
+"PROPN\tniñas": {
+"key": "niña|NOUN",
+"initial_ok": true
+},
+"PROPN\tpueblo": {
+"key": "pueblo|NOUN",
+"initial_ok": true
+},
+"PROPN\tlucía": {
+"key": "lucir|VERB",
+"initial_ok": false
+},
+"PROPN\tjerónimo": {
+"key": "jerónimo|ADJ",
+"initial_ok": false
+},
+"PROPN\tsantos": {
+"key": "santo|ADJ",
+"initial_ok": false
+},
+"PROPN\tfray": {
+"key": "fray|NOUN",
+"initial_ok": true
+},
+"PROPN\tparque": {
+"key": "parque|NOUN",
+"initial_ok": true
+},
+"PROPN\tarena": {
+"key": "arena|NOUN",
+"initial_ok": true
+},
+"PROPN\testudiantes": {
+"key": "estudiante|NOUN",
+"initial_ok": true
+},
+"PROPN\tsanidad": {
+"key": "sanidad|NOUN",
+"initial_ok": true
+},
+"PROPN\tlea": {
+"key": "leer|VERB",
+"initial_ok": false
+},
+"PROPN\tislas": {
+"key": "isla|NOUN",
+"initial_ok": true
+},
+"PROPN\tventa": {
+"key": "venta|NOUN",
+"initial_ok": true
+},
+"PROPN\tver": {
+"key": "ver|VERB",
+"initial_ok": true
+},
+"PROPN\tcapitan": {
+"key": "capitán|NOUN",
+"initial_ok": true
+},
+"PROPN\tpunta": {
+"key": "punta|NOUN",
+"initial_ok": true
+},
+"PROPN\talfa": {
+"key": "alfa|NOUN",
+"initial_ok": true
+},
+"PROPN\testudios": {
+"key": "estudio|NOUN",
+"initial_ok": true
+},
+"PROPN\tnave": {
+"key": "nave|NOUN",
+"initial_ok": true
+},
+"PROPN\tcadena": {
+"key": "cadena|NOUN",
+"initial_ok": true
+},
+"PROPN\thermanos": {
+"key": "hermano|NOUN",
+"initial_ok": true
+},
+"PROPN\tvives": {
+"key": "vivir|VERB",
+"initial_ok": true
+},
+"PROPN\tgil": {
+"key": "gil|ADJ",
+"initial_ok": false
+},
+"PROPN\tlen": {
+"key": "len|NOUN",
+"initial_ok": true
+},
+"PROPN\tmas": {
+"key": "más|ADV",
+"initial_ok": true
+},
+"PROPN\tsimón": {
+"key": "simón|INTJ",
+"initial_ok": false
+},
+"PROPN\tdia": {
+"key": "día|NOUN",
+"initial_ok": false
+},
+"PROPN\tlance": {
+"key": "lanzar|VERB",
+"initial_ok": true
+},
+"PROPN\tmuévanse": {
+"key": "mover|VERB",
+"initial_ok": true
+},
+"PROPN\tcódigo": {
+"key": "código|NOUN",
+"initial_ok": true
+},
+"PROPN\tquédate": {
+"key": "quedar|VERB",
+"initial_ok": true
+},
+"PROPN\tniña": {
+"key": "niña|NOUN",
+"initial_ok": true
+},
+"PROPN\tgrey": {
+"key": "grey|NOUN",
+"initial_ok": true
+},
+"PROPN\tarias": {
+"key": "ario|ADJ",
+"initial_ok": false
+},
+"PROPN\tmoro": {
+"key": "moro|NOUN",
+"initial_ok": true
+},
+"PROPN\tquiero": {
+"key": "querer|VERB",
+"initial_ok": true
+},
+"PROPN\tfuentes": {
+"key": "fuente|NOUN",
+"initial_ok": false
+},
+"PROPN\tbrigada": {
+"key": "brigada|NOUN",
+"initial_ok": true
+},
+"PROPN\tcoro": {
+"key": "coro|NOUN",
+"initial_ok": true
+},
+"PROPN\tindustrial": {
+"key": "industrial|ADJ",
+"initial_ok": true
+},
+"PROPN\tindios": {
+"key": "indio|NOUN",
+"initial_ok": true
+},
+"PROPN\tcircula": {
+"key": "circular|VERB",
+"initial_ok": true
+},
+"PROPN\tinvestigación": {
+"key": "investigación|NOUN",
+"initial_ok": true
+},
+"PROPN\tvaticano": {
+"key": "vaticano|ADJ",
+"initial_ok": false
+},
+"PROPN\tdioses": {
+"key": "dios|NOUN",
+"initial_ok": true
+},
+"PROPN\tcordero": {
+"key": "cordero|NOUN",
+"initial_ok": false
+},
+"PROPN\tpeso": {
+"key": "peso|NOUN",
+"initial_ok": true
+},
+"PROPN\tplus": {
+"key": "plus|NOUN",
+"initial_ok": true
+},
+"PROPN\tfrancesa": {
+"key": "francés|ADJ",
+"initial_ok": true
+},
+"PROPN\tsuéltenme": {
+"key": "soltar|VERB",
+"initial_ok": true
+},
+"PROPN\testribor": {
+"key": "estribor|NOUN",
+"initial_ok": true
+},
+"PROPN\tconsuelo": {
+"key": "consuelo|NOUN",
+"initial_ok": false
+},
+"PROPN\tmiró": {
+"key": "mirar|VERB",
+"initial_ok": false
+},
+"PROPN\tprepare": {
+"key": "preparar|VERB",
+"initial_ok": true
+},
+"PROPN\tobras": {
+"key": "obra|NOUN",
+"initial_ok": true
+},
+"PROPN\tpúblicas": {
+"key": "público|ADJ",
+"initial_ok": true
+},
+"PROPN\tcecilia": {
+"key": "cecilia|NOUN",
+"initial_ok": false
+},
+"PROPN\tgracia": {
+"key": "gracia|NOUN",
+"initial_ok": false
+},
+"PROPN\tsolitario": {
+"key": "solitario|ADJ",
+"initial_ok": true
+},
+"PROPN\tchino": {
+"key": "chino|ADJ",
+"initial_ok": true
+},
+"PROPN\tinforme": {
+"key": "informe|NOUN",
+"initial_ok": true
+},
+"PROPN\tcorten": {
+"key": "cortar|VERB",
+"initial_ok": true
+},
+"PROPN\tfría": {
+"key": "fría|NOUN",
+"initial_ok": true
+},
+"PROPN\tderecha": {
+"key": "derecha|NOUN",
+"initial_ok": true
+},
+"PROPN\toperaciones": {
+"key": "operación|NOUN",
+"initial_ok": true
+},
+"PROPN\tesperanza": {
+"key": "esperanza|NOUN",
+"initial_ok": false
+},
+"PROPN\tcriminal": {
+"key": "criminal|ADJ",
+"initial_ok": true
+},
+"PROPN\tglobo": {
+"key": "globo|NOUN",
+"initial_ok": true
+},
+"PROPN\tdomingo": {
+"key": "domingo|NOUN",
+"initial_ok": false
+},
+"PROPN\tyanqui": {
+"key": "yanqui|ADJ",
+"initial_ok": true
+},
+"PROPN\tsean": {
+"key": "ser|VERB",
+"initial_ok": true
+},
+"PROPN\tgod": {
+"key": "god|ADJ",
+"initial_ok": true
+},
+"PROPN\tnube": {
+"key": "nube|NOUN",
+"initial_ok": true
+},
+"PROPN\tnegra": {
+"key": "negro|ADJ",
+"initial_ok": true
+},
+"PROPN\tcamilo": {
+"key": "camilo|ADJ",
+"initial_ok": false
+},
+"PROPN\tpaco": {
+"key": "paco|ADJ",
+"initial_ok": false
+},
+"PROPN\tnoticias": {
+"key": "noticia|NOUN",
+"initial_ok": true
+},
+"PROPN\tanillo": {
+"key": "anillo|NOUN",
+"initial_ok": true
+},
+"PROPN\tsacramento": {
+"key": "sacramento|NOUN",
+"initial_ok": false
+},
+"PROPN\tpiedras": {
+"key": "piedra|NOUN",
+"initial_ok": true
+},
+"PROPN\tarroyo": {
+"key": "arroyo|NOUN",
+"initial_ok": false
+},
+"PROPN\tcomisionado": {
+"key": "comisionado|NOUN",
+"initial_ok": true
+},
+"PROPN\tmediterráneo": {
+"key": "mediterráneo|ADJ",
+"initial_ok": false
+},
+"PROPN\tbruto": {
+"key": "bruto|ADJ",
+"initial_ok": false
+},
+"PROPN\tclase": {
+"key": "clase|NOUN",
+"initial_ok": true
+},
+"PROPN\tbautista": {
+"key": "bautista|NOUN",
+"initial_ok": false
+},
+"PROPN\ttomás": {
+"key": "tomar|VERB",
+"initial_ok": false
+},
+"PROPN\traya": {
+"key": "raya|NOUN",
+"initial_ok": false
+},
+"PROPN\tamericana": {
+"key": "americano|ADJ",
+"initial_ok": true
+},
+"PROPN\tlocal": {
+"key": "local|ADJ",
+"initial_ok": true
+},
+"PROPN\tgiles": {
+"key": "gil|ADJ",
+"initial_ok": true
+},
+"PROPN\tcross": {
+"key": "cross|NOUN",
+"initial_ok": true
+},
+"PROPN\trock": {
+"key": "rock|NOUN",
+"initial_ok": true
+},
+"PROPN\tflor": {
+"key": "flor|NOUN",
+"initial_ok": false
+},
+"PROPN\taugusto": {
+"key": "augusto|ADJ",
+"initial_ok": false
+},
+"PROPN\ttula": {
+"key": "tula|NOUN",
+"initial_ok": true
+},
+"PROPN\tclínica": {
+"key": "clínica|NOUN",
+"initial_ok": true
+},
+"PROPN\toccidente": {
+"key": "occidente|NOUN",
+"initial_ok": true
+},
+"PROPN\teducación": {
+"key": "educación|NOUN",
+"initial_ok": true
+},
+"PROPN\tlindo": {
+"key": "lindo|ADJ",
+"initial_ok": true
+},
+"PROPN\tjefatura": {
+"key": "jefatura|NOUN",
+"initial_ok": true
+},
+"PROPN\tprofeta": {
+"key": "profeta|NOUN",
+"initial_ok": true
+},
+"PROPN\tmio": {
+"key": "mío|PRON",
+"initial_ok": true
+},
+"PROPN\tsoledad": {
+"key": "soledad|NOUN",
+"initial_ok": false
+},
+"PROPN\tmetropolitana": {
+"key": "metropolitano|ADJ",
+"initial_ok": false
+},
+"PROPN\ttiro": {
+"key": "tiro|NOUN",
+"initial_ok": false
+},
+"PROPN\talba": {
+"key": "alba|NOUN",
+"initial_ok": false
+},
+"PROPN\tadministración": {
+"key": "administración|NOUN",
+"initial_ok": true
+},
+"PROPN\tredondo": {
+"key": "redondo|ADJ",
+"initial_ok": false
+},
+"PROPN\toriental": {
+"key": "oriental|ADJ",
+"initial_ok": true
+},
+"PROPN\tsecretaria": {
+"key": "secretaria|NOUN",
+"initial_ok": true
+},
+"PROPN\tlanza": {
+"key": "lanza|NOUN",
+"initial_ok": true
+},
+"PROPN\tcuentas": {
+"key": "contar|VERB",
+"initial_ok": true
+},
+"PROPN\tasamblea": {
+"key": "asamblea|NOUN",
+"initial_ok": true
+},
+"PROPN\tcristóbal": {
+"key": "cristóbal|NOUN",
+"initial_ok": false
+},
+"PROPN\tprimer": {
+"key": "primero|ADJ",
+"initial_ok": true
+},
+"PROPN\thumanidad": {
+"key": "humanidad|NOUN",
+"initial_ok": true
+},
+"PROPN\thelena": {
+"key": "heleno|ADJ",
+"initial_ok": true
+},
+"PROPN\tinterior": {
+"key": "interior|ADJ",
+"initial_ok": true
+},
+"PROPN\tpiqué": {
+"key": "piqué|NOUN",
+"initial_ok": true
+},
+"PROPN\tdemocrática": {
+"key": "democrático|ADJ",
+"initial_ok": true
+},
+"PROPN\tpenal": {
+"key": "penal|ADJ",
+"initial_ok": true
+},
+"PROPN\tcampos": {
+"key": "campo|NOUN",
+"initial_ok": false
+},
+"PROPN\tbarrio": {
+"key": "barrio|NOUN",
+"initial_ok": true
+},
+"PROPN\tlatino": {
+"key": "latino|ADJ",
+"initial_ok": true
+},
+"PROPN\tramos": {
+"key": "ramo|NOUN",
+"initial_ok": false
+},
+"PROPN\tsublime": {
+"key": "sublime|ADJ",
+"initial_ok": true
+},
+"PROPN\tpalma": {
+"key": "palma|NOUN",
+"initial_ok": false
+},
+"PROPN\timperio": {
+"key": "imperio|NOUN",
+"initial_ok": true
+},
+"PROPN\tnuestra": {
+"key": "nuestro|DET",
+"initial_ok": true
+},
+"PROPN\ttv": {
+"key": "tv|NOUN",
+"initial_ok": true
+},
+"PROPN\tlucha": {
+"key": "lucha|NOUN",
+"initial_ok": false
+},
+"PROPN\tfuturo": {
+"key": "futuro|ADJ",
+"initial_ok": true
+},
+"PROPN\tboca": {
+"key": "boca|NOUN",
+"initial_ok": true
+},
+"PROPN\tagente": {
+"key": "agente|NOUN",
+"initial_ok": true
+},
+"PROPN\tactive": {
+"key": "activar|VERB",
+"initial_ok": true
+},
+"PROPN\tgrandes": {
+"key": "grande|ADJ",
+"initial_ok": true
+},
+"PROPN\tligas": {
+"key": "liga|NOUN",
+"initial_ok": true
+},
+"PROPN\tartes": {
+"key": "arte|NOUN",
+"initial_ok": true
+},
+"PROPN\tcivil": {
+"key": "civil|ADJ",
+"initial_ok": true
+},
+"PROPN\tpato": {
+"key": "pato|NOUN",
+"initial_ok": false
+},
+"PROPN\tfinal": {
+"key": "final|ADJ",
+"initial_ok": true
+},
+"PROPN\tcorea": {
+"key": "corea|NOUN",
+"initial_ok": false
+},
+"PROPN\ttelefónica": {
+"key": "telefónico|ADJ",
+"initial_ok": true
+},
+"PROPN\tespañol": {
+"key": "español|ADJ",
+"initial_ok": false
+},
+"PROPN\ttop": {
+"key": "top|NOUN",
+"initial_ok": true
+},
+"PROPN\tmama": {
+"key": "mama|NOUN",
+"initial_ok": true
+},
+"PROPN\tmontana": {
+"key": "montano|ADJ",
+"initial_ok": false
+},
+"PROPN\tdoctora": {
+"key": "doctora|NOUN",
+"initial_ok": true
+},
+"PROPN\ttrabajadores": {
+"key": "trabajador|NOUN",
+"initial_ok": true
+},
+"PROPN\tclan": {
+"key": "clan|NOUN",
+"initial_ok": true
+},
+"PROPN\tocéano": {
+"key": "océano|NOUN",
+"initial_ok": true
+},
+"PROPN\thistórico": {
+"key": "histórico|ADJ",
+"initial_ok": true
+},
+"PROPN\tprensa": {
+"key": "prensa|NOUN",
+"initial_ok": true
+},
+"PROPN\tenergía": {
+"key": "energía|NOUN",
+"initial_ok": true
+},
+"PROPN\tavanza": {
+"key": "avanzar|VERB",
+"initial_ok": true
+},
+"PROPN\tdiario": {
+"key": "diario|ADJ",
+"initial_ok": true
+},
+"PROPN\tlatina": {
+"key": "latina|NOUN",
+"initial_ok": true
+},
+"PROPN\tfrancos": {
+"key": "franco|ADJ",
+"initial_ok": true
+},
+"PROPN\tgoya": {
+"key": "goya|NOUN",
+"initial_ok": false
+},
+"PROPN\taugusta": {
+"key": "augusto|ADJ",
+"initial_ok": true
+},
+"PROPN\tinformación": {
+"key": "información|NOUN",
+"initial_ok": true
+},
+"PROPN\tzona": {
+"key": "zona|NOUN",
+"initial_ok": true
+},
+"PROPN\tfiesta": {
+"key": "fiesta|NOUN",
+"initial_ok": true
+},
+"PROPN\tcatólica": {
+"key": "católico|ADJ",
+"initial_ok": true
+},
+"PROPN\tsupremo": {
+"key": "supremo|ADJ",
+"initial_ok": true
+},
+"PROPN\tnatural": {
+"key": "natural|ADJ",
+"initial_ok": true
+},
+"PROPN\tbelén": {
+"key": "belén|NOUN",
+"initial_ok": false
+},
+"PROPN\tave": {
+"key": "ave|NOUN",
+"initial_ok": true
+},
+"PROPN\tjudíos": {
+"key": "judío|NOUN",
+"initial_ok": true
+},
+"PROPN\tmariano": {
+"key": "mariano|ADJ",
+"initial_ok": false
+},
+"PROPN\tnaturaleza": {
+"key": "naturaleza|NOUN",
+"initial_ok": true
+},
+"PROPN\tsiglo": {
+"key": "siglo|NOUN",
+"initial_ok": true
+},
+"PROPN\tdolores": {
+"key": "dolor|NOUN",
+"initial_ok": false
+},
+"PROPN\tmaya": {
+"key": "maya|ADJ",
+"initial_ok": true
+},
+"PROPN\templeo": {
+"key": "empleo|NOUN",
+"initial_ok": true
+},
+"PROPN\tah": {
+"key": "ah|INTJ",
+"initial_ok": true
+},
+"PROPN\tjudicial": {
+"key": "judicial|ADJ",
+"initial_ok": true
+},
+"PROPN\tucrania": {
+"key": "ucrania|NOUN",
+"initial_ok": false
+},
+"PROPN\tobservatorio": {
+"key": "observatorio|NOUN",
+"initial_ok": true
+},
+"PROPN\tcolegio": {
+"key": "colegio|NOUN",
+"initial_ok": true
+},
+"PROPN\tpago": {
+"key": "pago|NOUN",
+"initial_ok": true
+},
+"PROPN\tmédico": {
+"key": "médico|NOUN",
+"initial_ok": true
+},
+"PROPN\tjulio": {
+"key": "julio|NOUN",
+"initial_ok": false
+},
+"PROPN\tnoruega": {
+"key": "noruega|NOUN",
+"initial_ok": false
+},
+"PROPN\tpalestina": {
+"key": "palestino|ADJ",
+"initial_ok": false
+},
+"PROPN\tabu": {
+"key": "abue|NOUN",
+"initial_ok": true
+},
+"PROPN\tmataste": {
+"key": "matar|VERB",
+"initial_ok": true
+},
+"PROPN\tadán": {
+"key": "adán|NOUN",
+"initial_ok": false
+},
+"PROPN\tlibro": {
+"key": "libro|NOUN",
+"initial_ok": true
+},
+"PROPN\tmaestre": {
+"key": "maestre|NOUN",
+"initial_ok": true
+},
+"PROPN\talianza": {
+"key": "alianza|NOUN",
+"initial_ok": true
+},
+"PROPN\tjoder": {
+"key": "joder|VERB",
+"initial_ok": true
+},
+"PROPN\tprimaria": {
+"key": "primaria|NOUN",
+"initial_ok": true
+},
+"PROPN\tpuente": {
+"key": "puente|NOUN",
+"initial_ok": false
+},
+"PROPN\tflota": {
+"key": "flota|NOUN",
+"initial_ok": true
+},
+"PROPN\tmuere": {
+"key": "morir|VERB",
+"initial_ok": true
+},
+"PROPN\tclaudia": {
+"key": "claudia|NOUN",
+"initial_ok": false
+},
+"PROPN\tlucio": {
+"key": "lucio|NOUN",
+"initial_ok": false
+},
+"PROPN\tcomando": {
+"key": "comando|NOUN",
+"initial_ok": true
+},
+"PROPN\tcultura": {
+"key": "cultura|NOUN",
+"initial_ok": true
+},
+"PROPN\tgozo": {
+"key": "gozo|NOUN",
+"initial_ok": true
+},
+"PROPN\tevangelio": {
+"key": "evangelio|NOUN",
+"initial_ok": true
+},
+"PROPN\tvaquero": {
+"key": "vaquero|ADJ",
+"initial_ok": false
+},
+"PROPN\tvalencia": {
+"key": "valencia|NOUN",
+"initial_ok": false
+},
+"PROPN\tfavor": {
+"key": "favor|NOUN",
+"initial_ok": true
+},
+"PROPN\tternera": {
+"key": "ternera|NOUN",
+"initial_ok": true
+},
+"PROPN\tinmaculada": {
+"key": "inmaculado|ADJ",
+"initial_ok": false
+},
+"PROPN\tconcepción": {
+"key": "concepción|NOUN",
+"initial_ok": false
+},
+"PROPN\ttambien": {
+"key": "también|ADV",
+"initial_ok": true
+},
+"PROPN\tfederal": {
+"key": "federal|ADJ",
+"initial_ok": true
+},
+"PROPN\tdelta": {
+"key": "delta|NOUN",
+"initial_ok": true
+},
+"PROPN\tencuentro": {
+"key": "encuentro|NOUN",
+"initial_ok": true
+},
+"PROPN\tbola": {
+"key": "bola|NOUN",
+"initial_ok": true
+},
+"PROPN\tvip": {
+"key": "vip|NOUN",
+"initial_ok": true
+},
+"PROPN\tmora": {
+"key": "mora|NOUN",
+"initial_ok": false
+},
+"PROPN\tcarajo": {
+"key": "carajo|NOUN",
+"initial_ok": true
+},
+"PROPN\tindustrias": {
+"key": "industria|NOUN",
+"initial_ok": true
+},
+"PROPN\tmedina": {
+"key": "medina|NOUN",
+"initial_ok": false
+},
+"PROPN\tfe": {
+"key": "fe|NOUN",
+"initial_ok": true
+},
+"PROPN\tiglesias": {
+"key": "iglesia|NOUN",
+"initial_ok": false
+},
+"PROPN\tagua": {
+"key": "agua|NOUN",
+"initial_ok": true
+},
+"PROPN\tmercedes": {
+"key": "merced|NOUN",
+"initial_ok": false
+},
+"PROPN\tpersonal": {
+"key": "personal|ADJ",
+"initial_ok": true
+},
+"PROPN\tdiablos": {
+"key": "diablo|NOUN",
+"initial_ok": true
+},
+"PROPN\tferia": {
+"key": "feria|NOUN",
+"initial_ok": true
+},
+"PROPN\tmate": {
+"key": "matar|VERB",
+"initial_ok": true
+},
+"PROPN\tcabello": {
+"key": "cabello|NOUN",
+"initial_ok": false
+},
+"PROPN\tgrupo": {
+"key": "grupo|NOUN",
+"initial_ok": true
+},
+"PROPN\tseguridad": {
+"key": "seguridad|NOUN",
+"initial_ok": true
+},
+"PROPN\tindependencia": {
+"key": "independencia|NOUN",
+"initial_ok": true
+},
+"PROPN\tpúblicos": {
+"key": "público|ADJ",
+"initial_ok": true
+},
+"PROPN\tminerva": {
+"key": "minerva|NOUN",
+"initial_ok": false
+},
+"PROPN\tmoreno": {
+"key": "moreno|ADJ",
+"initial_ok": false
+},
+"PROPN\tpopular": {
+"key": "popular|ADJ",
+"initial_ok": true
+},
+"PROPN\tcortés": {
+"key": "cortar|VERB",
+"initial_ok": false
+},
+"PROPN\ta": {
+"key": "a|ADP",
+"initial_ok": true
+},
+"PROPN\tvega": {
+"key": "vega|NOUN",
+"initial_ok": false
+},
+"PROPN\tservicios": {
+"key": "servicio|NOUN",
+"initial_ok": true
+},
+"PROPN\toperación": {
+"key": "operación|NOUN",
+"initial_ok": true
+},
+"PROPN\tjengibre": {
+"key": "jengibre|NOUN",
+"initial_ok": true
+},
+"PROPN\tsistema": {
+"key": "sistema|NOUN",
+"initial_ok": true
+},
+"PROPN\trubio": {
+"key": "rubio|ADJ",
+"initial_ok": false
+},
+"PROPN\teuropea": {
+"key": "europeo|ADJ",
+"initial_ok": true
+},
+"PROPN\tpan": {
+"key": "pan|NOUN",
+"initial_ok": true
+},
+"PROPN\tputo": {
+"key": "puto|ADJ",
+"initial_ok": true
+},
+"PROPN\tlínea": {
+"key": "línea|NOUN",
+"initial_ok": true
+},
+"PROPN\tproyecto": {
+"key": "proyecto|NOUN",
+"initial_ok": true
+},
+"PROPN\tmayo": {
+"key": "mayo|NOUN",
+"initial_ok": true
+},
+"PROPN\tcrédito": {
+"key": "crédito|NOUN",
+"initial_ok": true
+},
+"PROPN\tcristiano": {
+"key": "cristiano|ADJ",
+"initial_ok": true
+},
+"PROPN\tobispo": {
+"key": "obispo|NOUN",
+"initial_ok": false
+},
+"PROPN\ttránsito": {
+"key": "tránsito|NOUN",
+"initial_ok": false
+},
+"PROPN\tuniverso": {
+"key": "universo|NOUN",
+"initial_ok": true
+},
+"PROPN\tfestival": {
+"key": "festival|NOUN",
+"initial_ok": true
+},
+"PROPN\tcomandancia": {
+"key": "comandancia|NOUN",
+"initial_ok": true
+},
+"PROPN\tron": {
+"key": "ron|NOUN",
+"initial_ok": true
+},
+"PROPN\tpacheco": {
+"key": "pacheco|ADJ",
+"initial_ok": false
+},
+"PROPN\tsmart": {
+"key": "smart|ADJ",
+"initial_ok": true
+},
+"PROPN\tvivo": {
+"key": "vivo|ADJ",
+"initial_ok": true
+},
+"PROPN\tquinto": {
+"key": "quinto|ADJ",
+"initial_ok": true
+},
+"PROPN\tingeniería": {
+"key": "ingeniería|NOUN",
+"initial_ok": true
+},
+"PROPN\tpersonas": {
+"key": "persona|NOUN",
+"initial_ok": true
+},
+"PROPN\trebelde": {
+"key": "rebelde|ADJ",
+"initial_ok": true
+},
+"PROPN\tgalope": {
+"key": "galope|NOUN",
+"initial_ok": true
+},
+"PROPN\tbomberos": {
+"key": "bombero|NOUN",
+"initial_ok": true
+},
+"PROPN\tvasco": {
+"key": "vasco|ADJ",
+"initial_ok": true
+},
+"PROPN\tarzobispo": {
+"key": "arzobispo|NOUN",
+"initial_ok": true
+},
+"PROPN\tfierro": {
+"key": "fierro|NOUN",
+"initial_ok": true
+},
+"PROPN\tfórmula": {
+"key": "fórmula|NOUN",
+"initial_ok": true
+},
+"PROPN\tpremios": {
+"key": "premio|NOUN",
+"initial_ok": true
+},
+"PROPN\tpinto": {
+"key": "pintar|VERB",
+"initial_ok": false
+},
+"PROPN\tpenínsula": {
+"key": "península|NOUN",
+"initial_ok": true
+},
+"PROPN\tmisión": {
+"key": "misión|NOUN",
+"initial_ok": true
+},
+"PROPN\thumano": {
+"key": "humano|ADJ",
+"initial_ok": true
+},
+"PROPN\tmateo": {
+"key": "mateo|ADJ",
+"initial_ok": false
+},
+"PROPN\tfranja": {
+"key": "franja|NOUN",
+"initial_ok": true
+},
+"PROPN\turgencias": {
+"key": "urgencias|NOUN",
+"initial_ok": true
+},
+"PROPN\tespecial": {
+"key": "especial|ADJ",
+"initial_ok": true
+},
+"PROPN\tantena": {
+"key": "antena|NOUN",
+"initial_ok": true
+},
+"PROPN\tfinanzas": {
+"key": "finanza|NOUN",
+"initial_ok": true
+},
+"PROPN\troca": {
+"key": "roca|NOUN",
+"initial_ok": false
+},
+"PROPN\tlozano": {
+"key": "lozano|ADJ",
+"initial_ok": false
+},
+"PROPN\testelar": {
+"key": "estelar|ADJ",
+"initial_ok": true
+},
+"PROPN\tdeportes": {
+"key": "deporte|NOUN",
+"initial_ok": true
+},
+"PROPN\tmontes": {
+"key": "monte|NOUN",
+"initial_ok": false
+},
+"PROPN\tguerrero": {
+"key": "guerrero|ADJ",
+"initial_ok": false
+},
+"PROPN\ttransporte": {
+"key": "transporte|NOUN",
+"initial_ok": true
+},
+"PROPN\tbeatles": {
+"key": "beatle|NOUN",
+"initial_ok": false
+},
+"PROPN\tpaloma": {
+"key": "paloma|NOUN",
+"initial_ok": false
+},
+"PROPN\taquí": {
+"key": "aquí|ADV",
+"initial_ok": true
+},
+"PROPN\tserie": {
+"key": "serie|NOUN",
+"initial_ok": true
+},
+"PROPN\tcharro": {
+"key": "charro|ADJ",
+"initial_ok": true
+},
+"PROPN\tprotección": {
+"key": "protección|NOUN",
+"initial_ok": true
+},
+"PROPN\tlegislativa": {
+"key": "legislativo|ADJ",
+"initial_ok": true
+},
+"PROPN\tguardián": {
+"key": "guardián|NOUN",
+"initial_ok": true
+},
+"PROPN\temergencias": {
+"key": "emergencia|NOUN",
+"initial_ok": true
+},
+"PROPN\tbanda": {
+"key": "banda|NOUN",
+"initial_ok": true
+},
+"PROPN\tdiputado": {
+"key": "diputado|NOUN",
+"initial_ok": true
+},
+"PROPN\tmexicano": {
+"key": "mexicano|ADJ",
+"initial_ok": true
+},
+"PROPN\tpimienta": {
+"key": "pimienta|NOUN",
+"initial_ok": true
+},
+"PROPN\tda": {
+"key": "dar|VERB",
+"initial_ok": true
+},
+"PROPN\tunidad": {
+"key": "unidad|NOUN",
+"initial_ok": true
+},
+"PROPN\trevolucionario": {
+"key": "revolucionario|ADJ",
+"initial_ok": true
+},
+"PROPN\tamparo": {
+"key": "amparo|NOUN",
+"initial_ok": false
+},
+"PROPN\tusa": {
+"key": "usar|VERB",
+"initial_ok": true
+},
+"PROPN\tpaseo": {
+"key": "paseo|NOUN",
+"initial_ok": true
+},
+"PROPN\tprograma": {
+"key": "programa|NOUN",
+"initial_ok": true
+},
+"PROPN\tclima": {
+"key": "clima|NOUN",
+"initial_ok": true
+},
+"PROPN\tinspección": {
+"key": "inspección|NOUN",
+"initial_ok": true
+},
+"PROPN\trueda": {
+"key": "rueda|NOUN",
+"initial_ok": true
+},
+"PROPN\tnegras": {
+"key": "negro|ADJ",
+"initial_ok": true
+},
+"PROPN\tamarillo": {
+"key": "amarillo|ADJ",
+"initial_ok": false
+},
+"PROPN\ttalvez": {
+"key": "tal|ADV",
+"initial_ok": true
+},
+"PROPN\tcuartos": {
+"key": "cuarto|NOUN",
+"initial_ok": true
+},
+"PROPN\tespañola": {
+"key": "español|ADJ",
+"initial_ok": true
+},
+"PROPN\talondra": {
+"key": "alondra|NOUN",
+"initial_ok": false
+},
+"PROPN\tviolencia": {
+"key": "violencia|NOUN",
+"initial_ok": true
+},
+"PROPN\toreja": {
+"key": "oreja|NOUN",
+"initial_ok": true
+},
+"PROPN\toccidental": {
+"key": "occidental|ADJ",
+"initial_ok": true
+},
+"PROPN\tprocurador": {
+"key": "procurador|NOUN",
+"initial_ok": true
+},
+"PROPN\tcultural": {
+"key": "cultural|ADJ",
+"initial_ok": true
+},
+"PROPN\tcomunidad": {
+"key": "comunidad|NOUN",
+"initial_ok": true
+},
+"PROPN\tnacionales": {
+"key": "nacional|ADJ",
+"initial_ok": true
+},
+"PROPN\tmesías": {
+"key": "mesías|NOUN",
+"initial_ok": false
+},
+"PROPN\tcerebro": {
+"key": "cerebro|NOUN",
+"initial_ok": true
+},
+"PROPN\tjuventud": {
+"key": "juventud|NOUN",
+"initial_ok": true
+},
+"PROPN\tlaguna": {
+"key": "laguna|NOUN",
+"initial_ok": true
+},
+"PROPN\thoróscopo": {
+"key": "horóscopo|NOUN",
+"initial_ok": true
+},
+"PROPN\tcumbre": {
+"key": "cumbre|NOUN",
+"initial_ok": true
+},
+"PROPN\tdiccionario": {
+"key": "diccionario|NOUN",
+"initial_ok": true
+},
+"PROPN\tmai": {
+"key": "mai|NOUN",
+"initial_ok": true
+},
+"PROPN\tblas": {
+"key": "bla|NOUN",
+"initial_ok": false
+},
+"PROPN\tglobal": {
+"key": "global|ADJ",
+"initial_ok": true
+},
+"PROPN\tpuntos": {
+"key": "punto|NOUN",
+"initial_ok": true
+},
+"PROPN\tmadama": {
+"key": "madama|NOUN",
+"initial_ok": true
+},
+"PROPN\tbélgica": {
+"key": "bélgico|ADJ",
+"initial_ok": false
+},
+"PROPN\trosales": {
+"key": "rosal|NOUN",
+"initial_ok": false
+},
+"PROPN\tdestino": {
+"key": "destino|NOUN",
+"initial_ok": true
+},
+"PROPN\tcuarto": {
+"key": "cuarto|ADJ",
+"initial_ok": true
+},
+"PROPN\talcaldía": {
+"key": "alcaldía|NOUN",
+"initial_ok": true
+},
+"PROPN\tabc": {
+"key": "abecé|NOUN",
+"initial_ok": true
+},
+"PROPN\tseminario": {
+"key": "seminario|NOUN",
+"initial_ok": false
+},
+"PROPN\tindustria": {
+"key": "industria|NOUN",
+"initial_ok": true
+},
+"PROPN\tpiscis": {
+"key": "piscis|ADJ",
+"initial_ok": false
+},
+"PROPN\tviento": {
+"key": "viento|NOUN",
+"initial_ok": true
+},
+"PROPN\thabia": {
+"key": "había|VERB",
+"initial_ok": true
+},
+"PROPN\tluca": {
+"key": "luca|NOUN",
+"initial_ok": true
+},
+"PROPN\tespeciales": {
+"key": "especial|ADJ",
+"initial_ok": true
+},
+"PROPN\ttercera": {
+"key": "tercero|ADJ",
+"initial_ok": true
+},
+"PROPN\tcuarta": {
+"key": "cuarto|ADJ",
+"initial_ok": true
+},
+"PROPN\tindonesia": {
+"key": "indonesia|NOUN",
+"initial_ok": false
+},
+"PROPN\troque": {
+"key": "roque|NOUN",
+"initial_ok": false
+},
+"PROPN\tjuanito": {
+"key": "juanito|NOUN",
+"initial_ok": false
+},
+"PROPN\tbienestar": {
+"key": "bienestar|NOUN",
+"initial_ok": true
+},
+"PROPN\testrés": {
+"key": "estrés|NOUN",
+"initial_ok": true
+},
+"PROPN\tsemana": {
+"key": "semana|NOUN",
+"initial_ok": true
+},
+"PROPN\tciencias": {
+"key": "ciencia|NOUN",
+"initial_ok": true
+},
+"PROPN\tnaturales": {
+"key": "natural|ADJ",
+"initial_ok": true
+},
+"PROPN\tarte": {
+"key": "arte|NOUN",
+"initial_ok": true
+},
+"PROPN\tescobar": {
+"key": "escobar|VERB",
+"initial_ok": false
+},
+"PROPN\tputa": {
+"key": "puta|NOUN",
+"initial_ok": true
+},
+"PROPN\tprovincial": {
+"key": "provincial|ADJ",
+"initial_ok": true
+},
+"PROPN\tfrontera": {
+"key": "frontera|NOUN",
+"initial_ok": false
+},
+"PROPN\tpolítica": {
+"key": "política|NOUN",
+"initial_ok": true
+},
+"PROPN\tmano": {
+"key": "mano|NOUN",
+"initial_ok": true
+},
+"PROPN\tgimnasia": {
+"key": "gimnasia|NOUN",
+"initial_ok": true
+},
+"PROPN\tlagos": {
+"key": "lago|NOUN",
+"initial_ok": true
+},
+"PROPN\tnivel": {
+"key": "nivel|NOUN",
+"initial_ok": true
+},
+"PROPN\tpendejo": {
+"key": "pendejo|NOUN",
+"initial_ok": true
+},
+"PROPN\tcanarias": {
+"key": "canario|ADJ",
+"initial_ok": false
+},
+"PROPN\tvivienda": {
+"key": "vivienda|NOUN",
+"initial_ok": true
+},
+"PROPN\tarca": {
+"key": "arca|NOUN",
+"initial_ok": true
+},
+"PROPN\tpaulina": {
+"key": "paulino|ADJ",
+"initial_ok": false
+},
+"PROPN\tdiputados": {
+"key": "diputado|NOUN",
+"initial_ok": true
+},
+"PROPN\tsalto": {
+"key": "salto|NOUN",
+"initial_ok": false
+},
+"PROPN\tmexicana": {
+"key": "mexicana|NOUN",
+"initial_ok": true
+},
+"PROPN\tterritorial": {
+"key": "territorial|ADJ",
+"initial_ok": true
+},
+"PROPN\tcapital": {
+"key": "capital|ADJ",
+"initial_ok": false
+},
+"PROPN\tmariana": {
+"key": "mariano|ADJ",
+"initial_ok": false
+},
+"PROPN\tnasa": {
+"key": "nasa|NOUN",
+"initial_ok": true
+},
+"PROPN\tjedi": {
+"key": "jedi|NOUN",
+"initial_ok": true
+},
+"PROPN\tdorado": {
+"key": "dorado|ADJ",
+"initial_ok": false
+},
+"PROPN\tvirrey": {
+"key": "virrey|NOUN",
+"initial_ok": false
+},
+"PROPN\tnavarra": {
+"key": "navarra|NOUN",
+"initial_ok": false
+},
+"PROPN\tcapricornio": {
+"key": "capricornio|ADJ",
+"initial_ok": false
+},
+"PROPN\teconomía": {
+"key": "economía|NOUN",
+"initial_ok": true
+},
+"PROPN\tcolor": {
+"key": "color|NOUN",
+"initial_ok": true
+},
+"PROPN\tsalamanca": {
+"key": "salamanca|NOUN",
+"initial_ok": false
+},
+"PROPN\trevista": {
+"key": "revista|NOUN",
+"initial_ok": true
+},
+"PROPN\tfuente": {
+"key": "fuente|NOUN",
+"initial_ok": false
+},
+"PROPN\tdesarrollo": {
+"key": "desarrollo|NOUN",
+"initial_ok": true
+},
+"PROPN\ttelevisión": {
+"key": "televisión|NOUN",
+"initial_ok": true
+},
+"PROPN\tchef": {
+"key": "chef|NOUN",
+"initial_ok": true
+},
+"PROPN\tsector": {
+"key": "sector|NOUN",
+"initial_ok": true
+},
+"PROPN\tprado": {
+"key": "prado|NOUN",
+"initial_ok": false
+},
+"PROPN\tgalilea": {
+"key": "galilea|NOUN",
+"initial_ok": false
+},
+"PROPN\tequipo": {
+"key": "equipo|NOUN",
+"initial_ok": true
+},
+"PROPN\tapertura": {
+"key": "apertura|NOUN",
+"initial_ok": true
+},
+"PROPN\tchaco": {
+"key": "chaco|NOUN",
+"initial_ok": false
+},
+"PROPN\tsub": {
+"key": "sub|ADP",
+"initial_ok": true
+},
+"PROPN\tsecretaría": {
+"key": "secretaría|NOUN",
+"initial_ok": true
+},
+"PROPN\tuniversidades": {
+"key": "universidad|NOUN",
+"initial_ok": true
+},
+"PROPN\tmaratón": {
+"key": "maratón|NOUN",
+"initial_ok": true
+},
+"PROPN\tpiloto": {
+"key": "piloto|NOUN",
+"initial_ok": true
+},
+"PROPN\tfoto": {
+"key": "foto|NOUN",
+"initial_ok": true
+},
+"PROPN\tclick": {
+"key": "clic|NOUN",
+"initial_ok": true
+},
+"PROPN\trural": {
+"key": "rural|ADJ",
+"initial_ok": true
+},
+"PROPN\tsalinas": {
+"key": "salina|NOUN",
+"initial_ok": false
+},
+"PROPN\tmateria": {
+"key": "materia|NOUN",
+"initial_ok": true
+},
+"PROPN\tcancillería": {
+"key": "cancillería|NOUN",
+"initial_ok": true
+},
+"PROPN\tliteratura": {
+"key": "literatura|NOUN",
+"initial_ok": true
+},
+"PROPN\tnobel": {
+"key": "nobel|NOUN",
+"initial_ok": true
+},
+"PROPN\tset": {
+"key": "set|NOUN",
+"initial_ok": true
+},
+"PROPN\tmolina": {
+"key": "molinar|VERB",
+"initial_ok": false
+},
+"PROPN\tacceso": {
+"key": "acceso|NOUN",
+"initial_ok": true
+},
+"PROPN\tpay": {
+"key": "pay|NOUN",
+"initial_ok": true
+},
+"PROPN\tdragón": {
+"key": "dragón|NOUN",
+"initial_ok": true
+},
+"PROPN\timagen": {
+"key": "imagen|NOUN",
+"initial_ok": true
+},
+"PROPN\tfecha": {
+"key": "fecha|NOUN",
+"initial_ok": true
+},
+"PROPN\tincas": {
+"key": "inca|NOUN",
+"initial_ok": true
+},
+"PROPN\tdata": {
+"key": "data|NOUN",
+"initial_ok": true
+},
+"PROPN\tigualdad": {
+"key": "igualdad|NOUN",
+"initial_ok": true
+},
+"PROPN\tvideo": {
+"key": "video|NOUN",
+"initial_ok": true
+},
+"PROPN\tprime": {
+"key": "prime|NOUN",
+"initial_ok": true
+},
+"PROPN\tpetro": {
+"key": "petro|NOUN",
+"initial_ok": false
+},
+"PROPN\tfamiliar": {
+"key": "familiar|ADJ",
+"initial_ok": true
+},
+"PROPN\tsosa": {
+"key": "sosa|NOUN",
+"initial_ok": false
+},
+"PROPN\trocío": {
+"key": "rocío|NOUN",
+"initial_ok": false
+},
+"PROPN\treforma": {
+"key": "reforma|NOUN",
+"initial_ok": true
+},
+"PROPN\tsirio": {
+"key": "sirio|ADJ",
+"initial_ok": false
+},
+"PROPN\thonduras": {
+"key": "hondura|NOUN",
+"initial_ok": false
+},
+"PROPN\tplay": {
+"key": "play|NOUN",
+"initial_ok": false
+},
+"PROPN\tinfinito": {
+"key": "infinito|ADJ",
+"initial_ok": true
+},
+"PROPN\tprevención": {
+"key": "prevención|NOUN",
+"initial_ok": true
+},
+"PROPN\tplaya": {
+"key": "playa|NOUN",
+"initial_ok": true
+},
+"PROPN\tconcha": {
+"key": "concha|NOUN",
+"initial_ok": false
+},
+"PROPN\torlando": {
+"key": "orlar|VERB",
+"initial_ok": false
+},
+"PROPN\tgallo": {
+"key": "gallo|NOUN",
+"initial_ok": false
+},
+"PROPN\thermoso": {
+"key": "hermoso|ADJ",
+"initial_ok": true
+},
+"PROPN\ttuerto": {
+"key": "tuerto|ADJ",
+"initial_ok": true
+},
+"PROPN\tcolección": {
+"key": "colección|NOUN",
+"initial_ok": true
+},
+"PROPN\tlomas": {
+"key": "loma|NOUN",
+"initial_ok": true
+},
+"PROPN\tpress": {
+"key": "press|NOUN",
+"initial_ok": true
+},
+"PROPN\tlima": {
+"key": "lima|NOUN",
+"initial_ok": false
+},
+"PROPN\tgranada": {
+"key": "granada|NOUN",
+"initial_ok": false
+},
+"PROPN\tcheck": {
+"key": "check|NOUN",
+"initial_ok": true
+},
+"PROPN\tsida": {
+"key": "síndrome|NOUN",
+"initial_ok": true
+},
+"PROPN\tplaneta": {
+"key": "planeta|NOUN",
+"initial_ok": true
+},
+"PROPN\tcomunicación": {
+"key": "comunicación|NOUN",
+"initial_ok": true
+},
+"PROPN\tpt": {
+"key": "pt|ADJ",
+"initial_ok": true
+},
+"PROPN\tratón": {
+"key": "ratón|NOUN",
+"initial_ok": true
+},
+"PROPN\taudiencia": {
+"key": "audiencia|NOUN",
+"initial_ok": false
+},
+"PROPN\tdeportiva": {
+"key": "deportivo|ADJ",
+"initial_ok": true
+},
+"PROPN\tcasas": {
+"key": "casa|NOUN",
+"initial_ok": false
+},
+"PROPN\tfortuna": {
+"key": "fortuna|NOUN",
+"initial_ok": true
+},
+"PROPN\truta": {
+"key": "ruta|NOUN",
+"initial_ok": true
+},
+"PROPN\trica": {
+"key": "rico|ADJ",
+"initial_ok": true
+},
+"PROPN\tzapata": {
+"key": "zapata|NOUN",
+"initial_ok": false
+},
+"PROPN\tdirectiva": {
+"key": "directiva|NOUN",
+"initial_ok": true
+},
+"PROPN\tgéminis": {
+"key": "géminis|ADJ",
+"initial_ok": false
+},
+"PROPN\tcasco": {
+"key": "casco|NOUN",
+"initial_ok": true
+},
+"PROPN\tfuriosa": {
+"key": "furioso|ADJ",
+"initial_ok": true
+},
+"PROPN\tcaja": {
+"key": "caja|NOUN",
+"initial_ok": true
+},
+"PROPN\tsilvestre": {
+"key": "silvestre|ADJ",
+"initial_ok": true
+},
+"PROPN\tsegun": {
+"key": "según|ADP",
+"initial_ok": true
+},
+"PROPN\tcooperación": {
+"key": "cooperación|NOUN",
+"initial_ok": true
+},
+"PROPN\tindependiente": {
+"key": "independiente|ADJ",
+"initial_ok": true
+},
+"PROPN\tpadres": {
+"key": "padre|NOUN",
+"initial_ok": true
+},
+"PROPN\tlibra": {
+"key": "libra|NOUN",
+"initial_ok": false
+},
+"PROPN\tcampeonato": {
+"key": "campeonato|NOUN",
+"initial_ok": true
+},
+"PROPN\tprovincia": {
+"key": "provincia|NOUN",
+"initial_ok": true
+},
+"PROPN\tserrano": {
+"key": "serrano|ADJ",
+"initial_ok": false
+},
+"PROPN\tintegral": {
+"key": "integral|ADJ",
+"initial_ok": true
+},
+"PROPN\tjacinto": {
+"key": "jacinto|NOUN",
+"initial_ok": false
+},
+"PROPN\testadio": {
+"key": "estadio|NOUN",
+"initial_ok": true
+},
+"PROPN\tmercado": {
+"key": "mercado|NOUN",
+"initial_ok": false
+},
+"PROPN\tbajo": {
+"key": "bajo|ADJ",
+"initial_ok": true
+},
+"PROPN\tchihuahua": {
+"key": "chihuahua|NOUN",
+"initial_ok": false
+},
+"PROPN\tíndice": {
+"key": "índice|NOUN",
+"initial_ok": true
+},
+"PROPN\ttour": {
+"key": "tour|NOUN",
+"initial_ok": false
+},
+"PROPN\talcázar": {
+"key": "alcázar|NOUN",
+"initial_ok": false
+},
+"PROPN\tinfantil": {
+"key": "infantil|ADJ",
+"initial_ok": true
+},
+"PROPN\tcarrera": {
+"key": "carrera|NOUN",
+"initial_ok": false
+},
+"PROPN\tfútbol": {
+"key": "fútbol|NOUN",
+"initial_ok": true
+},
+"PROPN\tinvestigaciones": {
+"key": "investigación|NOUN",
+"initial_ok": true
+},
+"PROPN\tatlético": {
+"key": "atlético|ADJ",
+"initial_ok": false
+},
+"PROPN\tsoto": {
+"key": "soto|NOUN",
+"initial_ok": false
+},
+"PROPN\tnacha": {
+"key": "nacha|NOUN",
+"initial_ok": true
+},
+"PROPN\tleader": {
+"key": "líder|NOUN",
+"initial_ok": true
+},
+"PROPN\tprofesional": {
+"key": "profesional|ADJ",
+"initial_ok": true
+},
+"PROPN\trocha": {
+"key": "rocha|NOUN",
+"initial_ok": false
+},
+"PROPN\tpatricio": {
+"key": "patricio|ADJ",
+"initial_ok": false
+},
+"PROPN\tturismo": {
+"key": "turismo|NOUN",
+"initial_ok": true
+},
+"PROPN\tplataforma": {
+"key": "plataforma|NOUN",
+"initial_ok": true
+},
+"PROPN\tpp": {
+"key": "pp|NOUN",
+"initial_ok": true
+},
+"PROPN\teuropeo": {
+"key": "europeo|ADJ",
+"initial_ok": true
+},
+"PROPN\táguilas": {
+"key": "águila|NOUN",
+"initial_ok": false
+},
+"PROPN\tlit": {
+"key": "literalmente|ADV",
+"initial_ok": true
+},
+"PROPN\tvs": {
+"key": "vs|ADP",
+"initial_ok": true
+},
+"PROPN\teducativa": {
+"key": "educativo|ADJ",
+"initial_ok": true
+},
+"PROPN\trincón": {
+"key": "rincón|NOUN",
+"initial_ok": false
+},
+"PROPN\tsultán": {
+"key": "sultán|NOUN",
+"initial_ok": true
+},
+"PROPN\tclemencia": {
+"key": "clemencia|NOUN",
+"initial_ok": false
+},
+"PROPN\ttráfico": {
+"key": "tráfico|NOUN",
+"initial_ok": true
+},
+"PROPN\tinternet": {
+"key": "internet|NOUN",
+"initial_ok": true
+},
+"PROPN\tmeteorológico": {
+"key": "meteorológico|ADJ",
+"initial_ok": true
+},
+"PROPN\tautónoma": {
+"key": "autónoma|NOUN",
+"initial_ok": true
+},
+"PROPN\tlicenciado": {
+"key": "licenciado|ADJ",
+"initial_ok": true
+},
+"PROPN\tárea": {
+"key": "área|NOUN",
+"initial_ok": true
+},
+"PROPN\tmedios": {
+"key": "medio|NOUN",
+"initial_ok": true
+},
+"PROPN\tbajos": {
+"key": "bajo|ADJ",
+"initial_ok": true
+},
+"PROPN\tgaza": {
+"key": "gaza|NOUN",
+"initial_ok": false
+},
+"PROPN\tanual": {
+"key": "anual|ADJ",
+"initial_ok": true
+},
+"PROPN\tregión": {
+"key": "región|NOUN",
+"initial_ok": false
+},
+"PROPN\tcoordinación": {
+"key": "coordinación|NOUN",
+"initial_ok": true
+},
+"PROPN\ttecnología": {
+"key": "tecnología|NOUN",
+"initial_ok": true
+},
+"PROPN\tescribano": {
+"key": "escribano|NOUN",
+"initial_ok": false
+},
+"PROPN\tolímpico": {
+"key": "olímpico|ADJ",
+"initial_ok": true
+},
+"PROPN\tsociales": {
+"key": "social|ADJ",
+"initial_ok": true
+},
+"PROPN\tpatrimonio": {
+"key": "patrimonio|NOUN",
+"initial_ok": false
+},
+"PROPN\tvaronil": {
+"key": "varonil|ADJ",
+"initial_ok": true
+},
+"PROPN\turbano": {
+"key": "urbano|ADJ",
+"initial_ok": false
+},
+"PROPN\tinfante": {
+"key": "infante|NOUN",
+"initial_ok": false
+},
+"PROPN\tarchivo": {
+"key": "archivo|NOUN",
+"initial_ok": true
+},
+"PROPN\tjara": {
+"key": "jara|NOUN",
+"initial_ok": false
+},
+"PROPN\tsaudita": {
+"key": "saudita|ADJ",
+"initial_ok": true
+},
+"PROPN\tcelebrity": {
+"key": "celebrity|NOUN",
+"initial_ok": true
+},
+"PROPN\ttribuna": {
+"key": "tribuna|NOUN",
+"initial_ok": true
+},
+"PROPN\tleticia": {
+"key": "leticia|NOUN",
+"initial_ok": false
+},
+"PROPN\tcolon": {
+"key": "colon|NOUN",
+"initial_ok": true
+},
+"PROPN\tcortes": {
+"key": "cortar|VERB",
+"initial_ok": false
+},
+"PROPN\tforense": {
+"key": "forense|ADJ",
+"initial_ok": true
+},
+"PROPN\tcelestina": {
+"key": "celestina|NOUN",
+"initial_ok": false
+},
+"PROPN\tuniversitario": {
+"key": "universitario|ADJ",
+"initial_ok": true
+},
+"PROPN\tweb": {
+"key": "web|NOUN",
+"initial_ok": true
+},
+"PROPN\tuniversitaria": {
+"key": "universitario|ADJ",
+"initial_ok": true
+},
+"PROPN\tvolcán": {
+"key": "volcán|NOUN",
+"initial_ok": true
+},
+"PROPN\tcalderón": {
+"key": "calderón|NOUN",
+"initial_ok": false
+},
+"PROPN\tperla": {
+"key": "perla|NOUN",
+"initial_ok": false
+},
+"PROPN\tdigital": {
+"key": "digital|ADJ",
+"initial_ok": true
+},
+"PROPN\tadrián": {
+"key": "adrián|NOUN",
+"initial_ok": false
+},
+"PROPN\tcolo": {
+"key": "colar|VERB",
+"initial_ok": true
+},
+"PROPN\toficio": {
+"key": "oficio|NOUN",
+"initial_ok": true
+},
+"PROPN\tmineral": {
+"key": "mineral|ADJ",
+"initial_ok": true
+},
+"PROPN\tgénero": {
+"key": "género|NOUN",
+"initial_ok": true
+},
+"PROPN\ttoros": {
+"key": "toro|NOUN",
+"initial_ok": true
+},
+"PROPN\tcomarca": {
+"key": "comarca|NOUN",
+"initial_ok": true
+},
+"PROPN\tpaíses": {
+"key": "país|NOUN",
+"initial_ok": true
+},
+"PROPN\tselección": {
+"key": "selección|NOUN",
+"initial_ok": true
+},
+"PROPN\tuse": {
+"key": "usar|VERB",
+"initial_ok": true
+},
+"PROPN\tcorrea": {
+"key": "correa|NOUN",
+"initial_ok": false
+},
+"PROPN\tartificial": {
+"key": "artificial|ADJ",
+"initial_ok": true
+},
+"PROPN\tdoradas": {
+"key": "dorado|ADJ",
+"initial_ok": true
+},
+"PROPN\tarce": {
+"key": "arce|NOUN",
+"initial_ok": false
+},
+"PROPN\tpluma": {
+"key": "pluma|NOUN",
+"initial_ok": true
+},
+"PROPN\tpokémon": {
+"key": "pokémon|NOUN",
+"initial_ok": true
+},
+"PROPN\tmunicipio": {
+"key": "municipio|NOUN",
+"initial_ok": true
+},
+"PROPN\tazores": {
+"key": "azorar|VERB",
+"initial_ok": false
+},
+"PROPN\tquito": {
+"key": "quitar|VERB",
+"initial_ok": false
+},
+"PROPN\tasunción": {
+"key": "asunción|NOUN",
+"initial_ok": false
+},
+"PROPN\tgestión": {
+"key": "gestión|NOUN",
+"initial_ok": true
+},
+"PROPN\tmachado": {
+"key": "machado|NOUN",
+"initial_ok": false
+},
+"PROPN\tcontraloría": {
+"key": "contraloría|NOUN",
+"initial_ok": true
+},
+"PROPN\tmaduro": {
+"key": "maduro|ADJ",
+"initial_ok": false
+},
+"PROPN\tapp": {
+"key": "app|NOUN",
+"initial_ok": true
+},
+"PROPN\tpeña": {
+"key": "peña|NOUN",
+"initial_ok": false
+},
+"PROPN\tmovilidad": {
+"key": "movilidad|NOUN",
+"initial_ok": true
+},
+"PROPN\tbolívar": {
+"key": "bolívar|NOUN",
+"initial_ok": false
+},
+"PROPN\tciudadana": {
+"key": "ciudadana|NOUN",
+"initial_ok": true
+},
+"PROPN\tparticipación": {
+"key": "participación|NOUN",
+"initial_ok": true
+},
+"PROPN\tinnovación": {
+"key": "innovación|NOUN",
+"initial_ok": true
+},
+"PROPN\tobrador": {
+"key": "obrador|NOUN",
+"initial_ok": false
+},
+"PROPN\tactualidad": {
+"key": "actualidad|NOUN",
+"initial_ok": true
+},
+"PROPN\tinteramericana": {
+"key": "interamericano|ADJ",
+"initial_ok": true
+},
+"PROPN\tdiscapacidad": {
+"key": "discapacidad|NOUN",
+"initial_ok": true
+},
+"PROPN\tcomentarios": {
+"key": "comentario|NOUN",
+"initial_ok": true
+},
+"PROPN\tgobernación": {
+"key": "gobernación|NOUN",
+"initial_ok": true
+},
+"PROPN\trepresentantes": {
+"key": "representante|NOUN",
+"initial_ok": true
+},
+"PROPN\teconómica": {
+"key": "económico|ADJ",
+"initial_ok": true
+},
+"PROPN\tquintana": {
+"key": "quintana|NOUN",
+"initial_ok": false
+},
+"PROPN\troo": {
+"key": "roer|VERB",
+"initial_ok": true
+},
+"PROPN\tcamila": {
+"key": "camila|NOUN",
+"initial_ok": false
+},
+"PROPN\ttorneo": {
+"key": "torneo|NOUN",
+"initial_ok": true
+},
+"PROPN\tríos": {
+"key": "río|NOUN",
+"initial_ok": false
+},
+"PROPN\tclausura": {
+"key": "clausura|NOUN",
+"initial_ok": true
+},
+"PROPN\trobledo": {
+"key": "robledo|NOUN",
+"initial_ok": true
+},
+"PROPN\tmanzanares": {
+"key": "manzanar|NOUN",
+"initial_ok": true
+},
+"PROPN\testrada": {
+"key": "estrada|NOUN",
+"initial_ok": false
+},
+"PROPN\ttiktok": {
+"key": "tiktok|NOUN",
+"initial_ok": true
+},
+"PROPN\tpresupuesto": {
+"key": "presupuesto|NOUN",
+"initial_ok": true
+},
+"PROPN\tclimático": {
+"key": "climático|ADJ",
+"initial_ok": true
+},
+"PROPN\temiratos": {
+"key": "emirato|NOUN",
+"initial_ok": true
+},
+"PROPN\tárabes": {
+"key": "árabe|NOUN",
+"initial_ok": true
+},
+"PROPN\tranking": {
+"key": "ranking|NOUN",
+"initial_ok": true
+},
+"PROPN\tolmos": {
+"key": "olmo|NOUN",
+"initial_ok": true
+},
+"PROPN\tmorena": {
+"key": "morena|NOUN",
+"initial_ok": false
+},
+"PROPN\tpleno": {
+"key": "pleno|NOUN",
+"initial_ok": true
+},
+"PROPN\tcatar": {
+"key": "catar|VERB",
+"initial_ok": false
+},
+"PROPN\tinfraestructura": {
+"key": "infraestructura|NOUN",
+"initial_ok": true
+},
+"PROPN\tredacción": {
+"key": "redacción|NOUN",
+"initial_ok": true
+},
+"PROPN\tpremium": {
+"key": "premium|ADJ",
+"initial_ok": true
+},
+"PROPN\tsudamericana": {
+"key": "sudamericana|NOUN",
+"initial_ok": true
+},
+"PROPN\tcuevas": {
+"key": "cueva|NOUN",
+"initial_ok": false
+},
+"PROPN\targentino": {
+"key": "argentino|ADJ",
+"initial_ok": true
+},
+"PROPN\tlibertadores": {
+"key": "libertador|NOUN",
+"initial_ok": true
+},
+"PROPN\tmonumental": {
+"key": "monumental|ADJ",
+"initial_ok": true
+},
+"PROPN\texpo": {
+"key": "exposición|NOUN",
+"initial_ok": true
+},
+"PROPN\tmunicipalidad": {
+"key": "municipalidad|NOUN",
+"initial_ok": true
+},
+"PROPN\temail": {
+"key": "email|NOUN",
+"initial_ok": true
+},
+"PROPN\tcarmona": {
+"key": "carmona|NOUN",
+"initial_ok": false
+},
+"PROPN\tprocuraduría": {
+"key": "procuraduría|NOUN",
+"initial_ok": true
+},
+"PROPN\tinstrucción": {
+"key": "instrucción|NOUN",
+"initial_ok": true
+},
+"PROPN\tzacatecas": {
+"key": "zacateco|ADJ",
+"initial_ok": false
+},
+"PROPN\testadística": {
+"key": "estadística|NOUN",
+"initial_ok": true
+},
+"PROPN\tmeza": {
+"key": "mecer|VERB",
+"initial_ok": false
+},
+"PROPN\tregional": {
+"key": "regional|ADJ",
+"initial_ok": true
+},
+"PROPN\turuguaya": {
+"key": "uruguaya|NOUN",
+"initial_ok": true
+},
+"PROPN\telectoral": {
+"key": "electoral|ADJ",
+"initial_ok": true
+},
+"PROPN\tchiche": {
+"key": "chiche|ADJ",
+"initial_ok": true
+},
+"PROPN\tespecializada": {
+"key": "especializado|ADJ",
+"initial_ok": true
+},
+"PROPN\tquiñones": {
+"key": "quiñón|NOUN",
+"initial_ok": false
+},
+"PROPN\trolando": {
+"key": "rolar|VERB",
+"initial_ok": false
+},
+"PROPN\tlegislativo": {
+"key": "legislativo|ADJ",
+"initial_ok": true
+},
+"PROPN\tlegislatura": {
+"key": "legislatura|NOUN",
+"initial_ok": true
+},
+"PROPN\tcentros": {
+"key": "centro|NOUN",
+"initial_ok": true
+},
+"PROPN\tcolombiana": {
+"key": "colombiano|ADJ",
+"initial_ok": true
+},
+"PROPN\tvalenciana": {
+"key": "valenciana|NOUN",
+"initial_ok": true
+},
+"PROPN\tmillonarios": {
+"key": "millonario|ADJ",
+"initial_ok": true
+},
+"PROPN\tcowboys": {
+"key": "cowboy|NOUN",
+"initial_ok": true
+},
+"PROPN\tcerro": {
+"key": "cerro|NOUN",
+"initial_ok": true
+},
+"PROPN\tformación": {
+"key": "formación|NOUN",
+"initial_ok": true
+},
+"PROPN\tconstitucional": {
+"key": "constitucional|ADJ",
+"initial_ok": true
+},
+"PROPN\trioja": {
+"key": "rioja|NOUN",
+"initial_ok": false
+},
+"PROPN\tfemenil": {
+"key": "femenil|ADJ",
+"initial_ok": true
+},
+"PROPN\thidalgo": {
+"key": "hidalgo|ADJ",
+"initial_ok": false
+},
+"PROPN\teconómico": {
+"key": "económico|ADJ",
+"initial_ok": true
+},
+"PROPN\timpuesto": {
+"key": "impuesto|NOUN",
+"initial_ok": true
+},
+"PROPN\tacuña": {
+"key": "acuñar|VERB",
+"initial_ok": false
+},
+"PROPN\tdeporte": {
+"key": "deporte|NOUN",
+"initial_ok": true
+},
+"PROPN\ttorreón": {
+"key": "torreón|NOUN",
+"initial_ok": true
+},
+"PROPN\tsaltillo": {
+"key": "saltillo|NOUN",
+"initial_ok": true
+},
+"PROPN\tconsejería": {
+"key": "consejería|NOUN",
+"initial_ok": true
+},
+"PROPN\ttransformación": {
+"key": "transformación|NOUN",
+"initial_ok": true
+},
+"PROPN\therrera": {
+"key": "herrera|NOUN",
+"initial_ok": false
+},
+"PROPN\tponiente": {
+"key": "poniente|ADJ",
+"initial_ok": true
+},
+"PROPN\tprovincias": {
+"key": "provincia|NOUN",
+"initial_ok": true
+},
+"PROPN\tlaboral": {
+"key": "laboral|ADJ",
+"initial_ok": true
+},
+"PROPN\tatlante": {
+"key": "atlante|NOUN",
+"initial_ok": true
+},
+"PROPN\texpansión": {
+"key": "expansión|NOUN",
+"initial_ok": true
+},
+"PROPN\tliguilla": {
+"key": "liguilla|NOUN",
+"initial_ok": true
+},
+"PROPN\tchivas": {
+"key": "chivar|VERB",
+"initial_ok": true
+},
+"PROPN\tpumas": {
+"key": "puma|NOUN",
+"initial_ok": true
+},
+"PROPN\trebaño": {
+"key": "rebaño|NOUN",
+"initial_ok": true
+},
+"PROPN\thuerta": {
+"key": "huerta|NOUN",
+"initial_ok": false
+},
+"PROPN\tcanaria": {
+"key": "canaria|NOUN",
+"initial_ok": true
+},
+"PROPN\tcabildo": {
+"key": "cabildo|NOUN",
+"initial_ok": true
+},
+"PROPN\tburgos": {
+"key": "burgo|NOUN",
+"initial_ok": false
+},
+"PROPN\tpanista": {
+"key": "panista|ADJ",
+"initial_ok": true
+},
+"PROPN\tjornada": {
+"key": "jornada|NOUN",
+"initial_ok": true
+},
+"PROPN\tencarnación": {
+"key": "encarnación|NOUN",
+"initial_ok": false
+},
+"PROPN\tcártel": {
+"key": "cartel|NOUN",
+"initial_ok": true
+},
+"PROPN\tcárdenas": {
+"key": "cárdeno|ADJ",
+"initial_ok": false
+},
+"PROPN\tonline": {
+"key": "online|ADJ",
+"initial_ok": true
+},
+"PROPN\teducativo": {
+"key": "educativo|ADJ",
+"initial_ok": true
+},
+"PROPN\tinstitucional": {
+"key": "institucional|ADJ",
+"initial_ok": true
+},
+"PROPN\tesequibo": {
+"key": "esequibo|ADJ",
+"initial_ok": true
+},
+"PROPN\telementos": {
+"key": "elemento|NOUN",
+"initial_ok": true
+},
+"PROPN\trelacionadas": {
+"key": "relacionado|ADJ",
+"initial_ok": true
+},
+"PROPN\tingresos": {
+"key": "ingreso|NOUN",
+"initial_ok": true
+},
+"PROPN\tavellaneda": {
+"key": "avellaneda|NOUN",
+"initial_ok": false
+},
+"PROPN\tfamosos": {
+"key": "famoso|ADJ",
+"initial_ok": true
+},
+"PROPN\talcántara": {
+"key": "alcántara|NOUN",
+"initial_ok": false
+},
+"PROPN\topinión": {
+"key": "opinión|NOUN",
+"initial_ok": true
+},
+"PROPN\tfacundo": {
+"key": "facundo|ADJ",
+"initial_ok": false
+},
+"PROPN\tbitcoin": {
+"key": "bitcoin|NOUN",
+"initial_ok": true
+},
+"PROPN\tcarrillo": {
+"key": "carrillo|NOUN",
+"initial_ok": false
+},
+"PROPN\tobregón": {
+"key": "obregón|ADJ",
+"initial_ok": false
+},
+"PROPN\ttributaria": {
+"key": "tributario|ADJ",
+"initial_ok": true
+},
+"PROPN\tturno": {
+"key": "turno|NOUN",
+"initial_ok": true
+},
+"PROPN\tinformados": {
+"key": "informado|ADJ",
+"initial_ok": true
+},
+"PROPN\trayados": {
+"key": "rayado|ADJ",
+"initial_ok": true
+},
+"PROPN\tplatero": {
+"key": "platero|NOUN",
+"initial_ok": true
+},
+"PROPN\thurtado": {
+"key": "hurtar|VERB",
+"initial_ok": false
+},
+"PROPN\tazteca": {
+"key": "azteca|ADJ",
+"initial_ok": true
+},
+"PROPN\ternestina": {
+"key": "ernestino|ADJ",
+"initial_ok": false
+},
+"PROPN\tbolaños": {
+"key": "bolaño|NOUN",
+"initial_ok": false
+},
+"PROPN\tinca": {
+"key": "inca|NOUN",
+"initial_ok": true
+},
+"PROPN\tpunk": {
+"key": "punk|NOUN",
+"initial_ok": true
+},
+"PROPN\tamplio": {
+"key": "amplio|ADJ",
+"initial_ok": true
+},
+"PROPN\tcel": {
+"key": "cel|NOUN",
+"initial_ok": true
+},
+"PROPN\tespañoles": {
+"key": "español|ADJ",
+"initial_ok": true
+},
+"PROPN\tchiquitos": {
+"key": "chiquito|ADJ",
+"initial_ok": true
+},
+"PROPN\tfutbol": {
+"key": "fútbol|NOUN",
+"initial_ok": true
+},
+"PROPN\tfiles": {
+"key": "filar|VERB",
+"initial_ok": true
+},
+"PROPN\tromanos": {
+"key": "romano|ADJ",
+"initial_ok": false
+},
+"PROPN\tlis": {
+"key": "lis|NOUN",
+"initial_ok": true
+},
+"PROPN\tbrava": {
+"key": "bravo|ADJ",
+"initial_ok": true
+},
+"PROPN\tperico": {
+"key": "perico|NOUN",
+"initial_ok": false
+},
+"PROPN\tconcello": {
+"key": "concello|NOUN",
+"initial_ok": true
+},
+"PROPN\tilustración": {
+"key": "ilustración|NOUN",
+"initial_ok": false
+},
+"PROPN\tmenester": {
+"key": "menester|NOUN",
+"initial_ok": true
+},
+"PROPN\twriting": {
+"key": "writing|NOUN",
+"initial_ok": true
+},
+"PROPN\tpreserve": {
+"key": "preservar|VERB",
+"initial_ok": true
+},
+"PROPN\tdomain": {
+"key": "domain|NOUN",
+"initial_ok": true
+},
+"PROPN\tlinks": {
+"key": "link|NOUN",
+"initial_ok": true
+},
+"PROPN\tebook": {
+"key": "ebook|NOUN",
+"initial_ok": true
+},
+"PROPN\tcomendador": {
+"key": "comendador|NOUN",
+"initial_ok": true
+},
+"PROPN\tfile": {
+"key": "filar|VERB",
+"initial_ok": true
+},
+"PROPN\trules": {
+"key": "rular|VERB",
+"initial_ok": true
+},
+"PROPN\tebooks": {
+"key": "ebook|NOUN",
+"initial_ok": true
+},
+"PROPN\trobín": {
+"key": "robín|NOUN",
+"initial_ok": true
+},
+"PROPN\tá": {
+"key": "a|ADP",
+"initial_ok": true
+},
+"PROPN\tvulgo": {
+"key": "vulgo|NOUN",
+"initial_ok": true
+},
+"PROPN\tbermejo": {
+"key": "bermejo|ADJ",
+"initial_ok": false
+},
+"PROPN\tmagestad": {
+"key": "majestad|NOUN",
+"initial_ok": true
+},
+"PROPN\tchamizo": {
+"key": "chamizo|NOUN",
+"initial_ok": true
+},
+"PROPN\tará": {
+"key": "arar|VERB",
+"initial_ok": true
+},
+"PROPN\tfrondoso": {
+"key": "frondoso|ADJ",
+"initial_ok": true
+}
+}
