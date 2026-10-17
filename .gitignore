@@ -1,0 +1,8 @@
+work/
+*.jsonl
+contexts_pool.json
+samples.json
+outputs.jsonl
+requests.jsonl
+segments.jsonl
+.env

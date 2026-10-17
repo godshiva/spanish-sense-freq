@@ -1,0 +1,907 @@
+{
+ "agreement": 0.96,
+ "n": 100,
+ "annotator": "Grok Bot agent (not a human expert)",
+ "items": [
+  {
+   "n": 0,
+   "key": "compañía|NOUN",
+   "ctx": 2,
+   "model": 3,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 1,
+   "key": "mismo|ADJ",
+   "ctx": 9,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 2,
+   "key": "desaparecer|VERB",
+   "ctx": 0,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 3,
+   "key": "tanto|DET",
+   "ctx": 22,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 4,
+   "key": "lanzar|VERB",
+   "ctx": 0,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 5,
+   "key": "elegir|VERB",
+   "ctx": 9,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 6,
+   "key": "presente|ADJ",
+   "ctx": 13,
+   "model": 2,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 7,
+   "key": "especie|NOUN",
+   "ctx": 9,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 8,
+   "key": "producir|VERB",
+   "ctx": 19,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 9,
+   "key": "propio|ADJ",
+   "ctx": 4,
+   "model": 3,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 10,
+   "key": "campaña|NOUN",
+   "ctx": 8,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": true
+  },
+  {
+   "n": 11,
+   "key": "cumplir|VERB",
+   "ctx": 6,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 12,
+   "key": "pero|CCONJ",
+   "ctx": 0,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 13,
+   "key": "demostrar|VERB",
+   "ctx": 15,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 14,
+   "key": "caballo|NOUN",
+   "ctx": 0,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 15,
+   "key": "sector|NOUN",
+   "ctx": 10,
+   "model": 2,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 16,
+   "key": "precioso|ADJ",
+   "ctx": 2,
+   "model": 2,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 17,
+   "key": "ocurrir|VERB",
+   "ctx": 4,
+   "model": 2,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 18,
+   "key": "alcanzar|VERB",
+   "ctx": 4,
+   "model": 2,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 19,
+   "key": "deber|VERB",
+   "ctx": 24,
+   "model": 2,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 20,
+   "key": "tienda|NOUN",
+   "ctx": 7,
+   "model": 2,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 21,
+   "key": "menos|ADV",
+   "ctx": 19,
+   "model": 3,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 22,
+   "key": "encontrar|VERB",
+   "ctx": 4,
+   "model": 4,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 23,
+   "key": "dormir|VERB",
+   "ctx": 14,
+   "model": 2,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 24,
+   "key": "sentido|NOUN",
+   "ctx": 7,
+   "model": 6,
+   "agree": false,
+   "my_label_if_disagree": "other (opinion/view)",
+   "borderline": false
+  },
+  {
+   "n": 25,
+   "key": "conocido|ADJ",
+   "ctx": 0,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 26,
+   "key": "tras|ADP",
+   "ctx": 13,
+   "model": 4,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 27,
+   "key": "modo|NOUN",
+   "ctx": 11,
+   "model": 3,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 28,
+   "key": "línea|NOUN",
+   "ctx": 5,
+   "model": 9,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 29,
+   "key": "parecer|VERB",
+   "ctx": 20,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 30,
+   "key": "bonito|ADJ",
+   "ctx": 0,
+   "model": 2,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 31,
+   "key": "ocurrir|VERB",
+   "ctx": 9,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 32,
+   "key": "que|PRON",
+   "ctx": 14,
+   "model": 2,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 33,
+   "key": "interés|NOUN",
+   "ctx": 1,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 34,
+   "key": "viejo|ADJ",
+   "ctx": 24,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 35,
+   "key": "servicio|NOUN",
+   "ctx": 9,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 36,
+   "key": "abrir|VERB",
+   "ctx": 3,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 37,
+   "key": "acuerdo|NOUN",
+   "ctx": 8,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 38,
+   "key": "esperanza|NOUN",
+   "ctx": 10,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 39,
+   "key": "política|NOUN",
+   "ctx": 9,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 40,
+   "key": "quitar|VERB",
+   "ctx": 17,
+   "model": 4,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 41,
+   "key": "clase|NOUN",
+   "ctx": 3,
+   "model": 5,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 42,
+   "key": "gente|NOUN",
+   "ctx": 14,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 43,
+   "key": "triste|ADJ",
+   "ctx": 5,
+   "model": 3,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": true
+  },
+  {
+   "n": 44,
+   "key": "acto|NOUN",
+   "ctx": 7,
+   "model": 3,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 45,
+   "key": "hasta|ADP",
+   "ctx": 3,
+   "model": 2,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 46,
+   "key": "gustar|VERB",
+   "ctx": 23,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 47,
+   "key": "hecho|ADJ",
+   "ctx": 21,
+   "model": 2,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 48,
+   "key": "hecho|ADJ",
+   "ctx": 13,
+   "model": 3,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 49,
+   "key": "mamá|NOUN",
+   "ctx": 10,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 50,
+   "key": "quedar|VERB",
+   "ctx": 0,
+   "model": 3,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 51,
+   "key": "poner|VERB",
+   "ctx": 16,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 52,
+   "key": "de|ADP",
+   "ctx": 4,
+   "model": 3,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 53,
+   "key": "dulce|ADJ",
+   "ctx": 24,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 54,
+   "key": "a|ADP",
+   "ctx": 12,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 55,
+   "key": "cabeza|NOUN",
+   "ctx": 5,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 56,
+   "key": "dirigir|VERB",
+   "ctx": 21,
+   "model": 5,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 57,
+   "key": "viejo|ADJ",
+   "ctx": 4,
+   "model": 2,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 58,
+   "key": "revelar|VERB",
+   "ctx": 2,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 59,
+   "key": "buscar|VERB",
+   "ctx": 17,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 60,
+   "key": "marchar|VERB",
+   "ctx": 15,
+   "model": 4,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 61,
+   "key": "solo|ADJ",
+   "ctx": 2,
+   "model": 3,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 62,
+   "key": "suponer|VERB",
+   "ctx": 13,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 63,
+   "key": "próximo|ADJ",
+   "ctx": 11,
+   "model": 2,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 64,
+   "key": "revelar|VERB",
+   "ctx": 24,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 65,
+   "key": "entender|VERB",
+   "ctx": 7,
+   "model": 6,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 66,
+   "key": "plan|NOUN",
+   "ctx": 6,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 67,
+   "key": "generar|VERB",
+   "ctx": 1,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 68,
+   "key": "resto|NOUN",
+   "ctx": 2,
+   "model": 2,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": true
+  },
+  {
+   "n": 69,
+   "key": "referir|VERB",
+   "ctx": 23,
+   "model": 3,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 70,
+   "key": "aún|ADV",
+   "ctx": 4,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 71,
+   "key": "acuerdo|NOUN",
+   "ctx": 1,
+   "model": 1,
+   "agree": false,
+   "my_label_if_disagree": "other (idiom ¿de acuerdo? = OK)",
+   "borderline": false
+  },
+  {
+   "n": 72,
+   "key": "elección|NOUN",
+   "ctx": 13,
+   "model": 2,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 73,
+   "key": "elegir|VERB",
+   "ctx": 12,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 74,
+   "key": "matar|VERB",
+   "ctx": 24,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 75,
+   "key": "sala|NOUN",
+   "ctx": 8,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 76,
+   "key": "nota|NOUN",
+   "ctx": 9,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 77,
+   "key": "ser|NOUN",
+   "ctx": 15,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 78,
+   "key": "esposa|NOUN",
+   "ctx": 1,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 79,
+   "key": "jugar|VERB",
+   "ctx": 19,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 80,
+   "key": "para|ADP",
+   "ctx": 3,
+   "model": 5,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 81,
+   "key": "presidente|NOUN",
+   "ctx": 15,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": true
+  },
+  {
+   "n": 82,
+   "key": "ley|NOUN",
+   "ctx": 19,
+   "model": 3,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 83,
+   "key": "buscar|VERB",
+   "ctx": 19,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 84,
+   "key": "éxito|NOUN",
+   "ctx": 4,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 85,
+   "key": "hijo|NOUN",
+   "ctx": 12,
+   "model": 2,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 86,
+   "key": "presentar|VERB",
+   "ctx": 21,
+   "model": 6,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 87,
+   "key": "hablar|VERB",
+   "ctx": 17,
+   "model": 3,
+   "agree": false,
+   "my_label_if_disagree": "1 (talk)",
+   "borderline": false
+  },
+  {
+   "n": 88,
+   "key": "ah|INTJ",
+   "ctx": 10,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 89,
+   "key": "policía|NOUN",
+   "ctx": 11,
+   "model": 2,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 90,
+   "key": "probar|VERB",
+   "ctx": 14,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 91,
+   "key": "cuidado|NOUN",
+   "ctx": 3,
+   "model": 4,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 92,
+   "key": "mar|NOUN",
+   "ctx": 0,
+   "model": 4,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 93,
+   "key": "él|PRON",
+   "ctx": 5,
+   "model": 0,
+   "agree": false,
+   "my_label_if_disagree": "2 (it; 'lo' is the accusative form of él)",
+   "borderline": false
+  },
+  {
+   "n": 94,
+   "key": "programa|NOUN",
+   "ctx": 11,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 95,
+   "key": "resto|NOUN",
+   "ctx": 4,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 96,
+   "key": "objetivo|NOUN",
+   "ctx": 16,
+   "model": 2,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 97,
+   "key": "permitir|VERB",
+   "ctx": 9,
+   "model": 3,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": true
+  },
+  {
+   "n": 98,
+   "key": "nuestro|DET",
+   "ctx": 6,
+   "model": 1,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  },
+  {
+   "n": 99,
+   "key": "cambiar|VERB",
+   "ctx": 1,
+   "model": 2,
+   "agree": true,
+   "my_label_if_disagree": null,
+   "borderline": false
+  }
+ ]
+}

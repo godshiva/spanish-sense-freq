@@ -1,0 +1,36 @@
+{
+ "done": 5103,
+ "spent": 1.0644554999999989,
+ "chunks": [
+  {
+   "batch": "batch_6ad2e7a97cbc8190a823dcc7308bf1af",
+   "n": 300,
+   "cost": 0.06982549999999998,
+   "status": "completed"
+  },
+  {
+   "batch": "batch_6ad2e88bcc7481909bf82021b24b75d1",
+   "n": 1600,
+   "cost": 0.33681719999999915,
+   "status": "completed"
+  },
+  {
+   "batch": "batch_6ad2e9bb64048190b827549905973e7e",
+   "n": 1600,
+   "cost": 0.33300930000000006,
+   "status": "completed"
+  },
+  {
+   "batch": "batch_6ad2eaebbeb4819099a294d76f91ee57",
+   "n": 1600,
+   "cost": 0.32428019999999963,
+   "status": "completed"
+  },
+  {
+   "batch": "batch_6ad2ecd031108190bf377385d4d236fd",
+   "n": 3,
+   "cost": 0.0005233,
+   "status": "completed"
+  }
+ ]
+}

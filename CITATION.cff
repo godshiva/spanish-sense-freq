@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Spanish Sense Frequency List"
+version: "0.1"
+date-released: 2026-10-16
+authors:
+  - family-names: Taylor
+    given-names: Luc
+repository-code: "https://github.com/godshiva/spanish-sense-freq"
+license: CC-BY-SA-4.0
+message: "If you use this dataset, please cite it as below."

@@ -1,0 +1,12 @@
+{
+ "total_tokens": 5803129,
+ "lemmas_requested": 2500,
+ "lemmas_tagged": 2500,
+ "lemmas_untagged": 0,
+ "senses": 6214,
+ "highest_unsampled_fpm": 24.814199374165213,
+ "safe_cutoff_point": 2878,
+ "safe_cutoff_lower_ci": 581,
+ "median_rank_band_top100": 60,
+ "median_rank_band_all": 3015
+}
