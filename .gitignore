@@ -6,3 +6,5 @@ outputs.jsonl
 requests.jsonl
 segments.jsonl
 .env
+__pycache__/
+*.pyc

@@ -1,0 +1,309 @@
+{
+ "seed": 2026,
+ "n": 50,
+ "agree": 48,
+ "agreement": 0.96,
+ "note": "Labels shown are the pre-fix values; borderline accepted: descanso half-time=technical, nieve 'a punto de nieve'=technical, ingresar 'enter'=formal",
+ "items": [
+  {
+   "sense_id": "figura|NOUN|1",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "gratuito|ADJ|1",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "aplicar|VERB|2",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "adecuado|ADJ|1",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "descanso|NOUN|3",
+   "register_shown": "technical",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "hambre|NOUN|1",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "moderno|ADJ|1",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "costa|NOUN|3",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "ninguno|PRON|other",
+   "register_shown": "neutral",
+   "agree": false,
+   "comment": "'Mal ninguno' is archaic, LLM said neutral (fixed)"
+  },
+  {
+   "sense_id": "lamentar|VERB|2",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "ingresar|VERB|3",
+   "register_shown": "formal",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "justicia|NOUN|2",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "encerrar|VERB|4",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "corriente|NOUN|3",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "aceite|NOUN|2",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "encendido|ADJ|other",
+   "register_shown": "literary",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "piedad|NOUN|3",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "vuelta|NOUN|3",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "laboratorio|NOUN|1",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "poder|VERB|1",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "fijo|ADJ|other",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "negro|ADJ|1",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "igual|ADJ|1",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "revista|NOUN|1",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "resultar|VERB|1",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "diablo|NOUN|1",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "a|ADP|2",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "educación|NOUN|3",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "educación|NOUN|2",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "entero|ADJ|2",
+   "register_shown": "informal-slang",
+   "agree": false,
+   "comment": "Wiktionary 'informal' tag wrong for 'intact' (fixed to neutral)"
+  },
+  {
+   "sense_id": "auténtico|ADJ|1",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "perfectamente|ADV|1",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "entrar|VERB|5",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "humanidad|NOUN|1",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "frente|NOUN|2",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "botón|NOUN|1",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "raro|ADJ|1",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "planear|VERB|2",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "comedia|NOUN|2",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "trasladar|VERB|4",
+   "register_shown": "formal",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "viejo|ADJ|1",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "nieve|NOUN|other",
+   "register_shown": "technical",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "pena|NOUN|other",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "árbol|NOUN|1",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "moneda|NOUN|2",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "arrancar|VERB|4",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "quedar|VERB|2",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "gesto|NOUN|1",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "caminar|VERB|4",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  },
+  {
+   "sense_id": "obra|NOUN|other",
+   "register_shown": "neutral",
+   "agree": true,
+   "comment": ""
+  }
+ ]
+}

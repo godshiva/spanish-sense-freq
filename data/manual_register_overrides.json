@@ -1,0 +1,122 @@
+{
+ "tú|PRON|1": [
+  "neutral",
+  "Familiar 'you'; core vocabulary"
+ ],
+ "usted|PRON|1": [
+  "neutral",
+  "Polite 'you'; core vocabulary"
+ ],
+ "mamá|NOUN|1": [
+  "neutral",
+  "Everyday family word"
+ ],
+ "papá|NOUN|1": [
+  "neutral",
+  "Everyday family word"
+ ],
+ "regresar|VERB|1": [
+  "neutral",
+  "Standard in Mexico"
+ ],
+ "calor|NOUN|1": [
+  "neutral",
+  "Standard sense"
+ ],
+ "agregar|VERB|1": [
+  "neutral",
+  "Standard in Mexico"
+ ],
+ "deber|VERB|2": [
+  "neutral",
+  "Standard sense"
+ ],
+ "deber|VERB|5": [
+  "neutral",
+  "Standard sense"
+ ],
+ "hablar|VERB|3": [
+  "neutral",
+  "Standard sense"
+ ],
+ "tomar|VERB|7": [
+  "neutral",
+  "Standard in Mexico (tomar = drink)"
+ ],
+ "esperar|VERB|4": [
+  "neutral",
+  "Standard sense"
+ ],
+ "loco|ADJ|1": [
+  "neutral",
+  "Everyday word"
+ ],
+ "amar|VERB|1": [
+  "neutral",
+  "Common in Mexico ('te amo')"
+ ],
+ "bello|ADJ|1": [
+  "neutral",
+  "Common in Mexico"
+ ],
+ "trabajar|VERB|2": [
+  "neutral",
+  "Standard sense"
+ ],
+ "tonto|ADJ|2": [
+  "neutral",
+  "Everyday word (silly)"
+ ],
+ "hallar|VERB|1": [
+  "formal",
+  "Mainly written/news ('fue hallado'); speech uses encontrar"
+ ],
+ "hallar|VERB|3": [
+  "formal",
+  "Mainly written; speech uses encontrarse"
+ ],
+ "caballero|NOUN|2": [
+  "archaic",
+  "Historical (knight)"
+ ],
+ "tonto|NOUN|1": [
+  "informal-slang",
+  "Mild insult"
+ ],
+ "idiota|NOUN|1": [
+  "informal-slang",
+  "Insult, not a slur"
+ ],
+ "estúpido|ADJ|1": [
+  "informal-slang",
+  "Insult, not a slur"
+ ],
+ "hijo|NOUN|other": [
+  "vulgar",
+  "'Hijo de perra/puta' insult"
+ ],
+ "indio|NOUN|2": [
+  "offensive-slur",
+  "Used as an insult in Mexico; prefer indígena"
+ ],
+ "impresión|NOUN|1": [
+  "neutral",
+  ""
+ ],
+ "arco|NOUN|4": [
+  "neutral",
+  ""
+ ],
+ "canto|NOUN|6": [
+  "technical",
+  "Geology ('canto rodado')"
+ ],
+ "entero|ADJ|2": [
+  "neutral",
+  "Standard sense (spot-check fix)"
+ ],
+ "ninguno|PRON|other": [
+  "archaic",
+  "'Mal ninguno' is old-fashioned (spot-check fix)"
+ ]
+}

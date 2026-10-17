@@ -1,4 +1,4 @@
-# Spanish Sense Frequency List (v0.1)
+# Spanish Sense Frequency List (v0.2)
 
 **Author:** Luc Taylor · **Repository:** https://github.com/godshiva/spanish-sense-freq · **Data license:** CC BY-SA 4.0 · **Code license:** MIT
 
@@ -20,7 +20,13 @@ This list estimates how often each **meaning (sense)** of the 2,500 most frequen
 | `data/corpus_signal.json` | Weak corpus signal: .mx news vs other contexts |
 | `data/mx_batch_cost_log.json` | Batch jobs and cost for the Mexican flags |
 | `data/batch_cost_log.json` | OpenAI Batch API jobs and actual cost |
-| `scripts/` | Full pipeline, steps 01–05 |
+| `data/manual_corrections.csv` | Every manual change: `sense_id, field, old, new, reason` (1,952 lines) |
+| `data/manual_mx_decisions.json` | Hand-review decisions for the 540 rows the LLM flagged (input to `07`) |
+| `data/manual_register_overrides.json` | Hand overrides of `register` (input to `08 manual`) |
+| `data/register_wiktionary_seed.json` | Register labels taken from Wiktionary sense tags |
+| `data/spotcheck_register.json` | 50-item random check of `register` |
+| `data/register_batch_cost_log.json` | Batch jobs and cost for the register labels |
+| `scripts/` | Full pipeline, steps 01–08 |
 | `DATASHEET.md` | Datasheet for the dataset |
 
 ### Columns
@@ -38,10 +44,13 @@ This list estimates how often each **meaning (sense)** of the 2,500 most frequen
 | `lemma_per_million` | Lemma frequency in the sample corpus, scaled by the share of contexts that really were this lemma |
 | `rank_min`, `rank_max` | Plausible rank band from CI overlap |
 | `rank_safe` | `true` if the sense's lower-bound frequency exceeds the highest frequency of any lemma not in the list (see "Safe cutoff") |
-| `mx_status` | `common` / `uncommon` / `not_used` in Mexico (LLM judgement; see "Mexican usage flags"). Blank for 1 row (`pelear|VERB|6`, where the model returned no answer) |
-| `non_mexican` | `true` if `mx_status` is `uncommon` or `not_used`: a sense an ordinary Mexican speaker would not normally use |
+| `mx_status` | `common` / `uncommon` / `not_used` in Mexico (LLM judgement, then hand-reviewed; see "Mexican usage flags") |
+| `non_mexican` | `true` if the sense is **regional**: not used, or uncommon, in Mexico specifically (Spain-only, South American, or misleading in Mexico like *coger*). It does **not** mark register; literary/archaic/formal senses are `false` and are labelled in `register` |
 | `mx_equivalent` | Usual Mexican equivalent when flagged (e.g. *coger* "to take" → *tomar, agarrar*; *piso* "flat" → *departamento*) |
-| `mx_note` | Short model rationale (≤12 words, Spanish or English) |
+| `mx_note` | Short rationale (model, or manual for corrected rows) |
+| `register` | `neutral` / `informal-slang` / `vulgar` / `offensive-slur` / `literary` / `archaic` / `formal` / `technical`: reasons a sense may be unsuitable to teach as ordinary vocabulary |
+| `register_note` | Short reason (blank when neutral) |
+| `register_source` | `wiktionary` (sense tag), `llm` or `manual` |
 | `method` | `llm` (tagged by the model) or `single-sense` (the lemma had one usable Wiktionary sense, so share = 1 without tagging) |
 | `example_1`, `example_2` | Short snippets (about ±60 characters) with the target marked `[[...]]` |
 
@@ -90,7 +99,7 @@ Most senses are shared across Spanish. The `non_mexican` flag marks senses an or
    - Compared sense hits in .mx news contexts with all other contexts.
    - With 25 contexts per lemma this is dominated by genre differences (.mx contexts are all news). It is published for reference but **not** used in the flags.
 
-**Results:** 5,673 common, 514 uncommon, 26 not_used, 1 missing; `non_mexican = true` for 540 rows.
+**LLM results (before manual review):** 5,673 common, 514 uncommon, 26 not_used, 1 missing; 540 flagged. See "Manual review of the flags" below for the corrected counts.
 
 **Spot-check (50 items):**
 - **Who and how:** the AI agent checked the flags; it is not a native Mexican speaker. The sample was 14 known cases (*coger*, *piso*, *coche*, *carro*, *conducir*, *tío*, *vuestro*, *usted*, …), 18 random flagged rows and 18 random unflagged rows.
@@ -98,10 +107,36 @@ Most senses are shared across Spanish. The `non_mexican` flag marks senses an or
 - **Misses:** *cañón* "projector" was marked not_used, but it is common in Mexico. *conducir* "to drive" was marked common, but *manejar* is the everyday word; this one is borderline because *licencia de conducir* is standard.
 
 **Caveats:**
-- `uncommon` mixes truly regional (Spain-only) senses with merely literary or archaic ones (*hallar*, *rostro*, *tras*). Read `mx_note` to tell them apart.
-- Some judgements follow the example snippet rather than the gloss.
+- The LLM's `uncommon` mixed regional senses with literary/archaic ones. Fixed by hand in v0.2 (below).
+- Unflagged rows were not all re-reviewed. A few regional senses may still be marked common (e.g. *conducir* "to drive", borderline).
 - Senses Wiktionary marks only for Spain (*piso* = flat, *móvil* = phone) are not separate rows; they sit inside `other`.
 - Spain-only lemmas with no general sense (*ordenador*, *zumo*, *vosotros*) are absent from the list entirely.
+
+### Manual review of the flags (v0.2)
+The LLM flags mixed register with region: about 9 in 10 flagged rows were literary, archaic, formal or technical senses, or artefacts of the example snippet, not regional usage. All 540 flagged rows were reviewed by hand. The reviewer was the AI agent, not a native speaker.
+- **Kept as regional: 67.** Examples: *coger* "to take/catch" (not_used: vulgar in Mexico), *piso* "flat" (→ *departamento*), *vuestro*, *planta* "floor of a building" (→ *piso*), *ingresar* "to deposit", *luna* "windshield" (→ *parabrisas*), *suspender* "to fail an exam" (→ *reprobar*), *baja* "sick leave" (→ *incapacidad*), *americana* "jacket" (→ *saco*), *estancia* "ranch" (South America), *policial* (→ *policiaco*).
+- **Unflagged: 473.** These were set to `common`, with `mx_equivalent` cleared. Examples: *hallar*, *rostro*, *cañón* "projector" (common in Mexico), *tomar el pelo* (common), *culo* (vulgar but not regional), *legua*, *ama* "wet nurse".
+- **Filled:** *pelear|VERB|6* "fall out with someone" → `common`.
+- **Not added:** no new words or senses were added. Spain-only senses still sit inside `other`, and Spain-only lemmas remain absent.
+- **Final counts:** 6,147 common, 57 uncommon, 10 not_used; **`non_mexican = true` for 67 rows.** Every change is logged in `manual_corrections.csv`.
+
+## Register / usage labels (v0.2)
+1. **Wiktionary seed.** Sense tags from kaikki.org were mapped as follows: vulgar → `vulgar`; offensive/derogatory/pejorative/slur → `offensive-slur`; archaic/obsolete/dated/historical → `archaic`; literary/poetic → `literary`; colloquial/slang/informal → `informal-slang`; formal → `formal`. This covered 117 numbered senses.
+2. **LLM for the rest.** `gpt-5.6-luna`, Batch API, reasoning low, 25 rows per request.
+   - Numbered senses were judged from lemma + POS + gloss only. `other` rows were judged from their example.
+   - A first pass that also showed examples was discarded: the genre of the snippet leaked into the label (e.g. *verde* "green" marked literary because the example was a poem).
+   - Cost: **US$0.25** in total, including the discarded pass. The cap was $0.50.
+3. **Hand review.** Every non-neutral row in the top 2,000 ranks was reviewed (150 in pass 1, 112 in pass 2), covering all vulgar, offensive, archaic and literary rows. 30 rows were overridden. Examples:
+   - over-broad Wiktionary "informal/colloquial" tags reset to neutral: *tú*, *mamá*, *papá*, *regresar*, *agregar*, *tomar* "to drink"
+   - *amar* and *bello* literary → neutral
+   - *hallar* → formal
+   - mild insults (*tonto*, *idiota*, *estúpido*) → `informal-slang`, not `offensive-slur`
+   - *indio* (as an insult) kept as `offensive-slur`
+4. **Counts (all 6,214):** neutral 5,330 · technical 332 · formal 168 · informal-slang 165 · literary 110 · archaic 64 · offensive-slur 23 · vulgar 22. In the top 2,000: 1,916 neutral.
+5. **Spot-check:** 50 random rows, checked by the agent. Agreement **48/50 (96%)**. The two misses were fixed: *entero* "intact" was wrongly marked informal from a Wiktionary tag, and *mal ninguno* is archaic.
+6. **Caveats:**
+   - `technical` and `formal` beyond rank 2,000 are unreviewed LLM labels. They are generous; e.g. legal senses such as *causa* "lawsuit" are labelled technical.
+   - `register` is one label per sense. A word that is neutral in one sense can be vulgar in another (*huevo*, *polvo*), so filter by `sense_id`, not by lemma.
 
 ## Safe cutoff (how far the ranking is provably complete)
 No sense can be more frequent than its lemma. The most frequent lemma **not** included (with Wiktionary senses) is *campana / oponer / docena* at **24.8 per million**. A sense whose estimated frequency exceeds that cannot be outranked by any sense left out of the list.
@@ -133,10 +168,10 @@ No sense can be more frequent than its lemma. The most frequent lemma **not** in
 
 ## Licenses and sources
 - **Dataset:** CC BY-SA 4.0, because the glosses and sense inventory derive from Wiktionary (CC BY-SA). Attribution: Wiktionary contributors, via kaikki.org / wiktextract (Tatu Ylonen).
-- **OpenSubtitles (OPUS):** provided for research. **No subtitle text is redistributed beyond short (~120-character) example snippets**; only derived counts are released. Do not add longer subtitle excerpts.
+- **OpenSubtitles (OPUS):** provided for research. **No subtitle text is redistributed beyond short (≤142-character) example snippets**; only derived counts are released. Do not add longer subtitle excerpts.
 - **CC-NEWS / Common Crawl:** subject to the Common Crawl Terms of Use. Only counts and short snippets are included.
 - **Project Gutenberg:** public domain in the US.
-- **Tags and Mexican flags:** generated with OpenAI `gpt-5.6-luna`. Total cost US$1.24: $1.06 for sense tags, $0.17 for Mexican flags.
+- **Tags, Mexican flags and register labels:** generated with OpenAI `gpt-5.6-luna`. Total cost US$1.49: $1.06 for sense tags, $0.17 for Mexican flags, $0.25 for register labels.
 - **Code** (`scripts/`): MIT.
 
 ## Reproducing and scaling
@@ -151,6 +186,11 @@ python ../scripts/03_build_inventories.py candidates.json
 python ../scripts/04_tag_batch.py build
 OPENAI_API_KEY=... python ../scripts/04_tag_batch.py run 1600 <CAP_USD>
 python ../scripts/05_analyze.py
+python ../scripts/06_mexico_flags.py build && python ../scripts/06_mexico_flags.py run <CAP_USD> && python ../scripts/06_mexico_flags.py merge
+python ../scripts/07_manual_mx_review.py ../data/manual_mx_decisions.json   # run in a dir holding the CSV
+python ../scripts/08_register.py seed && python ../scripts/08_register.py build
+python ../scripts/08_register.py run <CAP_USD> && python ../scripts/08_register.py merge
+python ../scripts/08_register.py manual ../data/manual_register_overrides.json manual_corrections.csv
 ```
 
 **Scaling to 10,000 lemmas:**
@@ -161,5 +201,5 @@ python ../scripts/05_analyze.py
 
 ## Citation
 ```
-Taylor, Luc (2026). Spanish Sense Frequency List v0.1. https://github.com/godshiva/spanish-sense-freq
+Taylor, Luc (2026). Spanish Sense Frequency List v0.2. https://github.com/godshiva/spanish-sense-freq
 ```

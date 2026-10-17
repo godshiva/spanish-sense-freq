@@ -1,0 +1,50 @@
+{
+ "model": "gpt-5.6-luna",
+ "reasoning_effort": "low",
+ "api": "Batch",
+ "runs": {
+  "v1_example_based_discarded": {
+   "done": 244,
+   "spent": 0.13187370000000007,
+   "chunks": [
+    {
+     "batch": "batch_6ad303dc90d4819093c96799a530096f",
+     "n": 30,
+     "cost": 0.0134143,
+     "status": "completed"
+    },
+    {
+     "batch": "batch_6ad30479f8c08190ae11ef407c173da6",
+     "n": 214,
+     "cost": 0.11845940000000008,
+     "status": "completed"
+    }
+   ]
+  },
+  "v1_retry_discarded": {
+   "done": 9,
+   "spent": 0.0046456,
+   "chunks": [
+    {
+     "batch": "batch_6ad305c0f7a481908b23b63bcc01e07d",
+     "n": 9,
+     "cost": 0.0046456,
+     "status": "completed"
+    }
+   ]
+  },
+  "v2_used": {
+   "done": 244,
+   "spent": 0.11439339999999992,
+   "chunks": [
+    {
+     "batch": "batch_6ad3065b3a2c8190830511a3a4a14c67",
+     "n": 244,
+     "cost": 0.11439339999999992,
+     "status": "completed"
+    }
+   ]
+  }
+ },
+ "total_usd": 0.2509127
+}

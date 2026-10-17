@@ -10,12 +10,46 @@
  "median_rank_band_top100": 60,
  "median_rank_band_all": 3015,
  "mx_status_counts": {
-  "common": 5673,
-  "uncommon": 514,
-  "not_used": 26,
-  "missing": 1
+  "common": 6147,
+  "uncommon": 57,
+  "not_used": 10
  },
- "non_mexican_true": 540,
+ "non_mexican_true": 67,
  "mx_spotcheck_agreement": 0.96,
- "mx_flag_cost_usd": 0.17221100000000003
+ "mx_flag_cost_usd": 0.17221100000000003,
+ "manual_mx_review": {
+  "rows_reviewed": 540,
+  "kept_regional": 67,
+  "unflagged": 473,
+  "filled": 1,
+  "log": "manual_corrections.csv"
+ },
+ "register_counts": {
+  "neutral": 5330,
+  "informal-slang": 165,
+  "formal": 168,
+  "literary": 110,
+  "vulgar": 22,
+  "technical": 332,
+  "archaic": 64,
+  "offensive-slur": 23
+ },
+ "register_source_counts": {
+  "llm": 6085,
+  "manual": 30,
+  "wiktionary": 99
+ },
+ "register_top2000_counts": {
+  "neutral": 1916,
+  "informal-slang": 23,
+  "formal": 28,
+  "literary": 3,
+  "vulgar": 5,
+  "technical": 18,
+  "archaic": 5,
+  "offensive-slur": 2
+ },
+ "register_spotcheck_agreement": 0.96,
+ "register_cost_usd": 0.2509,
+ "manual_corrections_rows": 1952
 }
